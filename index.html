@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tang-Song Soundscape Project</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@300;400;600&family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    
+    <link rel="stylesheet" href="style.css">
+
+    <!-- SVG filter defs for ink-bleed boundary effect -->
+    <svg width="0" height="0" style="position:absolute">
+        <defs>
+            <!-- Tang: warm gold ink bleed -->
+            <filter id="ink-bleed-tang" x="-30%" y="-30%" width="160%" height="160%">
+                <feTurbulence type="turbulence" baseFrequency="0.025 0.018" numOctaves="4" seed="2" result="noise"/>
+                <feDisplacementMap in="SourceGraphic" in2="noise" scale="14" xChannelSelector="R" yChannelSelector="G" result="displaced"/>
+                <feGaussianBlur in="displaced" stdDeviation="3.5" result="blurred"/>
+                <feBlend in="SourceGraphic" in2="blurred" mode="multiply" result="blend"/>
+                <feComposite in="blend" in2="displaced" operator="over"/>
+            </filter>
+            <!-- N. Song: sage green ink bleed -->
+            <filter id="ink-bleed-nsong" x="-30%" y="-30%" width="160%" height="160%">
+                <feTurbulence type="turbulence" baseFrequency="0.022 0.016" numOctaves="4" seed="7" result="noise"/>
+                <feDisplacementMap in="SourceGraphic" in2="noise" scale="12" xChannelSelector="R" yChannelSelector="G" result="displaced"/>
+                <feGaussianBlur in="displaced" stdDeviation="3" result="blurred"/>
+                <feBlend in="SourceGraphic" in2="blurred" mode="multiply" result="blend"/>
+                <feComposite in="blend" in2="displaced" operator="over"/>
+            </filter>
+            <!-- S. Song: slate blue ink bleed -->
+            <filter id="ink-bleed-ssong" x="-30%" y="-30%" width="160%" height="160%">
+                <feTurbulence type="turbulence" baseFrequency="0.02 0.015" numOctaves="4" seed="13" result="noise"/>
+                <feDisplacementMap in="SourceGraphic" in2="noise" scale="16" xChannelSelector="R" yChannelSelector="G" result="displaced"/>
+                <feGaussianBlur in="displaced" stdDeviation="4" result="blurred"/>
+                <feBlend in="SourceGraphic" in2="blurred" mode="multiply" result="blend"/>
+                <feComposite in="blend" in2="displaced" operator="over"/>
+            </filter>
+        </defs>
+    </svg>
+</head>
+<body>
+    <!-- Rice paper texture overlay -->
+    <div id="paper-texture" aria-hidden="true"></div>
+
+    <nav id="main-nav">
+        <div class="nav-title">唐宋聲景 <span class="nav-title-en">Tang-Song Soundscape</span></div>
+        <div class="tab-buttons">
+            <button class="nav-tab active" data-target="tab-map">Map</button>
+            <button class="nav-tab" data-target="tab-poets">Poets</button>
+        </div>
+    </nav>
+
+    <div id="app-container">
+        <div id="tab-map" class="tab-pane active">
+            <aside id="info-panel">
+                <div class="panel-placeholder">
+                    <div class="placeholder-seal">聲</div>
+                    <h2>Tang-Song Soundscape</h2>
+                    <p class="placeholder-sub">Click on ink drops or heatmap regions to view details.</p>
+                </div>
+            </aside>
+
+            <main id="map-container">
+                <div id="dynasty-controls" class="leaflet-bar">
+                    <button id="btn-tang" class="active">唐 Tang</button>
+                    <button id="btn-nsong">北宋 N. Song</button>
+                    <button id="btn-ssong">南宋 S. Song</button>
+                </div>
+                
+                <div id="layer-controls" class="leaflet-bar">
+                    <div class="control-section">
+                        <h4>Spatial Analysis</h4>
+                        <label class="toggle-label"><input type="checkbox" id="toggle-kde" checked>KDE Heatmap</label>
+                    </div>
+                    <div class="control-section" style="border-top: 1px solid rgba(180,165,140,0.3); padding-top: 10px; margin-top: 10px;">
+                        <h4>Sound Category</h4>
+                        <label><input type="checkbox" class="cat-filter" value="animal" checked> <span class="cat-dot cat-animal"></span>Animal</label>
+                        <label><input type="checkbox" class="cat-filter" value="nature" checked> <span class="cat-dot cat-nature"></span>Nature</label>
+                        <label><input type="checkbox" class="cat-filter" value="human" checked> <span class="cat-dot cat-human"></span>Human</label>
+                        <label><input type="checkbox" class="cat-filter" value="instrument" checked> <span class="cat-dot cat-instrument"></span>Instrument</label>
+                        <label><input type="checkbox" class="cat-filter" value="environment" checked> <span class="cat-dot cat-environment"></span>Environment</label>
+                    </div>
+                </div>
+                <div id="map"></div>
+            </main>
+        </div>
+
+        <div id="tab-poets" class="tab-pane">
+            <aside id="poet-sidebar">
+                <h2>Poets Graph</h2>
+                <p class="poet-instruction">选择1-2位诗人比较，或点击查看词句:)<br><span style="opacity:0.7">Select 1-2 poets to compare, or click to view the sound phrases. </span></p>
+                <div id="poet-list-container">
+                </div>
+            </aside>
+            <main id="radar-container">
+                <div id="radar-legend"></div>
+                <div id="radar-chart"></div>
+                <div id="wordcloud-container"></div>
+            </main>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
