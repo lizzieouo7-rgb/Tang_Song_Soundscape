@@ -1,0 +1,645 @@
+﻿sound_id,poem_id,title,author,original_phrase,original_phrase_en,sound_source_raw,sound_source_en,context_window,sound_category,location_raw,location_en,location_type,perception_modality,perception_reality,is_negated,extraction_method,sound_confidence_score,lng,lat,certainty,dynasty
+snd_2c6e287c,tang_在岳咏蝉_骆_0001,在狱咏蝉,骆宾王,蝉声唱,cicada's song,蝉,cicada,西陆蝉声唱,Animal,西陆,autumn (west direction),implied,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_aaa8f2e3,tang_在岳咏蝉_骆_0001,在狱咏蝉,骆宾王,响易沈,sound easily sinks,蝉声,cicada sound,风多响易沈,Animal,,,,implied,real,FALSE,LLM,0.8,108.946306,34.347436,T,Tang
+snd_0761c00b,tang_鼓吹曲辞 将进酒_李_0004,鼓吹曲辞 将进酒,李白,与君歌一曲,sing a song for you,歌,song,与君歌一曲，请君为我侧耳听。,Human,,,,implied,real,FALSE,LLM,0.9,113.014821,34.523694,T,Tang
+snd_2c5c061f,tang_鼓吹曲辞 将进酒_李_0004,鼓吹曲辞 将进酒,李白,侧耳听,listen attentively,听,listening,请君为我侧耳听。,Human,,,,direct,real,FALSE,LLM,0.8,113.014821,34.523694,T,Tang
+snd_80ed27fd,tang_鼓吹曲辞 将进酒_李_0004,鼓吹曲辞 将进酒,李白,钟鼓,bells and drums,钟鼓,bells and drums,钟鼓馔玉不足贵，但愿长醉不复醒。,Instrument,,,,implied,real,FALSE,LLM,0.9,113.014821,34.523694,T,Tang
+snd_488ec39a,tang_横吹曲辞 关山月_李_0007,横吹曲辞 关山月,李白,叹息,sigh,戍客,frontier soldiers,高楼当此夜，叹息未应闲。,Human,高楼,high tower,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_7a2aa092,tang_蝉_李_0011,蝉,李商隐,恨费声,resentfully waste sound,蝉,cicada,徒劳恨费声,Animal,,,,implied,real,FALSE,LLM,0.9,111.196716,30.3092385,T,Tang
+snd_9491d7ca,tang_蝉_李_0011,蝉,李商隐,疎欲断,sparse and about to break off,蝉声,cicada sound,五更疎欲断,Animal,五更,the fifth watch (dawn),implied,implied,real,FALSE,LLM,0.85,111.196716,30.3092385,T,Tang
+snd_73ae51af,tang_蝉_李_0011,蝉,李商隐,最相警,most mutually alerting,蝉声,cicada sound,烦君最相警,Animal,,,,direct,real,FALSE,LLM,0.8,111.196716,30.3092385,T,Tang
+snd_0a7ca36f,tang_夜雨寄北_李_0013,夜雨寄北,李商隐,话,talk about,人,people,却话巴山夜雨时,Human,西窗,west window,micro_space,implied,imagination,FALSE,LLM,0.8,105.101082,31.101709,T,Tang
+snd_3d831a00,tang_韩碑_李_0014,韩碑,李商隐,愿书万本诵万过,Wish to copy ten thousand copies and recite ten thousand times,诵,recite,愿书万本诵万过,Human,,,,implied,imagination,FALSE,LLM,0.8,108.228551,34.169587,T,Tang
+snd_55ea409e,tang_风雨_李_0015,风雨,李商隐,管弦,pipes and strings,管弦,musical instruments,青楼自管弦,Instrument,青楼,green mansions (brothel),micro_space,implied,real,FALSE,LLM,0.9,114.1827065,29.8976845,T,Tang
+snd_5b708d34,tang_隋宫_李_0017,隋宫,李商隐,有暮鸦,have evening crows,暮鸦,evening crows,终古垂杨有暮鸦,Animal,垂杨,drooping willows,micro_space,implied,real,FALSE,LLM,0.9,119.419107,32.39986,T,Tang
+snd_8dbd15b4,tang_无题二首 一_李_0019,无题二首 一,李商隐,听鼓,hear the drum,鼓,drum,嗟余听鼓应官去,Environment,画楼西畔桂堂东,"west of the painted bower, east of the cassia hall",micro_space,direct,real,FALSE,LLM,0.95,113.774691,34.223034,T,Tang
+snd_1f770e09,tang_无题四首 一_李_0020,无题四首 一,李商隐,五更钟,dawn bell,钟,bell,月斜楼上五更钟,Environment,楼上,upstairs,micro_space,direct,real,FALSE,LLM,0.9,,,,Tang
+snd_ba98c52a,tang_无题四首 一_李_0020,无题四首 一,李商隐,啼难唤,crying hard to call,啼,crying,梦为远别啼难唤,Human,,,,implied,dream,FALSE,LLM,0.8,,,,Tang
+snd_437703a5,tang_无题四首 二_李_0021,无题四首 二,李商隐,飒飒东风细雨来,soughing east wind with fine rain coming,东风,east wind,飒飒东风细雨来,Nature,芙蓉塘外,outside the lotus pond,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_3e11347a,tang_无题四首 二_李_0021,无题四首 二,李商隐,有轻雷,there is light thunder,轻雷,light thunder,芙蓉塘外有轻雷,Nature,芙蓉塘外,outside the lotus pond,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_f16cfdda,tang_无题_李_0025,无题,李商隐,夜吟,night recitation,吟,recitation,夜吟应觉月光寒,Human,,,,implied,imagination,FALSE,LLM,0.8,109.4378865,32.947773,T,Tang
+snd_d071109e,tang_瑶池_李_0026,瑶池,李商隐,歌声,singing voice,歌声,singing voice,黄竹歌声动地哀,Human,黄竹,Yellow Bamboo,toponym,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_6c0d7dfc,tang_无题二首 一_李_0029,无题二首 一,李商隐,车走雷声,carriage moves like thunder sound,车,carriage,车走雷声语未通,Environment,,,,implied,real,FALSE,LLM,0.9,113.774691,34.223034,T,Tang
+snd_cfe8811b,tang_北青萝_李_0033,北青萝,李商隐,独敲初夜磬,alone striking the evening chime stone,磬,chime stone,独敲初夜磬,Instrument,茅屋,thatched hut,micro_space,implied,real,FALSE,LLM,0.9,112.27,35.14,T,Tang
+snd_3a6b67b7,tang_章台夜思_韦_0035,章台夜思,韦庄,清瑟怨遥夜,clear zither resents the distant night,瑟,zither,清瑟怨遥夜，遶弦风雨哀。,Instrument,,,,implied,real,FALSE,LLM,0.9,112.625,30.242,T,Tang
+snd_8cf8a2a2,tang_章台夜思_韦_0035,章台夜思,韦庄,遶弦风雨哀,around the strings wind and rain mourn,风雨,wind and rain,清瑟怨遥夜，遶弦风雨哀。,Nature,,,,implied,real,FALSE,LLM,0.85,112.625,30.242,T,Tang
+snd_3b4ca4b5,tang_宫词_薛_0038,宫词,薛逢,水滴铜龙昼漏长,"water drips from the bronze dragon, the day clock is long",水滴铜龙,water dripping on bronze dragon,锁衔金兽连环冷，水滴铜龙昼漏长。,Environment,十二楼中,in the twelve towers,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_edcb4090,tang_灞上秋居_马_0040,灞上秋居,马戴,白露滴,white dew drips,白露,white dew,空园白露滴,Nature,空园,empty garden,micro_space,implied,real,FALSE,LLM,0.7,109.0809,34.315,T,Tang
+snd_11cddde9,tang_春怨_金_0043,春怨,金昌绪,打起黄莺儿,drive away the oriole,黄莺儿,oriole,打起黄莺儿,Animal,,,,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_29b69e8e,tang_春怨_金_0043,春怨,金昌绪,莫教枝上啼,don't let it sing on the branch,黄莺儿,oriole,莫教枝上啼,Animal,枝上,on the branch,micro_space,implied,real,FALSE,LLM,0.95,,,,Tang
+snd_a0761456,tang_春怨_金_0043,春怨,金昌绪,啼时惊妾梦,its singing startles my dream,黄莺儿,oriole,啼时惊妾梦,Animal,,,,direct,dream,FALSE,LLM,0.9,,,,Tang
+snd_f95e7ea0,tang_杂诗 十三_无_0049,杂诗 十三,无名氏,杜鹃休向耳边啼,"cuckoo, stop crying by my ear",杜鹃,cuckoo,杜鹃休向耳边啼,Animal,耳边,by the ear,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_da0464a1,tang_古意呈补阙乔知之_沈_0051,古意呈补阙乔知之,沈佺期,寒砧催木叶,cold anvil urges the falling leaves,砧,anvil (for washing clothes),九月寒砧催木叶,Environment,,,,implied,real,FALSE,LLM,0.9,112.460033,34.624376,T,Tang
+snd_dcc3da2b,tang_青谿_王_0056,青谿,王维,声喧乱石中,sound clamors among the rocks,水,water,声喧乱石中,Nature,乱石中,among the rocks,micro_space,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_59698ec6,tang_渭川田家_王_0057,渭川田家,王维,雉雊,pheasant calls,雉,pheasant,雉雊麦苗秀,Animal,麦苗,wheat fields,micro_space,implied,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_827ce168,tang_渭川田家_王_0057,渭川田家,王维,语依依,talk reluctantly,田夫,farmers,田夫荷锄至，相见语依依,Human,田,fields,micro_space,implied,real,FALSE,LLM,0.85,108.94,34.34,T,Tang
+snd_00a1574d,tang_渭川田家_王_0057,渭川田家,王维,吟式微,chant 'Decline',诗人,poet,怅然吟式微,Human,,,,implied,real,FALSE,LLM,0.8,108.94,34.34,T,Tang
+snd_b537d108,tang_老将行_王_0059,老将行,王维,汉兵奋迅如霹雳,Han soldiers advance swiftly like thunderbolt,霹雳,thunderbolt,汉兵奋迅如霹雳,Nature,,,,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_5764924e,tang_老将行_王_0059,老将行,王维,耻令越甲鸣吴军,Ashamed to let the Yue armor clatter in Wu army,鸣,clatter,耻令越甲鸣吴军,Environment,,,,implied,imagination,FALSE,LLM,0.7,108.946306,34.347436,T,Tang
+snd_ea65d44e,tang_桃源行_王_0060,桃源行,王维,鸡犬喧,chickens and dogs clamor,鸡犬,chickens and dogs,日出云中鸡犬喧,Animal,云中,in the clouds,micro_space,direct,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_388cf3d3,tang_桃源行_王_0060,桃源行,王维,惊闻,startled to hear,俗客,mundane visitors,惊闻俗客争来集,Human,,,,direct,real,FALSE,LLM,0.8,108.946306,34.347436,T,Tang
+snd_934b77c0,tang_桃源行_王_0060,桃源行,王维,争来集,compete to gather,俗客,mundane visitors,惊闻俗客争来集,Human,,,,implied,real,FALSE,LLM,0.6,108.946306,34.347436,T,Tang
+snd_d6d5d9f8,tang_洛阳女儿行_王_0061,洛阳女儿行,王维,理曲,practice music,曲,music,戏罢曾无理曲时,Instrument,,,,implied,real,TRUE,LLM,0.6,112.454,34.6197,T,Tang
+snd_7f784aab,tang_辋川闲居赠裴秀才迪_王_0062,辋川闲居赠裴秀才迪,王维,听暮蝉,listen to evening cicadas,暮蝉,evening cicadas,临风听暮蝉,Animal,柴门外,outside the wicker gate,micro_space,direct,real,FALSE,LLM,0.95,109.3637,34.0538,T,Tang
+snd_75a1bfb5,tang_辋川闲居赠裴秀才迪_王_0062,辋川闲居赠裴秀才迪,王维,狂歌,wildly singing,接舆,Jieyu (a madman),狂歌五柳前,Human,五柳前,in front of the Five Willows,micro_space,implied,real,FALSE,LLM,0.85,109.3637,34.0538,T,Tang
+snd_d6677a67,tang_酬张少府_王_0063,酬张少府,王维,弹琴,play the zither,琴,zither,山月照弹琴,Instrument,山,mountain,micro_space,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_be24eaf2,tang_酬张少府_王_0063,酬张少府,王维,渔歌,fisherman's song,渔歌,fisherman's song,渔歌入浦深,Human,浦,creek,micro_space,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_3d7d26e0,tang_送梓州李使君_王_0064,送梓州李使君,王维,一夜雨,night rain,雨,rain,山中一夜雨,Nature,山中,in the mountains,micro_space,implied,real,FALSE,LLM,0.8,105.096,31.0943,T,Tang
+snd_6d8ce5af,tang_山石_韩_0066,山石,韩愈,百虫绝,all insects cease,百虫,insects,夜深静卧百虫绝,Animal,寺,temple,micro_space,implied,real,TRUE,LLM,0.9,111.630105,34.5751885,T,Tang
+snd_4ee1eaa6,tang_山石_韩_0066,山石,韩愈,水声激激,water sounds gurgling,水,water,当流赤足蹋涧石，水声激激风吹衣,Nature,涧,mountain stream,micro_space,direct,real,FALSE,LLM,1,111.630105,34.5751885,T,Tang
+snd_aee51a1c,tang_八月十五夜赠张功曹_韩_0067,八月十五夜赠张功曹,韩愈,声影绝,sounds and shadows cease,声,sound,沙平水息声影绝,Environment,沙平水息,"flat sand, still water",micro_space,direct,real,TRUE,LLM,0.9,113.021311,25.776711,T,Tang
+snd_c6c1418a,tang_八月十五夜赠张功曹_韩_0067,八月十五夜赠张功曹,韩愈,君当歌,you should sing,君,you (the addressee),一桮相属君当歌,Human,,,,implied,imagination,FALSE,LLM,0.8,113.021311,25.776711,T,Tang
+snd_cbee8cb3,tang_八月十五夜赠张功曹_韩_0067,八月十五夜赠张功曹,韩愈,君歌声酸,your song's sound is sour,君歌,your song,君歌声酸辞且苦,Human,,,,direct,real,FALSE,LLM,0.9,113.021311,25.776711,T,Tang
+snd_1794fba1,tang_八月十五夜赠张功曹_韩_0067,八月十五夜赠张功曹,韩愈,不能听终,cannot listen to the end,君歌,your song,不能听终泪如雨,Human,,,,direct,real,TRUE,LLM,0.9,113.021311,25.776711,T,Tang
+snd_37356729,tang_八月十五夜赠张功曹_韩_0067,八月十五夜赠张功曹,韩愈,搥大鼓,beat the big drum,大鼓,big drum,昨者州前搥大鼓,Instrument,州前,in front of the prefecture,micro_space,direct,memory,FALSE,LLM,0.9,113.021311,25.776711,T,Tang
+snd_b120fe93,tang_八月十五夜赠张功曹_韩_0067,八月十五夜赠张功曹,韩愈,听我歌,listen to my song,我歌,my song,君歌且休听我歌,Human,,,,implied,real,FALSE,LLM,0.8,113.021311,25.776711,T,Tang
+snd_22722b1f,tang_谒衡岳庙遂宿岳寺题门楼_韩_0068,谒衡岳庙遂宿岳寺题门楼,韩愈,猿鸣钟动,"monkeys cry, bells ring",猿鸣钟动,monkeys crying and bells ringing,猿鸣钟动不知曙,Animal,佛寺,Buddhist temple,micro_space,direct,real,FALSE,LLM,0.95,112.6898,27.2969,T,Tang
+snd_6d1f89ce,tang_春宫怨_杜_0070,春宫怨,杜荀鹤,鸟声碎,birds' voices are fragmented,鸟,birds,风暖鸟声碎,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_817f23ce,tang_近试上张籍水部_朱_0071,近试上张籍水部,朱庆余,低声问,ask in a low voice,新娘,bride,妆罢低声问夫壻,Human,洞房,bridal chamber,micro_space,implied,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_47cd532f,tang_泊秦淮_杜_0074,泊秦淮,杜牧,犹唱后庭花,still singing the Rear Courtyard Flowers,商女,singing girls,商女不知亡国恨，隔江犹唱后庭花。,Human,隔江,across the river,micro_space,implied,real,FALSE,LLM,0.95,118.7947,32.0391,T,Tang
+snd_95a28abe,tang_旅宿_杜_0080,旅宿,杜牧,断鴈警愁眠,broken wild geese alarm the sorrowful sleep,断鴈,broken wild geese,断鴈警愁眠,Animal,,,,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_07626265,tang_早秋三首 一_许_0081,早秋三首 一,许浑,泛清瑟,playing the clear zither,瑟,zither,遥夜泛清瑟,Instrument,,,,implied,real,FALSE,LLM,0.9,119.44,32.18,T,Tang
+snd_868ecb3f,tang_秋日赴阙题潼关驿楼_许_0082,秋日赴阙题潼关驿楼,许浑,红叶晚萧萧,red leaves rustle in the evening,红叶,red leaves,红叶晚萧萧,Nature,长亭,long pavilion,micro_space,direct,real,FALSE,LLM,0.9,110.2473,34.5443,T,Tang
+snd_8232824e,tang_颂古三十二首  其二三_释_0085,颂古三十二首  其二三,释明辩,打起黄莺儿,beat up the oriole,黄莺儿,oriole,打起黄莺儿,Animal,枝上,on the branch,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_541c98d2,tang_颂古三十二首  其二三_释_0085,颂古三十二首  其二三,释明辩,莫教枝上啼,don't let it sing on the branch,黄莺儿,oriole,莫教枝上啼,Animal,枝上,on the branch,micro_space,implied,real,FALSE,LLM,0.95,,,,Tang
+snd_b19ebe26,tang_后宫词_白_0086,后宫词,白居易,按歌声,sound of singing accompanied by music,歌声,singing voice,夜深前殿按歌声,Human,前殿,front hall,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_acb9f4a0,tang_喜见外弟又言别_李_0087,喜见外弟又言别,李益,语罢暮天钟,"after speaking, the evening bell",钟,bell,别来沧海事，语罢暮天钟。,Environment,暮天,evening sky,micro_space,implied,real,FALSE,LLM,0.9,112.45,34.62,F,Tang
+snd_641cfe52,tang_听筝_李_0090,听筝,李端,鸣筝,sounding zither,筝,zither,鸣筝金粟柱,Instrument,玉房前,in front of the jade chamber,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_d7079c7b,tang_听筝_李_0090,听筝,李端,误拂弦,mistakenly pluck the strings,弦,strings,时时误拂弦,Instrument,,,,implied,real,FALSE,LLM,0.8,,,,Tang
+snd_4c0e5986,tang_听弹琴_刘_0094,听弹琴,刘长卿,泠泠七丝上,clear and cold sound from the seven strings,七丝,seven strings (of a zither),泠泠七丝上,Instrument,,,,direct,real,FALSE,LLM,0.9,120.58,31.3,T,Tang
+snd_9b633d9a,tang_听弹琴_刘_0094,听弹琴,刘长卿,静听松风寒,quietly listening to the cold wind in the pines,松风,wind in the pines,静听松风寒,Nature,松,pines,micro_space,direct,real,FALSE,LLM,0.95,120.58,31.3,T,Tang
+snd_0a7ac0bc,tang_听弹琴_刘_0094,听弹琴,刘长卿,今人多不弹,nowadays people mostly do not play,弹,play (the zither),今人多不弹,Instrument,,,,implied,real,TRUE,LLM,0.85,120.58,31.3,T,Tang
+snd_a48f5a9f,tang_秋日登吴公台上寺远眺寺即陈将吴明彻战场_刘_0098,秋日登吴公台上寺远眺寺即陈将吴明彻战场,刘长卿,寒磬满空林,cold chime fills the empty forest,磬,chime (Buddhist stone or metal percussion),夕阳依旧垒，寒磬满空林。,Instrument,空林,empty forest,micro_space,implied,real,FALSE,LLM,0.9,119.4,32.428,T,Tang
+snd_4c3c3b6d,tang_江州重别薛六柳八二员外_刘_0101,江州重别薛六柳八二员外,刘长卿,学醉歌,learn drunken songs,歌,song,世事空知学醉歌,Human,,,,implied,imagination,FALSE,LLM,0.8,115.9944,29.7213,T,Tang
+snd_ef49516f,tang_长沙过贾谊宅_刘_0102,长沙过贾谊宅,刘长卿,寂寂,"silent, silent",江山,rivers and mountains,寂寂江山摇落处,Environment,江山摇落处,where the rivers and mountains are desolate,implied,implied,real,FALSE,LLM,0.8,112.9663,28.196,T,Tang
+snd_ea26f209,tang_自夏口至鹦鹉洲夕望岳阳寄源中丞_刘_0103,自夏口至鹦鹉洲夕望岳阳寄源中丞,刘长卿,寒吹角,cold blowing of horn,角,horn,孤城背岭寒吹角,Instrument,孤城,lonely city,micro_space,implied,real,FALSE,LLM,0.9,114.2847,30.5719,T,Tang
+snd_60f32972,tang_赋得_刘_0104,赋得,刘长卿,莺啼燕语,orioles chirping and swallows twittering,莺燕,orioles and swallows,莺啼燕语报新年,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_1da507c1,tang_凉州词二首 一_王_0106,凉州词二首 一,王翰,琵琶马上催,lute on horseback urges,琵琶,lute (pipa),欲饮琵琶马上催,Instrument,马上,on horseback,micro_space,implied,real,FALSE,LLM,0.9,102.6238,37.9278,T,Tang
+snd_5c995276,tang_夏日南亭怀辛大_孟_0108,夏日南亭怀辛大,孟浩然,竹露滴清响,bamboo dew drips with clear sound,竹露,bamboo dew,竹露滴清响,Nature,南亭,south pavilion,implied,direct,real,FALSE,LLM,0.9,112.1,31.99,T,Tang
+snd_c5db1ddb,tang_夏日南亭怀辛大_孟_0108,夏日南亭怀辛大,孟浩然,欲取鸣琴弹,want to take the sounding zither and play,鸣琴,sounding zither,欲取鸣琴弹,Instrument,南亭,south pavilion,implied,implied,imagination,FALSE,LLM,0.8,112.1,31.99,T,Tang
+snd_3ae8f47b,tang_宿业师山房期丁大不至_孟_0109,宿业师山房期丁大不至,孟浩然,风泉满清听,wind and springs fill the clear hearing,风泉,wind and springs,松月生夜凉，风泉满清听。,Nature,山房,mountain retreat,implied,direct,real,FALSE,LLM,0.95,112.1,31.99,F,Tang
+snd_60a393a2,tang_宿业师山房期丁大不至_孟_0109,宿业师山房期丁大不至,孟浩然,孤琴候萝迳,lonely zither awaits on the vine path,琴,zither,之子期宿来，孤琴候萝迳。,Instrument,萝迳,vine path,micro_space,implied,imagination,FALSE,LLM,0.7,112.1,31.99,F,Tang
+snd_963f7ae3,tang_夜归鹿门山歌_孟_0110,夜归鹿门山歌,孟浩然,钟鸣,bell rings,钟,bell,山寺钟鸣昼已昏,Environment,山寺,mountain temple,micro_space,direct,real,FALSE,LLM,1,112.15,31.91,T,Tang
+snd_a833de47,tang_夜归鹿门山歌_孟_0110,夜归鹿门山歌,孟浩然,寂寥,quiet and desolate,岩扉松径,stone door and pine path,岩扉松径长寂寥,Environment,岩扉松径,stone door and pine path,micro_space,implied,real,TRUE,LLM,0.9,112.15,31.91,T,Tang
+snd_00bcf2aa,tang_秦中感秋寄远上人_孟_0112,秦中感秋寄远上人,孟浩然,闻蝉,hear cicadas,蝉,cicadas,闻蝉但益悲,Animal,,,,direct,real,FALSE,LLM,0.95,108.94,34.34,T,Tang
+snd_3ab2752e,tang_宿桐庐江寄广陵旧游_孟_0113,宿桐庐江寄广陵旧游,孟浩然,闻猿愁,hear the sorrowful monkeys,猿,monkeys,山暝闻猿愁,Animal,山,mountain,micro_space,direct,real,FALSE,LLM,0.95,119.67,29.79,T,Tang
+snd_6fe83798,tang_宿桐庐江寄广陵旧游_孟_0113,宿桐庐江寄广陵旧游,孟浩然,风鸣两岸叶,wind whistles through leaves on both banks,风,wind,风鸣两岸叶,Nature,两岸,both banks,micro_space,direct,real,FALSE,LLM,0.95,119.67,29.79,T,Tang
+snd_aa2cfb78,tang_春晓_孟_0121,春晓,孟浩然,闻啼鸟,hear birds singing,啼鸟,singing birds,处处闻啼鸟,Animal,处处,everywhere,micro_space,direct,real,FALSE,LLM,1,112.28,31.94,T,Tang
+snd_54528dd6,tang_春晓_孟_0121,春晓,孟浩然,风雨声,sound of wind and rain,风雨,wind and rain,夜来风雨声,Nature,,,,implied,memory,FALSE,LLM,1,112.28,31.94,T,Tang
+snd_fc87ba9a,tang_蜀道难_李_0123,蜀道难,李白,以手抚膺坐长叹,"sitting with a long sigh, patting chest with hand",长叹,long sigh,扪参历井仰胁息，以手抚膺坐长叹。,Human,,,,direct,real,FALSE,LLM,0.9,111.0979875,33.653807,T,Tang
+snd_5ba9dcb1,tang_蜀道难_李_0123,蜀道难,李白,悲鸟号古木,sad birds cry on ancient trees,悲鸟,sad birds,但见悲鸟号古木，雄飞雌从绕林间。,Animal,古木,ancient trees,micro_space,direct,real,FALSE,LLM,0.95,111.0979875,33.653807,T,Tang
+snd_5ac048ea,tang_蜀道难_李_0123,蜀道难,李白,飞湍瀑流争喧豗,flying rapids and waterfalls compete in roaring,飞湍瀑流,flying rapids and waterfalls,飞湍瀑流争喧豗，砅厓转石万壑雷。,Nature,,,,direct,real,FALSE,LLM,0.9,111.0979875,33.653807,T,Tang
+snd_798ba5e4,tang_蜀道难_李_0123,蜀道难,李白,砅厓转石万壑雷,"water hitting cliffs, rolling stones, thunder in ten thousand valleys",砅厓转石,water hitting cliffs and rolling stones,飞湍瀑流争喧豗，砅厓转石万壑雷。,Nature,万壑,ten thousand valleys,micro_space,direct,real,FALSE,LLM,0.9,111.0979875,33.653807,T,Tang
+snd_607e788b,tang_蜀道难_李_0123,蜀道难,李白,侧身西望长咨嗟,turn sideways to look west and give a long sigh,长咨嗟,long sigh,蜀道之难难于上青天，侧身西望长咨嗟。,Human,,,,direct,real,FALSE,LLM,0.9,111.0979875,33.653807,T,Tang
+snd_5a636f88,tang_将进酒_李_0124,将进酒,李白,与君歌一曲,sing a song for you,歌,song,与君歌一曲，请君为我侧耳听。,Human,,,,implied,real,FALSE,LLM,0.9,113.014821,34.523694,T,Tang
+snd_79393a72,tang_将进酒_李_0124,将进酒,李白,侧耳听,listen attentively,听,listening,与君歌一曲，请君为我侧耳听。,Human,,,,direct,real,FALSE,LLM,0.95,113.014821,34.523694,T,Tang
+snd_9c67093a,tang_将进酒_李_0124,将进酒,李白,钟鼓,bells and drums,钟鼓,bells and drums,钟鼓馔玉不足贵，但愿长醉不愿醒。,Instrument,,,,implied,real,FALSE,LLM,0.85,113.014821,34.523694,T,Tang
+snd_f49644ff,tang_春宫怨_杜_0125,春宫怨,杜荀鹤,鸟声碎,birds' voices are fragmented,鸟,birds,风暖鸟声碎,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_0335a4f9,tang_客夜与故人偶集_戴_0126,客夜与故人偶集,戴叔伦,风枝惊暗鹊,wind startles dark magpies on branches,鹊,magpies,风枝惊暗鹊,Animal,枝,branches,micro_space,implied,real,FALSE,LLM,0.8,,,,Tang
+snd_ff484ac8,tang_客夜与故人偶集_戴_0126,客夜与故人偶集,戴叔伦,露草覆寒蛩,dew-covered grass hides cold crickets,蛩,crickets,露草覆寒蛩,Animal,露草,dew-covered grass,micro_space,implied,real,FALSE,LLM,0.7,,,,Tang
+snd_e9b7faa2,tang_客夜与故人偶集_戴_0126,客夜与故人偶集,戴叔伦,相留畏晓钟,"reluctant to part, fearing the dawn bell",晓钟,dawn bell,相留畏晓钟,Environment,,,,implied,imagination,FALSE,LLM,0.9,,,,Tang
+snd_04d285a4,tang_晚次鄂州_卢_0131,晚次鄂州,卢纶,舟人夜语,boatmen talking at night,舟人,boatmen,舟人夜语觉潮生,Human,舟,boat,micro_space,direct,real,FALSE,LLM,0.95,114.8948,30.3919,T,Tang
+snd_1f049063,tang_晚次鄂州_卢_0131,晚次鄂州,卢纶,鼓鼙声,sound of war drums,鼓鼙,war drums,更堪江上鼓鼙声,Instrument,江上,on the river,micro_space,direct,real,FALSE,LLM,0.95,114.8948,30.3919,T,Tang
+snd_649b3fbe,tang_过香积寺_王_0133,过香积寺,王维,泉声咽危石,spring sound chokes on dangerous rocks,泉,spring,泉声咽危石,Nature,危石,dangerous rocks,micro_space,direct,real,FALSE,LLM,0.95,108.8925,34.122,T,Tang
+snd_84f38760,tang_过香积寺_王_0133,过香积寺,王维,深山何处钟,deep mountains where bell,钟,bell,深山何处钟,Environment,深山,deep mountains,micro_space,inferred,real,FALSE,LLM,0.9,108.8925,34.122,T,Tang
+snd_ed95ffa0,tang_山居秋暝_王_0134,山居秋暝,王维,竹喧,bamboo rustling,竹,bamboo,竹喧归浣女,Nature,竹,bamboo grove,micro_space,implied,real,FALSE,LLM,0.9,109.37,34.13,T,Tang
+snd_2f1ec3ce,tang_山居秋暝_王_0134,山居秋暝,王维,清泉石上流,clear spring flows over stones,清泉,clear spring,清泉石上流,Nature,石上,on the stones,micro_space,implied,real,FALSE,LLM,0.8,109.37,34.13,T,Tang
+snd_c7489d58,tang_酬郭给事_王_0141,酬郭给事,王维,疎钟,sparse bell,钟,bell,禁里疎钟官舍晚,Environment,禁里,within the palace,micro_space,direct,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_a37b0bf3,tang_酬郭给事_王_0141,酬郭给事,王维,啼鸟,singing birds,鸟,birds,省中啼鸟吏人稀,Animal,省中,within the department,micro_space,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_8213094d,tang_酬郭给事_王_0141,酬郭给事,王维,摇玉佩,shaking jade pendants,玉佩,jade pendants,晨摇玉佩趋金殿,Environment,金殿,golden hall,micro_space,implied,real,FALSE,LLM,0.85,108.946306,34.347436,T,Tang
+snd_0a4df807,tang_积雨辋川庄作_王_0142,积雨辋川庄作,王维,啭黄鹂,orioles warbling,黄鹂,orioles,阴阴夏木啭黄鹂,Animal,夏木,summer trees,micro_space,direct,real,FALSE,LLM,0.95,109.3637,34.0538,T,Tang
+snd_39fa8d96,tang_辋川集 竹里馆_王_0144,辋川集 竹里馆,王维,弹琴,play the zither,琴,zither,弹琴复长啸,Instrument,幽篁里,in the deep bamboo grove,micro_space,implied,real,FALSE,LLM,0.95,109.3637,34.0538,T,Tang
+snd_d92264c0,tang_辋川集 竹里馆_王_0144,辋川集 竹里馆,王维,长啸,long whistle,啸,whistle,弹琴复长啸,Human,幽篁里,in the deep bamboo grove,micro_space,implied,real,FALSE,LLM,0.95,109.3637,34.0538,T,Tang
+snd_0bb67132,tang_寻西山隐者不遇_丘_0151,寻西山隐者不遇,丘为,松声,pine sound,松,pine trees,松声晚牕里,Nature,晚牕里,in the evening window,micro_space,direct,real,FALSE,LLM,0.95,114.89,30.4,T,Tang
+snd_cf9d6b4a,tang_望蓟门_祖_0156,望蓟门,祖咏,箫鼓喧喧,flutes and drums noisy,箫鼓,flutes and drums,箫鼓喧喧汉将营,Instrument,汉将营,Han general's camp,micro_space,direct,real,FALSE,LLM,0.95,116.3551,39.9685,T,Tang
+snd_3f7d5cbc,tang_古从军行_李_0158,古从军行,李颀,刁斗,watchman's rattle,刁斗,watchman's rattle,行人刁斗风沙暗,Environment,风沙暗,dark wind and sand,implied,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_e54cfa8b,tang_古从军行_李_0158,古从军行,李颀,琵琶幽怨多,lute with much melancholy,琵琶,lute,公主琵琶幽怨多,Instrument,,,,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_69d30b11,tang_古从军行_李_0158,古从军行,李颀,胡鴈哀鸣,wild geese cry mournfully,胡鴈,wild geese,胡鴈哀鸣夜夜飞,Animal,夜夜飞,fly every night,implied,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_3ae3940f,tang_琴歌_李_0159,琴歌,李颀,初弹渌水后楚妃,"first play Green Water, then Chu Concubine",弹,play (zither),初弹渌水后楚妃,Instrument,,,,implied,real,FALSE,LLM,0.85,108.94,34.34,T,Tang
+snd_ce6b0f40,tang_琴歌_李_0159,琴歌,李颀,一声已动物皆静,"one sound already moves, all things become still",一声,one sound (of the zither),一声已动物皆静,Instrument,,,,direct,real,FALSE,LLM,0.95,108.94,34.34,T,Tang
+snd_983976d5,tang_琴歌_李_0159,琴歌,李颀,四座无言,the four seats have no words,无言,no words,四座无言星欲稀,Human,四座,the four seats (the audience),micro_space,direct,real,TRUE,LLM,0.9,108.94,34.34,T,Tang
+snd_38145c1f,tang_送陈章甫_李_0160,送陈章甫,李颀,嘶马,neighing horse,马,horse,嘶马出门思旧乡,Animal,出门,outside the door,micro_space,implied,real,FALSE,LLM,0.95,112.45,34.62,T,Tang
+snd_a87c300f,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,吹觱篥,playing the bili (reed pipe),觱篥,bili (reed pipe),听安万善吹觱篥歌,Instrument,,,,direct,real,FALSE,LLM,1,108.94,34.34,T,Tang
+snd_c0f1a3b8,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,傍邻闻者多叹息,neighbors who hear it sigh much,叹息,sighs,傍邻闻者多叹息,Human,傍邻,neighbors nearby,micro_space,direct,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_5073ccfd,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,枯桑老柏寒飕飗,withered mulberries and old cypresses shiver in the cold,飕飗,whistling wind,枯桑老柏寒飕飗,Nature,枯桑老柏,withered mulberries and old cypresses,micro_space,implied,real,FALSE,LLM,0.8,108.94,34.34,T,Tang
+snd_9aee7747,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,九雏鸣凤乱啾啾,nine young phoenixes chirp in disorder,鸣凤,phoenixes,九雏鸣凤乱啾啾,Animal,,,,implied,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_c75fde50,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,龙吟虎啸一时发,dragons roar and tigers howl at once,龙吟虎啸,dragon roar and tiger howl,龙吟虎啸一时发,Animal,,,,implied,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_73c85f6a,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,万籁百泉相与秋,all sounds and a hundred springs join in autumn,万籁百泉,all sounds and a hundred springs,万籁百泉相与秋,Nature,,,,implied,real,FALSE,LLM,0.8,108.94,34.34,T,Tang
+snd_0be82f94,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,变调如闻杨柳春,the tune changes as if hearing the Willow Spring song,杨柳春,Willow Spring song,变调如闻杨柳春,Instrument,,,,direct,imagination,FALSE,LLM,0.8,108.94,34.34,T,Tang
+snd_8a756ed6,tang_听安万善吹觱篥歌_李_0161,听安万善吹觱篥歌,李颀,美酒一杯声一曲,"a cup of fine wine, one tune of music",声一曲,one tune of music,美酒一杯声一曲,Instrument,高堂,high hall,micro_space,implied,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_90356a64,tang_古意_李_0162,古意,李颀,惯弹琵琶,skilled at playing pipa,琵琶,pipa (lute),惯弹琵琶解歌舞,Instrument,,,,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_3baca2fc,tang_古意_李_0162,古意,李颀,羗笛出塞声,Qiang flute playing the tune of leaving the frontier,羗笛,Qiang flute,今为羗笛出塞声,Instrument,,,,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_ed6ccddd,tang_送魏万之京_李_0164,送魏万之京,李颀,闻游子唱离歌,hear the traveler sing a farewell song,游子,traveler,朝闻游子唱离歌,Human,,,,direct,real,FALSE,LLM,0.95,112.45,34.62,F,Tang
+snd_fe9e79e1,tang_送魏万之京_李_0164,送魏万之京,李颀,鸿鴈不堪愁里听,cannot bear to hear the wild geese in sorrow,鸿鴈,wild geese,鸿鴈不堪愁里听,Animal,,,,direct,real,FALSE,LLM,0.9,112.45,34.62,F,Tang
+snd_4df506f7,tang_塞下曲四首 一_王_0166,塞下曲四首 一,王昌龄,蝉鸣,cicadas chirp,蝉,cicadas,蝉鸣空桑林,Animal,空桑林,empty mulberry forest,micro_space,direct,real,FALSE,LLM,0.95,106.28,36.01,F,Tang
+snd_5450a0ac,tang_回乡偶书  其二_黄_0177,回乡偶书  其二,贺知章,乡音,native accent,乡音,native accent,乡音难改鬓毛衰,Human,,,,implied,real,FALSE,LLM,0.7,,,,Tang
+snd_3eecfad5,tang_长恨歌_白_0178,长恨歌,白居易,缓歌慢舞凝丝竹,"slow songs and gentle dances, congealed strings and bamboo",丝竹,string and wind instruments,缓歌慢舞凝丝竹，尽日君王看不足。,Instrument,,,,implied,real,FALSE,LLM,0.9,112.118272,31.9404575,T,Tang
+snd_e899e2d0,tang_长恨歌_白_0178,长恨歌,白居易,惊破霓裳羽衣曲,startled and shattered the Rainbow and Feather Garment tune,霓裳羽衣曲,Rainbow and Feather Garment tune,渔阳鞞鼓动地来，惊破霓裳羽衣曲。,Instrument,,,,implied,real,FALSE,LLM,0.85,112.118272,31.9404575,T,Tang
+snd_0380eced,tang_长恨歌_白_0178,长恨歌,白居易,迟迟钟鼓初长夜,"slowly the bells and drums, the long night begins",钟鼓,bells and drums,迟迟钟鼓初长夜，耿耿星河欲曙天。,Environment,,,,direct,real,FALSE,LLM,0.9,112.118272,31.9404575,T,Tang
+snd_3e5a5cb4,tang_长恨歌_白_0178,长恨歌,白居易,金阙西厢叩玉扃,"at the golden palace's west wing, knock on the jade door",叩,knock,金阙西厢叩玉扃，转教小玉报双成。,Environment,金阙西厢,west wing of the golden palace,micro_space,implied,real,FALSE,LLM,0.85,112.118272,31.9404575,T,Tang
+snd_30b6e2fe,tang_长恨歌_白_0178,长恨歌,白居易,一别音容两渺茫,"once parted, voice and face both distant and vague",音,voice,含情凝睇谢君王，一别音容两渺茫。,Human,,,,implied,memory,TRUE,LLM,0.8,112.118272,31.9404575,T,Tang
+snd_ec8ff591,tang_利州南渡_温_0184,利州南渡,温庭筠,马嘶,horse neighing,马,horse,波上马嘶看櫂去,Animal,波上,on the waves,micro_space,direct,real,FALSE,LLM,0.95,105.8452,32.4339,T,Tang
+snd_7840035d,tang_春宫怨_周_0190,春宫怨,周朴,鸟声碎,bird sounds are fragmented,鸟,bird,风暖鸟声碎,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_30a17634,tang_宫词二首 一_张_0193,宫词二首 一,张祜,一声河满子,a single note of 'He Manzi',河满子,He Manzi (a song title),一声河满子,Human,君前,before the emperor,micro_space,direct,real,FALSE,LLM,0.9,,,,Tang
+snd_65af7de5,tang_宫词_朱_0198,宫词,朱庆余,不敢言,dare not speak,美人,beautiful woman,含情欲说宫中事，鹦鹉前头不敢言。,Human,琼轩,jade pavilion,micro_space,implied,real,TRUE,LLM,0.9,,,,Tang
+snd_e25aa776,tang_石鼓歌_韩_0199,石鼓歌,韩愈,鸣相磨,ring and rub against each other,劒佩,swords and pendants,诸侯劒佩鸣相磨,Environment,明堂,Bright Hall,micro_space,implied,real,FALSE,LLM,0.9,112.460033,34.624376,T,Tang
+snd_66ca1104,tang_石鼓歌_韩_0199,石鼓歌,韩愈,㧑呵,shout and scold,鬼物,ghosts and spirits,鬼物守护烦㧑呵,Human,,,,implied,real,FALSE,LLM,0.8,112.460033,34.624376,T,Tang
+snd_4742c516,tang_石鼓歌_韩_0199,石鼓歌,韩愈,敲火,strike fire,牧童,shepherd boy,牧童敲火牛砺角,Environment,,,,implied,real,FALSE,LLM,0.7,112.460033,34.624376,T,Tang
+snd_0ab1ed61,tang_石鼓歌_韩_0199,石鼓歌,韩愈,吟哦,chant and recite,诗人,poet,六年西顾空吟哦,Human,,,,implied,real,FALSE,LLM,0.9,112.460033,34.624376,T,Tang
+snd_8221e9cd,tang_石鼓歌_韩_0199,石鼓歌,韩愈,呜呼,alas,诗人,poet,呜呼吾意其蹉跎,Human,,,,direct,real,FALSE,LLM,0.95,112.460033,34.624376,T,Tang
+snd_0ed91deb,tang_秋夜曲_王_0200,秋夜曲,王涯,银筝夜久殷勤弄,playing the silver zither diligently late into the night,银筝,silver zither,银筝夜久殷勤弄,Instrument,空房,empty room,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_ca2637a0,tang_登柳州城楼寄漳汀封连四州_柳_0202,登柳州城楼寄漳汀封连四州,柳宗元,惊风乱飐芙蓉水,startling wind wildly ruffles the lotus water,风,wind,惊风乱飐芙蓉水,Nature,芙蓉水,lotus water,micro_space,implied,real,FALSE,LLM,0.7,109.41,24.33,T,Tang
+snd_753b9634,tang_登柳州城楼寄漳汀封连四州_柳_0202,登柳州城楼寄漳汀封连四州,柳宗元,密雨斜侵薜荔墙,dense rain slantingly attacks the wall of ivy,雨,rain,密雨斜侵薜荔墙,Nature,薜荔墙,wall of ivy,micro_space,implied,real,FALSE,LLM,0.7,109.41,24.33,T,Tang
+snd_7b15e98f,tang_登柳州城楼寄漳汀封连四州_柳_0202,登柳州城楼寄漳汀封连四州,柳宗元,犹自音书滞一乡,"still, letters and news are stranded in one place",音书,letters and news,犹自音书滞一乡,Human,,,,implied,real,TRUE,LLM,0.6,109.41,24.33,T,Tang
+snd_3f8b3033,tang_溪居_柳_0203,溪居,柳宗元,响溪石,sounds on the creek rocks,溪石,creek rocks,夜榜响溪石,Environment,溪,creek,micro_space,implied,real,FALSE,LLM,0.9,111.637622,26.22853,T,Tang
+snd_dc72eff4,tang_渔翁_柳_0205,渔翁,柳宗元,欸乃一声,the creak of the oar,欸乃,creak of oar,烟销日出不见人，欸乃一声山水绿。,Environment,山水,mountains and waters,micro_space,direct,real,FALSE,LLM,0.95,111.637622,26.22853,T,Tang
+snd_68f44bdd,tang_春望_杜_0208,春望,杜甫,鸟惊心,birds startle the heart,鸟,birds,恨别鸟惊心,Animal,,,,implied,real,FALSE,LLM,0.8,108.946306,34.347436,T,Tang
+snd_91b94429,tang_春宿左省_杜_0209,春宿左省,杜甫,啾啾栖鸟过,chirping birds passing by,栖鸟,roosting birds,啾啾栖鸟过,Animal,掖垣,palace wall,micro_space,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_9b0f8e8b,tang_春宿左省_杜_0209,春宿左省,杜甫,不寝听金钥,"sleepless, listening for the golden keys",金钥,golden keys,不寝听金钥,Environment,,,,direct,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_cbb1d27b,tang_春宿左省_杜_0209,春宿左省,杜甫,因风想玉珂,"by the wind, imagining jade pendants",玉珂,jade horse bells,因风想玉珂,Environment,,,,implied,imagination,FALSE,LLM,0.85,108.946306,34.347436,T,Tang
+snd_18111c08,tang_月夜忆舍弟_杜_0211,月夜忆舍弟,杜甫,戍鼓,watchtower drum,鼓,drum,戍鼓断人行,Environment,戍,watchtower,micro_space,implied,real,FALSE,LLM,0.9,105.731276,34.587162,T,Tang
+snd_7d419519,tang_月夜忆舍弟_杜_0211,月夜忆舍弟,杜甫,一雁声,a wild goose's cry,雁,wild goose,秋边一雁声,Animal,秋边,autumn border,implied,direct,real,FALSE,LLM,0.95,105.731276,34.587162,T,Tang
+snd_3a5a020f,tang_客至_杜_0214,客至,杜甫,呼取,call out to fetch,邻翁,neighbor old man,隔篱呼取尽余桮,Human,隔篱,across the fence,micro_space,implied,real,FALSE,LLM,0.9,106.7708745,33.2848685,T,Tang
+snd_ba02d39d,tang_奉济驿重送严公四韵_杜_0216,奉济驿重送严公四韵,杜甫,讴歌,singing praises,列郡,various prefectures,列郡讴歌惜,Human,列郡,various prefectures,toponym,implied,real,FALSE,LLM,0.9,104.76,31.48,T,Tang
+snd_338f6c66,tang_闻官军收河南河北_杜_0217,闻官军收河南河北,杜甫,放歌,loudly sing,诗人,the poet,白日放歌须纵酒,Human,,,,implied,imagination,FALSE,LLM,0.8,105.101082,31.101709,T,Tang
+snd_b57e7426,tang_登高_杜_0218,登高,杜甫,猨啸哀,monkeys' mournful cries,猨,monkeys,风急天高猨啸哀,Animal,渚,islet,micro_space,direct,real,FALSE,LLM,0.95,107.2858075,31.063135,T,Tang
+snd_1c4c70d9,tang_登高_杜_0218,登高,杜甫,萧萧下,rustling down,落木,falling leaves,无边落木萧萧下,Nature,,,,direct,real,FALSE,LLM,0.9,107.2858075,31.063135,T,Tang
+snd_e2f3b2a1,tang_登高_杜_0218,登高,杜甫,衮衮来,rolling on,长江,Yangtze River,不尽长江衮衮来,Nature,,,,direct,real,FALSE,LLM,0.85,107.2858075,31.063135,T,Tang
+snd_5424f8ae,tang_别房太尉墓_杜_0219,别房太尉墓,杜甫,鸎啼,oriole cries,鸎,oriole,唯见林花落，鸎啼送客闻。,Animal,林,forest,micro_space,direct,real,FALSE,LLM,0.95,106.011555,31.564145,T,Tang
+snd_bae17aa0,tang_登楼_杜_0220,登楼,杜甫,梁甫吟,Liangfu chant,吟,chant,日暮聊为梁甫吟,Human,,,,implied,real,FALSE,LLM,0.8,108.5793525,29.676739,T,Tang
+snd_303c502f,tang_宿府_杜_0221,宿府,杜甫,音书绝,news and letters cut off,音书,news and letters,风尘荏苒音书绝,Human,,,,implied,real,TRUE,LLM,0.7,104.071216,30.576279,T,Tang
+snd_da4994e6,tang_阁夜_杜_0223,阁夜,杜甫,野哭,wild weeping,野哭,weeping in the wilderness,野哭几家闻战伐,Human,野,wilderness,micro_space,direct,real,FALSE,LLM,0.9,109.470533,31.024561,T,Tang
+snd_0a649b3b,tang_阁夜_杜_0223,阁夜,杜甫,夷歌,barbarian songs,夷歌,barbarian songs,夷歌数处起渔樵,Human,渔樵,fishermen and woodcutters,micro_space,direct,real,FALSE,LLM,0.85,109.470533,31.024561,T,Tang
+snd_2b976540,tang_咏怀古迹五首 三_杜_0227,咏怀古迹五首 三,杜甫,千载琵琶作胡语,thousand-year pipa plays barbarian language,琵琶,pipa (lute),千载琵琶作胡语,Instrument,,,,implied,imagination,FALSE,LLM,0.9,109.470533,31.024561,T,Tang
+snd_d29c8aa4,tang_咏怀古迹五首 三_杜_0227,咏怀古迹五首 三,杜甫,分明怨恨曲中论,clearly resentment discussed in the tune,曲,tune,分明怨恨曲中论,Instrument,,,,implied,imagination,FALSE,LLM,0.8,109.470533,31.024561,T,Tang
+snd_1944fa65,tang_江南逢李龟年_杜_0230,江南逢李龟年,杜甫,闻,heard,李龟年（歌唱）,Li Guinian (singing),崔九堂前几度闻,Human,崔九堂前,in front of Cui Jiu's hall,micro_space,direct,memory,FALSE,LLM,0.9,118.7674,32.0415,T,Tang
+snd_b76e643e,tang_和晋陵陆丞早春游望_杜_0238,和晋陵陆丞早春游望,杜审言,忽闻歌古调,suddenly hear an ancient tune being sung,歌古调,ancient tune being sung,忽闻歌古调，归思欲沾巾。,Human,,,,direct,real,FALSE,LLM,0.95,119.9613,31.7815,T,Tang
+snd_a69bbe77,tang_兵车行_杜_0242,兵车行,杜甫,车辚辚,carts creak,车,carts,车辚辚，马萧萧,Environment,,,,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_49299cdd,tang_兵车行_杜_0242,兵车行,杜甫,马萧萧,horses neigh,马,horses,车辚辚，马萧萧,Animal,,,,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_6bf79dcd,tang_兵车行_杜_0242,兵车行,杜甫,哭声,crying sound,耶娘妻子,"parents, wives, and children",牵衣顿足阑道哭，哭声直上干云霄,Human,阑道,blocking the road,micro_space,direct,real,FALSE,LLM,0.95,108.946306,34.347436,T,Tang
+snd_7825cbf5,tang_赠卫八处士_杜_0243,赠卫八处士,杜甫,惊呼,startled exclamation,诗人,poet,访旧半为鬼，惊呼热中肠。,Human,,,,direct,real,FALSE,LLM,0.9,109.778378,34.518619,T,Tang
+snd_e4e52dbe,tang_哀江头_杜_0245,哀江头,杜甫,嚼啮,chew and gnaw,白马,white horse,白马嚼啮黄金勒,Animal,辇前,in front of the imperial carriage,micro_space,implied,memory,FALSE,LLM,0.7,108.946306,34.347436,T,Tang
+snd_4c6a2d1f,tang_哀王孙_杜_0246,哀王孙,杜甫,泣路隅,weeping at the roadside,王孙,prince,腰下实玦青珊瑚，可怜王孙泣路隅。,Human,路隅,roadside corner,micro_space,direct,real,FALSE,LLM,0.9,111.630105,34.5751885,T,Tang
+snd_8ead1048,tang_哀王孙_杜_0246,哀王孙,杜甫,不敢长语,dare not speak at length,诗人,poet,不敢长语临交衢，且为王孙立斯须。,Human,交衢,crossroads,micro_space,implied,real,TRUE,LLM,0.85,111.630105,34.5751885,T,Tang
+snd_184ae451,tang_哀王孙_杜_0246,哀王孙,杜甫,慎勿出口,be careful not to speak out,王孙,prince,花门剺面请雪耻，慎勿出口他人狙。,Human,,,,implied,imagination,TRUE,LLM,0.7,111.630105,34.5751885,T,Tang
+snd_db22db67,tang_佳人_杜_0247,佳人,杜甫,那闻旧人哭,how can one hear the old person weep,旧人,old person (the abandoned wife),但见新人笑，那闻旧人哭。,Human,,,,implied,real,TRUE,LLM,0.9,106.7708745,32.5817205,T,Tang
+snd_8b39a505,tang_梦李白二首 一_杜_0248,梦李白二首 一,杜甫,吞声,swallow sound,人,person,死别已吞声,Human,,,,implied,real,FALSE,LLM,0.9,105.72,34.58,T,Tang
+snd_4cf496e4,tang_韦讽录事宅观曹将军画马图_杜_0250,韦讽录事宅观曹将军画马图,杜甫,叹嗟,sigh and exclaim,识者,connoisseurs,复令识者久叹嗟,Human,,,,implied,real,FALSE,LLM,0.8,104.071216,30.576279,T,Tang
+snd_9dbe0759,tang_观公孙大娘弟子舞劒器行_杜_0254,观公孙大娘弟子舞剑器行,杜甫,雷霆收震怒,thunder gathers its fury,雷霆,thunder,来如雷霆收震怒,Nature,,,,implied,imagination,FALSE,LLM,0.9,109.470533,31.024561,T,Tang
+snd_52e6c680,tang_观公孙大娘弟子舞劒器行_杜_0254,观公孙大娘弟子舞剑器行,杜甫,急管,urgent pipes,管,pipes (wind instrument),玳筵急管曲复终,Instrument,玳筵,tortoiseshell mat feast,micro_space,direct,real,FALSE,LLM,0.95,109.470533,31.024561,T,Tang
+snd_56722748,tang_观公孙大娘弟子舞劒器行_杜_0254,观公孙大娘弟子舞剑器行,杜甫,曲复终,the music ends again,曲,music,玳筵急管曲复终,Instrument,玳筵,tortoiseshell mat feast,micro_space,direct,real,FALSE,LLM,0.9,109.470533,31.024561,T,Tang
+snd_7c0b4495,tang_观公孙大娘弟子舞劒器行_杜_0254,观公孙大娘弟子舞剑器行,杜甫,问答,question and answer,问答,dialogue,与余问答既有以,Human,,,,direct,real,FALSE,LLM,0.85,109.470533,31.024561,T,Tang
+snd_6cf565a0,tang_寻陆鸿渐不遇_皎_0267,寻陆鸿渐不遇,皎然,扣门无犬吠,knock on the door but no dog barks,犬,dog,扣门无犬吠,Animal,篱边,by the fence,micro_space,direct,real,TRUE,LLM,0.95,120.1,30.86,T,Tang
+snd_4dd35791,tang_寻陆鸿渐不遇_皎_0267,寻陆鸿渐不遇,皎然,扣门,knock on the door,扣门,knocking on the door,扣门无犬吠,Environment,门,door,micro_space,direct,real,FALSE,LLM,0.9,120.1,30.86,T,Tang
+snd_eafb860c,tang_西塞山怀古_刘_0268,西塞山怀古,刘禹锡,萧萧,rustling sound,芦荻,reeds,故垒萧萧芦荻秋,Nature,故垒,old fortress,micro_space,implied,real,FALSE,LLM,0.9,115.1046,30.2072,T,Tang
+snd_5212f9fe,tang_枫桥夜泊_张_0280,枫桥夜泊,张继,乌啼,crows cawing,乌,crow,月落乌啼霜满天,Animal,,,,direct,real,FALSE,LLM,1,120.5683,31.3095,T,Tang
+snd_da07fc57,tang_酬程延秋夜即事见赠_韩_0281,酬程延秋夜即事见赠,韩翃,砧杵夜千家,pounding blocks and pestles at night in a thousand homes,砧杵,washing blocks and pestles,砧杵夜千家,Environment,千家,a thousand homes,implied,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_3e920a99,tang_酬程延秋夜即事见赠_韩_0281,酬程延秋夜即事见赠,韩翃,不觉已鸣鸦,unaware that crows have already cawed,鸦,crows,不觉已鸣鸦,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_d2e0b55f,tang_秋夜寄丘二十二员外_韦_0286,秋夜寄丘二十二员外,韦应物,松子落,pine seeds falling,松子,pine seeds,山空松子落,Nature,山,mountain,micro_space,implied,real,FALSE,LLM,0.7,120.58,31.3,T,Tang
+snd_2c75ef40,tang_送杨氏女_韦_0288,送杨氏女,韦应物,两别泣不休,weeping without cease at parting,泣,weeping,幼为长所育，两别泣不休,Human,,,,direct,real,FALSE,LLM,0.9,118.3171,32.3016,T,Tang
+snd_435d35b3,tang_夕次盱眙县_韦_0290,夕次盱眙县,韦应物,听钟,hear the bell,钟,bell,听钟未眠客,Environment,孤驿,lonely post station,micro_space,direct,real,FALSE,LLM,0.9,118.5444,33.012,T,Tang
+snd_fd2b34c0,tang_东郊_韦_0291,东郊,韦应物,春鸠鸣何处,spring doves call somewhere,春鸠,spring doves,春鸠鸣何处,Animal,,,,direct,real,FALSE,LLM,0.95,108.94,34.13,T,Tang
+snd_bf647a12,tang_滁州西涧_韦_0292,滁州西涧,韦应物,黄鹂深树鸣,orioles sing in the deep trees,黄鹂,orioles,上有黄鹂深树鸣,Animal,深树,deep trees,micro_space,direct,real,FALSE,LLM,1,118.3171,32.3016,T,Tang
+snd_6fd28bd1,tang_和晋陵陆丞早春游望_韦_0293,和晋陵陆丞早春游望,韦应物,忽闻歌苦调,suddenly hear a song with bitter tune,歌,song,忽闻歌苦调,Human,,,,direct,real,FALSE,LLM,0.95,119.9613,31.7815,T,Tang
+snd_d8884ac6,tang_白雪歌送武判官归京_岑_0295,白雪歌送武判官归京,岑参,胡琴琵琶与羌笛,"Huqin, pipa, and Qiang flute",胡琴琵琶与羌笛,"Huqin, pipa, and Qiang flute",中军置酒饮归客，胡琴琵琶与羌笛。,Instrument,中军,headquarters,micro_space,implied,real,FALSE,LLM,0.9,108.94,34.34,T,Tang
+snd_d376ce4d,tang_轮台歌奉送封大夫出师西征_岑_0296,轮台歌奉送封大夫出师西征,岑参,吹笛,play the flute,笛,flute,平明吹笛大军行,Instrument,,,,direct,real,FALSE,LLM,1,87.6,43.8,T,Tang
+snd_f3879687,tang_走马川行奉送出师西征_岑_0297,走马川行奉送出师西征,岑参,戈相拨,weapons clashing,戈,weapons,半夜军行戈相拨,Environment,,,,implied,real,FALSE,LLM,0.85,87.623314,43.832806,T,Tang
+snd_a82b0c3f,tang_奉和中书舍人贾至早朝大明宫_岑_0299,奉和中书舍人贾至早朝大明宫,岑参,鸡鸣,rooster crows,鸡,rooster,鸡鸣紫陌曙光寒,Animal,紫陌,purple road,micro_space,direct,real,FALSE,LLM,0.95,108.9589,34.2941,T,Tang
+snd_e4184240,tang_奉和中书舍人贾至早朝大明宫_岑_0299,奉和中书舍人贾至早朝大明宫,岑参,晓钟,morning bell,钟,bell,金阙晓钟开万户,Environment,金阙,golden palace,micro_space,direct,real,FALSE,LLM,0.95,108.9589,34.2941,T,Tang
+snd_5497b3b9,tang_奉和中书舍人贾至早朝大明宫_岑_0299,奉和中书舍人贾至早朝大明宫,岑参,阳春一曲,a song of Sunny Spring,曲,song,阳春一曲和皆难,Human,凤皇池上,above the Phoenix Pool,micro_space,implied,real,FALSE,LLM,0.9,108.9589,34.2941,T,Tang
+snd_7a07214e,tang_书边事_张_0302,书边事,张乔,调角,tuning the horn,角,horn,调角断清秋,Instrument,戍楼,garrison tower,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_1345f343,tang_行路难三首 二_李_0304,行路难三首 二,李白,弹劒作歌奏苦声,"playing sword and singing, producing bitter sounds",弹劒作歌,playing sword and singing,弹劒作歌奏苦声,Human,,,,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_888038d1,tang_长相思_李_0306,长相思,李白,络纬秋啼金井阑,crickets chirp in autumn by the golden well railing,络纬,crickets,络纬秋啼金井阑,Animal,金井阑,golden well railing,micro_space,direct,real,FALSE,LLM,0.95,113.8745985,32.472932,T,Tang
+snd_89b25ed1,tang_长相思_李_0306,长相思,李白,空长叹,empty long sigh,人,person (the speaker),卷帷望月空长叹,Human,,,,direct,real,FALSE,LLM,0.9,113.8745985,32.472932,T,Tang
+snd_5569a161,tang_关山月_李_0307,关山月,李白,叹息,sigh,戍客,garrison soldiers,高楼当此夜，叹息未应闲。,Human,高楼,high tower,micro_space,implied,real,FALSE,LLM,0.9,106.45,34.99,T,Tang
+snd_3f7f4d80,tang_庐山谣寄卢侍御虚舟_李_0318,庐山谣寄卢侍御虚舟,李白,凤歌,phoenix song,凤歌,phoenix song,我本楚狂人，凤歌笑孔丘。,Human,,,,implied,memory,FALSE,LLM,0.8,115.9946,29.5556,T,Tang
+snd_69a0fd85,tang_庐山谣寄卢侍御虚舟_李_0318,庐山谣寄卢侍御虚舟,李白,笑,laugh,笑,laugh,我本楚狂人，凤歌笑孔丘。,Human,,,,implied,memory,FALSE,LLM,0.7,115.9946,29.5556,T,Tang
+snd_23a8599f,tang_梦游天姥吟留别_李_0319,梦游天姥吟留别,李白,空中闻天鸡,in the air hear celestial rooster,天鸡,celestial rooster,半壁见海日，空中闻天鸡,Animal,空中,in the air,micro_space,direct,dream,FALSE,LLM,0.95,120.955,29.33,T,Tang
+snd_35a82de4,tang_梦游天姥吟留别_李_0319,梦游天姥吟留别,李白,熊咆龙吟,"bears roar, dragons chant",熊、龙,bears and dragons,熊咆龙吟殷岩泉,Animal,岩泉,rocky springs,micro_space,implied,dream,FALSE,LLM,0.9,120.955,29.33,T,Tang
+snd_b0b7c79a,tang_梦游天姥吟留别_李_0319,梦游天姥吟留别,李白,列缺霹雳,"lightning flashes, thunder crashes",霹雳,thunder,列缺霹雳，丘峦崩摧,Nature,,,,implied,dream,FALSE,LLM,0.85,120.955,29.33,T,Tang
+snd_b821e4d6,tang_梦游天姥吟留别_李_0319,梦游天姥吟留别,李白,訇然中开,with a loud bang opens in the middle,洞天石扇,stone door of the cave heaven,洞天石扇，訇然中开,Environment,洞天,cave heaven,micro_space,implied,dream,FALSE,LLM,0.9,120.955,29.33,T,Tang
+snd_4a7c3118,tang_梦游天姥吟留别_李_0319,梦游天姥吟留别,李白,虎鼓瑟,tigers play zithers,虎,tigers,虎鼓瑟兮鸾回车,Instrument,,,,implied,dream,FALSE,LLM,0.85,120.955,29.33,T,Tang
+snd_3a981a7a,tang_梦游天姥吟留别_李_0319,梦游天姥吟留别,李白,长嗟,long sigh,诗人,poet,怳惊起而长嗟,Human,,,,direct,real,FALSE,LLM,0.9,120.955,29.33,T,Tang
+snd_6ae62825,tang_送友人_李_0323,送友人,李白,萧萧班马鸣,the neighing of the departing horse,班马,departing horse,挥手自兹去，萧萧班马鸣。,Animal,,,,direct,real,FALSE,LLM,0.95,113.8745985,31.5175555,T,Tang
+snd_3563e57e,tang_宣州谢朓楼饯别校书叔云_李_0324,宣州谢朓楼饯别校书叔云,李白,酣高楼,drink heartily in the high tower,酣,drinking heartily (implies sounds of feasting),对此可以酣高楼,Human,高楼,high tower,micro_space,implied,real,FALSE,LLM,0.6,118.7563,30.9463,T,Tang
+snd_6095b08f,tang_下终南山过斛斯山人宿置酒_李_0325,下终南山过斛斯山人宿置酒,李白,长歌吟松风,long song chanting with pine wind,歌,song,长歌吟松风，曲尽河星稀。,Human,松风,pine wind,micro_space,implied,real,FALSE,LLM,0.9,108.94,34.1,T,Tang
+snd_74ac1327,tang_下终南山过斛斯山人宿置酒_李_0325,下终南山过斛斯山人宿置酒,李白,曲尽,song ends,曲,melody,长歌吟松风，曲尽河星稀。,Human,,,,implied,real,FALSE,LLM,0.7,108.94,34.1,T,Tang
+snd_fb2b7e34,tang_早发白帝城_李_0327,早发白帝城,李白,猨声啼,monkeys crying,猨,monkeys,两岸猨声啼不尽,Animal,两岸,both riverbanks,micro_space,direct,real,FALSE,LLM,0.95,109.5737,31.045,T,Tang
+snd_fb6b2ec1,tang_月下独酌四首 一_李_0329,月下独酌四首 一,李白,我歌,I sing,我,I (the poet),我歌月裴回,Human,,,,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_95b5bf6c,tang_听蜀僧濬弹琴_李_0330,听蜀僧濬弹琴,李白,弹琴,play the zither,蜀僧,Shu monk,听蜀僧濬弹琴,Instrument,,,,direct,real,FALSE,LLM,1,118.765196,30.946576,T,Tang
+snd_ccf85405,tang_听蜀僧濬弹琴_李_0330,听蜀僧濬弹琴,李白,如听万壑松,as if hearing pines in ten thousand valleys,万壑松,pines in ten thousand valleys,为我一挥手，如听万壑松,Nature,万壑,ten thousand valleys,micro_space,implied,imagination,FALSE,LLM,0.9,118.765196,30.946576,T,Tang
+snd_32466c97,tang_听蜀僧濬弹琴_李_0330,听蜀僧濬弹琴,李白,余响入霜钟,lingering sound enters the frosty bell,余响,lingering sound,客心洗流水，余响入霜钟,Instrument,霜钟,frosty bell,micro_space,implied,real,FALSE,LLM,0.8,118.765196,30.946576,T,Tang
+snd_539c224a,tang_淮上喜会梁川故人_韦_0332,淮上喜会梁川故人,韦应物,欢笑,laughing and talking happily,故人,old friends,欢笑情如旧,Human,,,,implied,real,FALSE,LLM,0.9,117.35,32.97,T,Tang
+snd_e93d858d,tang_郡斋雨中与诸文士燕集_韦_0333,郡斋雨中与诸文士燕集,韦应物,仰聆金玉章,look up and listen to the golden jade chapters,金玉章,golden jade chapters (poems),俯饮一杯酒，仰聆金玉章。,Human,,,,direct,real,FALSE,LLM,0.95,120.5683,31.3095,T,Tang
+snd_eb88b343,tang_相和歌辞 燕歌行_高_0336,相和歌辞 燕歌行,高适,歌舞,singing and dancing,美人,beautiful women,美人帐下犹歌舞,Human,帐下,under the tent,micro_space,implied,real,FALSE,LLM,0.9,117.41,40.05,T,Tang
+snd_9ca2428b,tang_相和歌辞 燕歌行_高_0336,相和歌辞 燕歌行,高适,啼,weep,玉箸,jade chopsticks (tears),玉箸应啼别离后,Human,,,,implied,real,FALSE,LLM,0.85,117.41,40.05,T,Tang
+snd_fce0429d,tang_相和歌辞 燕歌行_高_0336,相和歌辞 燕歌行,高适,寒声一夜传刁斗,cold sound all night passes the watchtower,刁斗,watchman's clapper,寒声一夜传刁斗,Environment,绝域,remote border region,implied,direct,real,FALSE,LLM,0.9,117.41,40.05,T,Tang
+snd_bdf7034d,tang_相和歌辞 从军行_李_0337,相和歌辞 从军行,李颀,琵琶幽怨,lute's plaintive sound,琵琶,lute,公主琵琶幽怨多,Instrument,,,,implied,real,FALSE,LLM,0.8,,,,Tang
+snd_7d8a5212,tang_相和歌辞 从军行_李_0337,相和歌辞 从军行,李颀,胡雁哀鸣,wild geese cry mournfully,胡雁,wild geese,胡雁哀鸣夜夜飞,Animal,大漠,great desert,micro_space,direct,real,FALSE,LLM,0.9,,,,Tang
+snd_27c1a851,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,噫吁嚱,alas,诗人,poet,噫吁嚱！危乎高哉！,Human,,,,direct,real,FALSE,LLM,0.9,104.0668,30.5728,T,Tang
+snd_1bcc5ee2,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,坐长叹,sits and sighs deeply,诗人,poet,以手抚膺坐长叹,Human,,,,direct,real,FALSE,LLM,0.9,104.0668,30.5728,T,Tang
+snd_976750c3,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,悲鸟号枯木,sad birds cry on withered trees,悲鸟,sad birds,但见悲鸟号枯木,Animal,枯木,withered trees,micro_space,direct,real,FALSE,LLM,0.95,104.0668,30.5728,T,Tang
+snd_bfcd671d,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,雄飞呼雌,male flies calling female,雄鸟,male bird,雄飞呼雌绕林间,Animal,林间,among the woods,micro_space,direct,real,FALSE,LLM,0.9,104.0668,30.5728,T,Tang
+snd_50fec782,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,子规啼夜月,cuckoo cries at night moon,子规,cuckoo,又闻子规啼夜月,Animal,夜月,night moon,micro_space,direct,real,FALSE,LLM,0.95,104.0668,30.5728,T,Tang
+snd_d3b7bdd4,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,飞湍瀑流相喧豗,flying torrents and waterfalls clamor together,飞湍瀑流,flying torrents and waterfalls,飞湍瀑流相喧豗,Nature,,,,direct,real,FALSE,LLM,0.95,104.0668,30.5728,T,Tang
+snd_dde7a9a6,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,砅崖转石万壑雷,pounding cliffs and rolling stones thunder in ten thousand valleys,砅崖转石,pounding cliffs and rolling stones,砅崖转石万壑雷,Nature,万壑,ten thousand valleys,micro_space,direct,real,FALSE,LLM,0.95,104.0668,30.5728,T,Tang
+snd_b6ef7991,tang_相和歌辞 蜀道难_李_0338,相和歌辞 蜀道难,李白,长咨嗟,long sigh,诗人,poet,侧身西望长咨嗟,Human,,,,direct,real,FALSE,LLM,0.9,104.0668,30.5728,T,Tang
+snd_903e44c4,tang_杂曲歌辞 长相思三首 一_李_0348,杂曲歌辞 长相思三首 一,李白,络纬秋啼金井栏,katydids cry in autumn by the golden well railing,络纬,katydids,络纬秋啼金井栏,Animal,金井栏,golden well railing,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_118dcd18,tang_杂曲歌辞 长相思三首 一_李_0348,杂曲歌辞 长相思三首 一,李白,空长叹,empty long sigh,人（诗人）,person (the poet),卷帷望月空长叹,Human,,,,direct,real,FALSE,LLM,0.9,,,,Tang
+snd_02757fb3,tang_杂曲歌辞 长相思三首 二_李_0349,杂曲歌辞 长相思三首 二,李白,赵瑟初停凤凰柱,Zhao zither just stopped on phoenix bridge,瑟,zither,赵瑟初停凤凰柱,Instrument,,,,implied,memory,FALSE,LLM,0.9,,,,Tang
+snd_1f24a278,tang_杂曲歌辞 长相思三首 二_李_0349,杂曲歌辞 长相思三首 二,李白,蜀琴欲奏鸳鸯弦,Shu qin about to play mandarin duck strings,琴,qin,蜀琴欲奏鸳鸯弦,Instrument,,,,implied,imagination,FALSE,LLM,0.9,,,,Tang
+snd_3132fe36,tang_杂曲歌辞 行路难三首 二_李_0351,杂曲歌辞 行路难三首 二,李白,弹劒作歌奏苦声,"playing sword and singing, producing bitter sounds",弹劒作歌,playing sword and singing,弹劒作歌奏苦声,Human,,,,implied,real,FALSE,LLM,0.9,108.946306,34.347436,T,Tang
+snd_fea17f16,tang_杂曲歌辞 长干行二首 一_李_0355,杂曲歌辞 长干行二首 一,李白,千唤不一回,called a thousand times but she does not turn back,唤,calling,千唤不一回,Human,暗壁,dark wall,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_bc9f168f,tang_杂曲歌辞 长干行二首 一_李_0355,杂曲歌辞 长干行二首 一,李白,猨鸣天上哀,monkeys cry mournfully in the sky,猨鸣,monkey cries,猨鸣天上哀,Animal,天上,in the sky,micro_space,implied,real,FALSE,LLM,0.95,,,,Tang
+snd_0b8c1711,tang_杂曲歌辞 独不见_沈_0356,杂曲歌辞 独不见,沈佺期,寒砧催下叶,cold anvil urges falling leaves,砧,anvil (for washing clothes),九月寒砧催下叶,Environment,卢家小妇郁金堂,the golden hall of the young Lu woman,micro_space,implied,real,FALSE,LLM,0.9,,,,Tang
+snd_222140e0,tang_春思_皇_0358,春思,皇甫冉,莺啼燕语,orioles chirping and swallows twittering,莺燕,orioles and swallows,莺啼燕语报新年,Animal,,,,direct,real,FALSE,LLM,0.95,119.58,32.01,F,Tang
+snd_7118cf29,tang_夜月_刘_0359,夜月,刘方平,虫声,insect sound,虫,insect,虫声新透绿窗纱,Animal,绿窗纱,green window screen,micro_space,direct,real,FALSE,LLM,0.95,112.85,34.48,F,Tang
+snd_469270aa,tang_宫词五首 二_顾_0366,宫词五首 二,顾况,起笙歌,rise of sheng music and song,笙歌,sheng music and song,玉楼天半起笙歌,Instrument,玉楼天半,jade tower in mid-heaven,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_af254499,tang_宫词五首 二_顾_0366,宫词五首 二,顾况,笑语,laughter and talk,宫嫔,palace ladies,风送宫嫔笑语和,Human,玉楼,jade tower,micro_space,direct,real,FALSE,LLM,0.95,,,,Tang
+snd_55efbcec,tang_宫词五首 二_顾_0366,宫词五首 二,顾况,闻夜漏,hear the night water-clock,夜漏,night water-clock,月殿影开闻夜漏,Environment,月殿,moon palace,micro_space,direct,real,FALSE,LLM,0.9,,,,Tang
+snd_d4b7fefd,song_湘春夜月_黄_0001,湘春夜月,黄孝迈,清歌,clear song,翠禽,kingfisher bird,可惜一片清歌，都付与黄昏,Animal,枝上,on the branch,micro_space,direct,real,FALSE,LLM,0.9,112.944,28.228,T,Southern Song
+snd_7f9d3fb0,song_湘春夜月_黄_0001,湘春夜月,黄孝迈,低诉,whisper softly,柳花,willow catkins,欲共柳花低诉，怕柳花轻薄，不解伤春,Human,,,,implied,imagination,FALSE,LLM,0.7,112.944,28.228,T,Southern Song
+snd_c4b3bc3b,song_湘春夜月_黄_0001,湘春夜月,黄孝迈,空樽夜泣,empty wine vessel weeps at night,空樽,empty wine vessel,空樽夜泣，青山不语，残月当门,Environment,,,,implied,real,FALSE,LLM,0.6,112.944,28.228,T,Southern Song
+snd_b3b94cab,song_湘春夜月_黄_0001,湘春夜月,黄孝迈,青山不语,green mountains do not speak,青山,green mountains,空樽夜泣，青山不语，残月当门,Nature,青山,green mountains,micro_space,direct,real,TRUE,LLM,0.8,112.944,28.228,T,Southern Song
+snd_0acd3f5d,song_瑞鹤仙_陆_0002,瑞鹤仙,陆叡,疏钟催晓,sparse bell urges dawn,钟,bell,但疏钟催晓，乱鸦啼暝,Environment,,,,direct,real,FALSE,LLM,0.9,120.58,30.01,T,Southern Song
+snd_fe771a1b,song_瑞鹤仙_陆_0002,瑞鹤仙,陆叡,乱鸦啼暝,chaotic crows cry at dusk,鸦,crows,但疏钟催晓，乱鸦啼暝,Animal,,,,direct,real,FALSE,LLM,0.9,120.58,30.01,T,Southern Song
+snd_76792cd0,song_霜叶飞_吴_0004,霜叶飞,吴文英,残蛩语,remaining cricket chirping,残蛩,remaining cricket,夜冷残蛩语,Animal,东篱,eastern fence,micro_space,direct,real,FALSE,LLM,0.9,120.58,31.3,T,Southern Song
+snd_9ea3bf79,song_瑞鹤仙_吴_0005,瑞鹤仙,吴文英,歌尘凝扇,song dust congeals on the fan,歌,song,歌尘凝扇,Human,扇,fan,micro_space,implied,memory,FALSE,LLM,0.8,120.4542835,30.7666115,T,Southern Song
+snd_77d91336,song_齐天乐_吴_0007,齐天乐,吴文英,乱蛩疏雨里,in the chaotic crickets and sparse rain,蛩,crickets,可惜秋宵，乱蛩疏雨里。,Animal,,,,implied,real,FALSE,LLM,0.9,120.3420895,30.6705425,T,Southern Song
+snd_154e19f4,song_齐天乐_吴_0007,齐天乐,吴文英,疏雨,sparse rain,雨,rain,可惜秋宵，乱蛩疏雨里。,Nature,,,,implied,real,FALSE,LLM,0.8,120.3420895,30.6705425,T,Southern Song
+snd_7af3643d,song_风入松_吴_0008,风入松,吴文英,听风听雨,listening to wind and rain,风雨,wind and rain,听风听雨过清明。,Nature,,,,direct,real,FALSE,LLM,0.95,120.586673,30.036519,T,Southern Song
+snd_5a4fb1fb,song_风入松_吴_0008,风入松,吴文英,啼莺,orioles singing,莺,oriole,交加晓梦啼莺。,Animal,,,,implied,dream,FALSE,LLM,0.9,120.586673,30.036519,T,Southern Song
+snd_e31775f4,song_莺啼序_吴_0009,莺啼序,吴文英,似说春事迟暮,seems to speak of spring's late affairs,燕,swallow,燕来晚、飞入西城，似说春事迟暮。,Animal,西城,West City,toponym,implied,real,FALSE,LLM,0.7,120.176955,30.239356,T,Southern Song
+snd_e6e60ae2,song_莺啼序_吴_0009,莺啼序,吴文英,歌纨,singing fan,歌纨,singing fan (a fan used while singing),断红湿、歌纨金缕。,Human,,,,implied,memory,FALSE,LLM,0.6,120.176955,30.239356,T,Southern Song
+snd_09c2c5d8,song_莺啼序_吴_0009,莺啼序,吴文英,弹入哀筝柱,pluck into the sad zheng's strings,哀筝,sad zheng (a string instrument),漫相思、弹入哀筝柱。,Instrument,,,,implied,imagination,FALSE,LLM,0.9,120.176955,30.239356,T,Southern Song
+snd_2391eff1,song_莺啼序_吴_0009,莺啼序,吴文英,怨曲重招,a plaintive tune summons again,怨曲,plaintive tune,伤心千里江南，怨曲重招，断魂在否。,Instrument,千里江南,thousand-mile Jiangnan,toponym,implied,imagination,FALSE,LLM,0.8,120.176955,30.239356,T,Southern Song
+snd_a5a41a1b,song_惜黄花慢_吴_0010,惜黄花慢,吴文英,凤咽琼箫,phoenix sobs on jade flute,琼箫,jade flute,仙人凤咽琼箫,Instrument,,,,implied,real,FALSE,LLM,0.9,120.64,31.16,T,Southern Song
+snd_09bb97b1,song_惜黄花慢_吴_0010,惜黄花慢,吴文英,歌云载恨,song clouds carry hatred,歌,song,歌云载恨，飞上银霄,Human,小窗,small window,micro_space,implied,real,FALSE,LLM,0.85,120.64,31.16,T,Southern Song
+snd_d3e13f1b,song_瑞鹤仙_袁_0011,瑞鹤仙,袁去华,无语,without words,人（说话者）,person (speaker),无语。,Human,,,,implied,real,TRUE,LLM,0.9,,,,Southern Song
+snd_60ee0a43,song_剑器近_袁_0012,剑器近,袁去华,莺啼燕语,orioles chirping and swallows twittering,莺燕,orioles and swallows,试细听、莺啼燕语,Animal,庭户,courtyard and house,micro_space,direct,real,FALSE,LLM,0.95,,,,Southern Song
+snd_107c54ae,song_安公子_袁_0013,安公子,袁去华,鸦啼,crows cawing,鸦,crow,嫩黄匀遍鸦啼处,Animal,鸦啼处,place where crows caw,implied,direct,real,FALSE,LLM,0.9,,,,Southern Song
+snd_13480287,song_安公子_袁_0013,安公子,袁去华,哀弦危柱,sad strings and perilous bridges,弦,strings,尘满哀弦危柱,Instrument,画楼,painted tower,micro_space,implied,imagination,FALSE,LLM,0.8,,,,Southern Song
+snd_7cbfb931,song_安公子_袁_0013,安公子,袁去华,百啭黄鹂语,oriole's hundred warbles,黄鹂,oriole,闲傍枕、百啭黄鹂语,Animal,枕旁,beside the pillow,micro_space,direct,real,FALSE,LLM,0.95,,,,Southern Song
+snd_b0aaa248,song_凤箫吟・芳草_韩_0015,凤箫吟・芳草,韩缜,泣送征轮,weeping to see off the departing carriage,征轮,departing carriage,暗垂珠泪，泣送征轮,Human,长亭,Long Pavilion,micro_space,implied,real,FALSE,LLM,0.8,116.1,39,T,Northern Song
+snd_41305812,song_桂枝香_王_0016,桂枝香,王安石,时时犹唱,still often sing,商女,singing girls,至今商女，时时犹唱，後庭遗曲。,Human,,,,implied,real,FALSE,LLM,0.9,118.802891,32.064735,T,Northern Song
+snd_895e636f,song_清平乐_王_0017,清平乐,王安石,莺儿语,orioles' speech,莺儿,orioles,费尽莺儿语,Animal,,,,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_1ce5bfa2,song_清平乐_王_0017,清平乐,王安石,风雨,wind and rain,风雨,wind and rain,昨夜南园风雨,Nature,南园,southern garden,toponym,inferred,memory,FALSE,LLM,0.8,,,,Northern Song
+snd_64495587,song_清平乐_王_0017,清平乐,王安石,琵琶,pipa (lute),琵琶,pipa,小怜初上琵琶,Instrument,,,,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_d2837095,song_千秋岁引_王_0018,千秋岁引,王安石,寒砧,cold anvil (sound of pounding clothes),砧,anvil,别馆寒砧,Environment,别馆,parting lodge,micro_space,implied,real,FALSE,LLM,0.9,118.78,32.04,T,Northern Song
+snd_5e5193cf,song_千秋岁引_王_0018,千秋岁引,王安石,画角,painted horn (military bugle),角,horn,孤城画角,Instrument,孤城,lonely city,micro_space,implied,real,FALSE,LLM,0.95,118.78,32.04,T,Northern Song
+snd_6d0f1120,song_千秋岁引_王_0018,千秋岁引,王安石,秋声,autumn sounds,秋声,autumn sounds,一派秋声入寥廓,Nature,寥廓,vast emptiness,micro_space,direct,real,FALSE,LLM,0.85,118.78,32.04,T,Northern Song
+snd_1e8d5254,song_清平乐_王_0019,清平乐,王安国,莺儿语,orioles' speech,莺儿,orioles,费尽莺儿语,Animal,,,,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_e920c2ab,song_清平乐_王_0019,清平乐,王安国,琵琶,pipa (lute),琵琶,pipa,小怜初上琵琶,Instrument,,,,implied,memory,FALSE,LLM,0.95,,,,Northern Song
+snd_3cea438e,song_临江仙_晏_0020,临江仙,晏几道,琵琶弦上说相思,the pipa strings speak of longing,琵琶,pipa (lute),琵琶弦上说相思,Instrument,,,,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_66456cab,song_蝶恋花_晏_0023,蝶恋花,晏几道,歌别绪,sing of parting sorrows,人,person,却倚缓弦歌别绪,Human,,,,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_77aca31f,song_蝶恋花_晏_0023,蝶恋花,晏几道,缓弦,slow strings,弦,strings,却倚缓弦歌别绪,Instrument,,,,implied,real,FALSE,LLM,0.8,,,,Northern Song
+snd_3a427c4c,song_蝶恋花_晏_0023,蝶恋花,晏几道,移破秦筝柱,move and break the zheng's bridges,秦筝,Qin zheng (instrument),断肠移破秦筝柱,Instrument,,,,implied,real,FALSE,LLM,0.85,,,,Northern Song
+snd_0e850fa4,song_鹧鸪天_晏_0024,鹧鸪天,晏几道,歌尽,singing exhausts,歌,singing,歌尽桃花扇影风,Human,桃花扇影风,wind of peach blossom fan shadows,micro_space,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_c816d268,song_清平乐_晏_0026,清平乐,晏几道,晓莺啼,morning orioles chirping,莺,oriole,过尽晓莺啼处,Animal,晓莺啼处,places where morning orioles sing,implied,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_83616371,song_菩萨蛮_晏_0028,菩萨蛮,晏几道,哀筝一弄湘江曲,sad zither plays a tune of Xiang River,筝,zither,哀筝一弄湘江曲,Instrument,湘江,Xiang River,toponym,direct,real,FALSE,LLM,0.95,,,F,Northern Song
+snd_43c6a155,song_菩萨蛮_晏_0028,菩萨蛮,晏几道,弹到断肠时,playing until heartbreak,弹,playing (the zither),弹到断肠时,Instrument,,,,implied,real,FALSE,LLM,0.85,,,F,Northern Song
+snd_9d162609,song_阮郎归_晏_0031,阮郎归,晏几道,清歌,clear song,歌,song,清歌莫断肠,Human,,,,implied,imagination,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_e52120fa,song_六么令_晏_0032,六么令,晏几道,新翻曲妙,newly composed tune is exquisite,曲,tune,新翻曲妙，暗许闲人带偷掏。,Instrument,香阁,fragrant boudoir,micro_space,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_07d401d3,song_六么令_晏_0032,六么令,晏几道,笙歌散了,the reed pipe songs have dispersed,笙歌,reed pipe songs,都待笙歌散了，记取留时霎。,Instrument,,,,implied,real,FALSE,LLM,0.85,,,,Northern Song
+snd_932e835a,song_留春令_晏_0035,留春令,晏几道,水声中,in the sound of water,水声,sound of water,楼下分流水声中,Nature,楼下,below the tower,micro_space,direct,real,FALSE,LLM,0.9,114.31,34.79,F,Northern Song
+snd_692c05ec,song_水龙吟_苏_0038,水龙吟,苏轼,莺呼起,oriole calls up,莺,oriole,又还被、莺呼起,Animal,,,,implied,dream,FALSE,LLM,0.9,117.8221265,34.137992,T,Northern Song
+snd_a3ee9173,song_临江仙_苏_0040,临江仙,苏轼,敲门都不应,knocking on the door but no answer,敲门,knocking on the door,敲门都不应,Environment,,,,implied,real,FALSE,LLM,0.9,117.2925205,28.663276,T,Northern Song
+snd_2307dc06,song_定风波_苏_0041,定风波,苏轼,穿林打叶声,sound of wind and rain piercing the forest and hitting leaves,风雨,wind and rain,莫听穿林打叶声,Nature,林,forest,micro_space,direct,real,FALSE,LLM,0.95,117.2377985,32.5415,T,Northern Song
+snd_11327a80,song_定风波_苏_0041,定风波,苏轼,吟啸,chanting and whistling,人,person,何妨吟啸且徐行,Human,,,,implied,real,FALSE,LLM,0.9,117.2377985,32.5415,T,Northern Song
+snd_543f847f,song_贺新郎_苏_0043,贺新郎,苏轼,风敲竹,wind knocking bamboo,风,wind,又却是，风敲竹。,Nature,帘外,outside the curtain,micro_space,direct,real,FALSE,LLM,0.95,114.423348,23.116409,T,Northern Song
+snd_e0ed1d57,song_洞仙歌_苏_0044,洞仙歌,苏轼,庭户无声,courtyard and house are silent,庭户,courtyard and house,起来携素手，庭户无声，时见疏星渡河汉。,Environment,庭户,courtyard and house,micro_space,direct,real,TRUE,LLM,0.9,114.596388,32.6311815,T,Northern Song
+snd_29cebca4,song_江神子・江城子_苏_0045,江神子・江城子,苏轼,无处话凄凉,nowhere to speak of my sorrow,话,speech,千里孤坟，无处话凄凉,Human,千里孤坟,lonely grave a thousand miles away,implied,implied,real,TRUE,LLM,0.9,119.41,35.99,T,Northern Song
+snd_b6ab0e2f,song_江神子・江城子_苏_0045,江神子・江城子,苏轼,相顾无言,looking at each other without words,言,speech,相顾无言，惟有泪千行,Human,,,,implied,dream,TRUE,LLM,0.95,119.41,35.99,T,Northern Song
+snd_282c444e,song_永遇乐_苏_0046,永遇乐,苏轼,铿然一叶,a leaf falls with a clang,一叶,a leaf,如三鼓，铿然一叶，黯黯梦云惊断。,Nature,,,,direct,dream,FALSE,LLM,0.9,118.2609605,34.4062425,T,Northern Song
+snd_a9566e2d,song_永遇乐_苏_0046,永遇乐,苏轼,三鼓,third drum (night watch),鼓,drum,如三鼓，铿然一叶，黯黯梦云惊断。,Environment,,,,implied,dream,FALSE,LLM,0.8,118.2609605,34.4062425,T,Northern Song
+snd_8a6027b2,song_谢池春_李_0048,谢池春,李之仪,疏雨过,sparse rain passes,雨,rain,残寒销尽，疏雨过、清明後。,Nature,,,,implied,real,FALSE,LLM,0.6,118.49,31.55,T,Northern Song
+snd_db06b89a,song_高阳台_韩_0051,高阳台,韩,频听银签,frequently hear the silver clepsydra,银签,silver clepsydra (water clock),频听银签，重燃绛蜡，年华衮衮惊心。,Environment,,,,direct,real,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_49960572,song_高阳台_韩_0051,高阳台,韩,伴我微吟,accompany me in soft chanting,我,I (the poet),多谢梅花，伴我微吟。,Human,,,,implied,real,FALSE,LLM,0.85,120.16,30.29,F,Southern Song
+snd_b63e94cc,song_生查子_刘_0053,生查子,刘克庄,戏鼓侵明发,playful drums invade the dawn,鼓,drum,戏鼓侵明发,Instrument,,,implied,implied,real,FALSE,LLM,0.9,118.13,27.34,T,Southern Song
+snd_0dfb689a,song_生查子_刘_0053,生查子,刘克庄,人散市声收,"people disperse, market sounds cease",市声,market sounds,人散市声收,Environment,市,market,micro_space,implied,real,TRUE,LLM,0.95,118.13,27.34,T,Southern Song
+snd_22eb6703,song_高阳台_张_0054,高阳台,张炎,听啼鹃,hear the cuckoo's cry,啼鹃,cuckoo's cry,怕听啼鹃,Animal,,,,direct,real,FALSE,LLM,0.9,118.2876235,35.095536,T,Southern Song
+snd_b16cd4bd,song_高阳台_张_0054,高阳台,张炎,笙歌,reed pipe songs,笙歌,reed pipe music and singing,无心再续笙歌梦,Instrument,,,,implied,memory,TRUE,LLM,0.8,118.2876235,35.095536,T,Southern Song
+snd_2839d7df,song_贺新郎_刘_0055,贺新郎,刘克庄,争旗鼓,compete with flags and drums,鼓,drum,任陌头、年少争旗鼓,Instrument,陌头,roadside,micro_space,implied,real,FALSE,LLM,0.9,116.716243,27.6000215,T,Southern Song
+snd_9c2895d1,song_贺新郎_刘_0055,贺新郎,刘克庄,溪雨急,stream rain urgent,溪雨,stream rain,溪雨急，浪花舞,Nature,溪,stream,micro_space,implied,real,FALSE,LLM,0.7,116.716243,27.6000215,T,Southern Song
+snd_8564824c,song_贺新郎_刘_0056,贺新郎,刘克庄,斜风细雨,slanting wind and fine rain,风,wind,更那堪、斜风细雨，乱愁如织。,Nature,,,,implied,real,FALSE,LLM,0.6,116.716243,27.6000215,T,Southern Song
+snd_dea96dd4,song_玉楼春_刘_0057,玉楼春,刘克庄,呼庐,shouting at dice game,人声,human voices,红烛呼庐宵不寐,Human,客舍,inn,micro_space,implied,real,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_f8b78f64,song_好事近_韩_0058,好事近,韩元吉,梨园声,sounds of the Pear Garden,梨园,Pear Garden (imperial music academy),多少梨园声在,Instrument,,,,direct,memory,FALSE,LLM,0.9,116.131966,31.6319025,T,Southern Song
+snd_1d96b598,song_好事近_韩_0058,好事近,韩元吉,御沟声断,imperial ditch sound broken,御沟,imperial ditch (water channel),惟有御沟声断,Nature,御沟,imperial ditch,micro_space,direct,real,FALSE,LLM,0.95,116.131966,31.6319025,T,Southern Song
+snd_9c7d7027,song_好事近_韩_0058,好事近,韩元吉,呜咽,sobbing,人,person (implied),似知人呜咽,Human,,,,implied,real,FALSE,LLM,0.85,116.131966,31.6319025,T,Southern Song
+snd_e3c10bd7,song_六州歌头_韩_0059,六州歌头,韩元吉,玉勒争嘶,jade-bit horses neigh in competition,马,horse,草软莎平跋马，垂杨渡、玉勒争嘶。,Animal,垂杨渡,willow ferry,micro_space,direct,real,FALSE,LLM,0.95,120.16,30.29,F,Southern Song
+snd_b2277466,song_烛影摇红_张_0060,烛影摇红,张抡,揭天丝管,sky-piercing strings and pipes,丝管,strings and pipes (musical instruments),五云深处，万烛光中，揭天丝管。,Instrument,五云深处,deep within five-colored clouds,implied,direct,memory,FALSE,LLM,0.95,120.16,30.29,T,Southern Song
+snd_ddc5d651,song_烛影摇红_张_0060,烛影摇红,张抡,几声归雁,a few calls of returning wild geese,归雁,returning wild geese,满怀幽恨，数点寒灯，几声归雁。,Animal,,,,direct,real,FALSE,LLM,0.9,120.16,30.29,T,Southern Song
+snd_ab033fa0,song_永遇乐_辛_0061,永遇乐,辛弃疾,舞榭歌台,dancing pavilion and singing stage,歌台,singing stage,舞榭歌台，风流总被，雨打风吹去。,Human,舞榭歌台,dancing pavilion and singing stage,micro_space,implied,memory,FALSE,LLM,0.9,118.5736685,30.2586685,T,Southern Song
+snd_4e12e062,song_永遇乐_辛_0061,永遇乐,辛弃疾,雨打风吹,rain beats and wind blows,雨打风吹,rain and wind,舞榭歌台，风流总被，雨打风吹去。,Nature,舞榭歌台,dancing pavilion and singing stage,micro_space,implied,real,FALSE,LLM,0.8,118.5736685,30.2586685,T,Southern Song
+snd_63860ac5,song_永遇乐_辛_0061,永遇乐,辛弃疾,金戈铁马,metal spears and iron horses,金戈铁马,weapons and warhorses,想当年，金戈铁马，气吞万里如虎。,Environment,,,,implied,memory,FALSE,LLM,0.7,118.5736685,30.2586685,T,Southern Song
+snd_675d17f6,song_绿意・疏影_张_0062,绿意・疏影,张炎,鸳鸯密语同倾盖,Mandarin ducks whisper intimately under the same canopy,鸳鸯,mandarin ducks,鸳鸯密语同倾盖,Animal,浅洲远渚,shallow islets and distant shores,micro_space,implied,real,FALSE,LLM,0.8,120.16,30.29,T,Southern Song
+snd_66978b60,song_绿意・疏影_张_0062,绿意・疏影,张炎,恐怨歌、忽断花风,fear that the resentful song might suddenly break the flower wind,怨歌,resentful song,恐怨歌、忽断花风,Human,,,,implied,imagination,FALSE,LLM,0.7,120.16,30.29,T,Southern Song
+snd_1b302166,song_绿意・疏影_张_0062,绿意・疏影,张炎,西风吹折,the west wind blows and breaks,西风,west wind,又一夜、西风吹折,Nature,,,,implied,real,FALSE,LLM,0.6,120.16,30.29,T,Southern Song
+snd_5a7a8a46,song_绿头鸭・多丽_晁_0063,绿头鸭・多丽,晁端礼,漏声正永,the sound of the water clock is long,漏,water clock,最关情、漏声正永，暗断肠、花影偷移。,Environment,,,,direct,real,FALSE,LLM,0.9,114.313904,34.802941,T,Northern Song
+snd_43a086fe,song_青门饮_时_0066,青门饮,时彦,胡马嘶风,Tartar horses neigh in the wind,胡马,Tartar horses,胡马嘶风，汉旗翻雪,Animal,,,,direct,real,FALSE,LLM,0.9,116.41,39.91,T,Northern Song
+snd_6d6433ee,song_青门饮_时_0066,青门饮,时彦,耳边曾道,once whispered by the ear,人声,human voice,料有牵情处，忍思量、耳边曾道,Human,耳边,by the ear,micro_space,memory,memory,FALSE,LLM,0.8,116.41,39.91,T,Northern Song
+snd_f41569e1,song_青门饮_时_0066,青门饮,时彦,认得迎门轻笑,recognize the light laughter greeting at the door,轻笑,light laughter,甚时跃马归来，认得迎门轻笑,Human,迎门,at the door,micro_space,implied,imagination,FALSE,LLM,0.85,116.41,39.91,T,Northern Song
+snd_15210fec,song_满庭芳_秦_0068,满庭芳,秦观,画角声断谯门,the sound of the painted horn breaks off at the watchtower gate,画角,painted horn (military instrument),画角声断谯门,Instrument,谯门,watchtower gate,micro_space,direct,real,FALSE,LLM,0.95,117.4502885,32.41973,T,Northern Song
+snd_a7866ad0,song_阮郎归_秦_0070,阮郎归,秦观,丽谯吹罢《小单于》,the beautiful watchtower finishes playing 'Little Chanyu',丽谯,beautiful watchtower (with music),丽谯吹罢《小单于》,Instrument,丽谯,beautiful watchtower,micro_space,implied,real,FALSE,LLM,0.95,113.0544,27.01424,T,Northern Song
+snd_c8ef03f8,song_满庭芳_秦_0071,满庭芳,秦观,按小秦筝,play the small Qin zheng,小秦筝,small Qin zheng (a string instrument),低底按小秦筝,Instrument,朱门,red gate,micro_space,implied,real,FALSE,LLM,0.9,117.4502885,32.41973,T,Northern Song
+snd_95e31fd6,song_醉中真・浣溪沙_贺_0074,醉中真・浣溪沙,贺铸,艳歌,beautiful song,歌,song,巧笑艳歌皆我意,Human,,,,implied,real,FALSE,LLM,0.9,114.31,31.79,T,Northern Song
+snd_d92770c2,song_伴云来・天香_贺_0077,伴云来・天香,贺铸,黄昏钟鼓,evening bells and drums,钟鼓,bells and drums,逦迤黄昏钟鼓,Environment,,,implied,direct,real,FALSE,LLM,0.9,119.92,31.15,T,Northern Song
+snd_40171cb5,song_伴云来・天香_贺_0077,伴云来・天香,贺铸,蛩催机杼,crickets urge the loom,蛩,crickets,蛩催机杼,Animal,,,implied,direct,real,FALSE,LLM,0.85,119.92,31.15,T,Northern Song
+snd_9a191352,song_伴云来・天香_贺_0077,伴云来・天香,贺铸,几声砧杵,several sounds of washing mallets,砧杵,washing mallets,齐应和、几声砧杵,Environment,,,implied,direct,real,FALSE,LLM,0.9,119.92,31.15,T,Northern Song
+snd_eff6b0d2,song_伴云来・天香_贺_0077,伴云来・天香,贺铸,无人晤语,no one to talk to,语,speech,幽恨无人晤语,Human,,,implied,direct,real,TRUE,LLM,0.8,119.92,31.15,T,Northern Song
+snd_2e10f2a6,song_高阳台_吴_0080,高阳台,吴文英,啼鸟,singing birds,鸟,bird,最愁人，啼鸟晴明,Animal,,,,direct,real,FALSE,LLM,0.95,120.16,30.29,F,Southern Song
+snd_0f97226c,song_三姝媚_吴_0081,三姝媚,吴文英,歌沈,singing sinks,歌,singing,舞歇歌沈,Human,,,,implied,memory,TRUE,LLM,0.9,120.161693,30.280059,T,Southern Song
+snd_e558b3e3,song_八声甘州_吴_0082,八声甘州,吴文英,时靸双鸳响,at times the sound of double slippers shuffling,双鸳,double slippers,时靸双鸳响，廊叶秋声。,Human,廊,corridor,micro_space,implied,real,FALSE,LLM,0.9,120.589613,31.304566,T,Southern Song
+snd_20c33e91,song_八声甘州_吴_0082,八声甘州,吴文英,廊叶秋声,autumn sound of leaves in the corridor,叶,leaves,时靸双鸳响，廊叶秋声。,Nature,廊,corridor,micro_space,implied,real,FALSE,LLM,0.85,120.589613,31.304566,T,Southern Song
+snd_fb5dade7,song_八声甘州_吴_0082,八声甘州,吴文英,问苍波无语,"asking the blue waves, but they are silent",苍波,blue waves,问苍波无语，华发奈山青。,Nature,,,,implied,real,TRUE,LLM,0.8,120.589613,31.304566,T,Southern Song
+snd_f975c580,song_八声甘州_吴_0082,八声甘州,吴文英,连呼酒,repeatedly call for wine,人,person,连呼酒，上琴台去，秋与云平。,Human,,,,implied,real,FALSE,LLM,0.9,120.589613,31.304566,T,Southern Song
+snd_e5d78e54,song_夜合花_吴_0083,夜合花,吴文英,壶箭催忙,the water clock urges haste,壶箭,water clock,翦蜡花、壶箭催忙,Environment,,,,implied,memory,FALSE,LLM,0.7,120.63,31.31,F,Southern Song
+snd_7454bc3a,song_夜合花_吴_0083,夜合花,吴文英,唤酒银罂,call for wine in silver jars,唤酒,calling for wine,重来万感，依前唤酒银罂,Human,,,,implied,real,FALSE,LLM,0.8,120.63,31.31,F,Southern Song
+snd_13a58a9b,song_夜合花_吴_0083,夜合花,吴文英,溪雨急,stream rain is urgent,溪雨,stream rain,溪雨急，岸花狂,Nature,溪,stream,micro_space,implied,real,FALSE,LLM,0.6,120.63,31.31,F,Southern Song
+snd_fe6a90d3,song_蹋莎行・踏莎行_吴_0084,蹋莎行・踏莎行,吴文英,雨声中,in the sound of rain,雨,rain,隔江人在雨声中,Nature,隔江,across the river,implied,direct,real,FALSE,LLM,0.95,120.59,31.3,T,Southern Song
+snd_4e422242,song_夜游宫_吴_0085,夜游宫,吴文英,听啼乌,hear the crying crows,啼乌,crying crows,听啼乌，立河桥，话未了。,Animal,河桥,river bridge,micro_space,direct,real,FALSE,LLM,0.95,120.16,30.29,F,Southern Song
+snd_cb0a1396,song_夜游宫_吴_0085,夜游宫,吴文英,雨外蛩声早,"outside the rain, the cricket's sound is early",蛩声,cricket's sound,雨外蛩声早。,Animal,雨外,outside the rain,micro_space,direct,real,FALSE,LLM,0.95,120.16,30.29,F,Southern Song
+snd_3ea8f2b9,song_唐多令_吴_0087,唐多令,吴文英,飕飕,soughing,芭蕉,banana leaves,纵芭蕉、不雨也飕飕,Nature,,,,implied,real,FALSE,LLM,0.9,120.13,30.27,T,Southern Song
+snd_911617d7,song_金缕歌・贺新郎_吴_0088,金缕歌・贺新郎,吴文英,重唱梅边吸度曲,sing again the song by the plum trees,人声,human voice,重唱梅边吸度曲，催发寒梢冻蕊。,Human,梅边,by the plum trees,micro_space,implied,real,FALSE,LLM,0.9,120.631275,31.301311,T,Southern Song
+snd_c9381b50,song_大有_潘_0089,大有,潘希白,听风雨,hear wind and rain,风雨,wind and rain,帘栊昨夜听风雨,Nature,帘栊,behind the curtain,micro_space,direct,memory,FALSE,LLM,0.95,,,,Southern Song
+snd_644b5b72,song_大有_潘_0089,大有,潘希白,砧杆动微寒,the washing block moves with slight cold,砧杆,washing block and mallet,砧杆动微寒,Environment,,,,implied,real,FALSE,LLM,0.8,,,,Southern Song
+snd_15034b3d,song_兰陵王_刘_0090,兰陵王,刘辰翁,共夜雨,together with night rain,夜雨,night rain,顾孺子，共夜雨,Nature,,,,implied,real,FALSE,LLM,0.7,115.00027,27.119751,T,Southern Song
+snd_bc70e985,song_宝鼎现_刘_0091,宝鼎现,刘辰翁,箫声断,flute sound breaks off,箫,flute,箫声断、约彩鸾归去,Instrument,,,,direct,real,FALSE,LLM,0.9,115.00027,27.119751,T,Southern Song
+snd_032a099c,song_宝鼎现_刘_0091,宝鼎现,刘辰翁,喧阗且止,noise and clamor then cease,喧阗,noise and clamor,甚辇路、喧阗且止,Environment,辇路,imperial carriage road,micro_space,direct,real,FALSE,LLM,0.8,115.00027,27.119751,T,Southern Song
+snd_ec83b55b,song_宝鼎现_刘_0091,宝鼎现,刘辰翁,听得念奴歌起,hear Niannu's song rise,念奴歌,Niannu's song,听得念奴歌起,Human,,,,direct,real,FALSE,LLM,0.95,115.00027,27.119751,T,Southern Song
+snd_11e560be,song_宝鼎现_刘_0091,宝鼎现,刘辰翁,三千乐指,three thousand musical fingers,乐指,musical fingers (musicians),空见说、三千乐指,Instrument,,,,inferred,memory,FALSE,LLM,0.7,115.00027,27.119751,T,Southern Song
+snd_4d6866a0,song_永遇乐_刘_0092,永遇乐,刘辰翁,社鼓,village drum,社鼓,village drum,空相对，残无寐，满村社鼓。,Environment,满村,the whole village,micro_space,implied,real,FALSE,LLM,0.9,115.00027,27.119751,T,Southern Song
+snd_8e04abd1,song_摸鱼儿_刘_0093,摸鱼儿,刘辰翁,歌声滑,smooth singing voice,歌声,singing voice,深杯欲共歌声滑,Human,,,,implied,memory,FALSE,LLM,0.9,115.00027,27.119751,T,Southern Song
+snd_8f08d42c,song_摸鱼儿_刘_0093,摸鱼儿,刘辰翁,顾曲,appreciating music,曲,music,清狂顾曲,Instrument,,,,implied,memory,FALSE,LLM,0.8,115.00027,27.119751,T,Southern Song
+snd_90e958ad,song_玉京秋_周_0096,玉京秋,周密,晚蜩凄切,evening cicadas chirp mournfully,晚蜩,evening cicadas,高林弄残照，晚蜩凄切。,Animal,高林,tall forest,micro_space,direct,real,FALSE,LLM,0.95,120.16,30.29,T,Southern Song
+snd_e1592cb2,song_玉京秋_周_0096,玉京秋,周密,碧砧度韵,green anvil produces rhythmic sound,碧砧,green anvil (for washing clothes),碧砧度韵，银床飘叶。,Human,碧砧,green anvil,micro_space,direct,real,FALSE,LLM,0.9,120.16,30.29,T,Southern Song
+snd_3314d205,song_玉京秋_周_0096,玉京秋,周密,砌蛩能说,crickets by the steps can tell,砌蛩,crickets by the steps,一襟幽事，砌蛩能说。,Animal,砌,steps,micro_space,implied,real,FALSE,LLM,0.85,120.16,30.29,T,Southern Song
+snd_f4a80973,song_玉京秋_周_0096,玉京秋,周密,怨歌长,plaintive song lingers,怨歌,plaintive song,怨歌长、琼壶暗缺。,Human,,,,implied,real,FALSE,LLM,0.8,120.16,30.29,T,Southern Song
+snd_f761f557,song_玉京秋_周_0096,玉京秋,周密,楚箫咽,Chu flute sobs,楚箫,Chu flute,楚箫咽。谁倚西楼淡月。,Instrument,西楼,west tower,micro_space,direct,real,FALSE,LLM,0.95,120.16,30.29,T,Southern Song
+snd_c0fe7241,song_曲游春_周_0097,曲游春,周密,沸十里、乱弦丛笛,"boiling for ten li, chaotic strings and clustered flutes",弦笛,strings and flutes,沸十里、乱弦丛笛,Instrument,十里,ten li (area),implied,direct,real,FALSE,LLM,0.9,120.13,30.26,T,Southern Song
+snd_326f85b1,song_曲游春_周_0097,曲游春,周密,歌管酬寒食,singing and pipes repay the Cold Food Festival,歌管,singing and pipes,歌管酬寒食,Instrument,,,,direct,real,FALSE,LLM,0.85,120.13,30.26,T,Southern Song
+snd_42e70176,song_高阳台_周_0098,高阳台,周密,叠鼓清笳,layered drums and clear reed pipes,"鼓, 笳","drums, reed pipes",纵英游，叠鼓清笳，骏马名姬。,Instrument,,,,implied,memory,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_d8ab3467,song_解佩环・疏影_彭_0100,解佩环・疏影,彭元逊,落木萧萧,falling trees rustling,落木,falling leaves/trees,尽孤城、落木萧萧，日夜江声流去。,Nature,孤城,lonely city,micro_space,direct,real,FALSE,LLM,0.9,114.99,27.12,T,Southern Song
+snd_65c3a0ae,song_解佩环・疏影_彭_0100,解佩环・疏影,彭元逊,闻笛,hear flute,笛,flute,日晏山深闻笛，恐他年流落，与子同赋。,Instrument,山深,deep mountains,micro_space,direct,real,FALSE,LLM,0.95,114.99,27.12,T,Southern Song
+snd_5b547e5d,song_六丑_彭_0101,六丑,彭元逊,城乌夜起,city crows rise at night,乌,crow,日下长秋，城乌夜起,Animal,城,city,micro_space,implied,real,FALSE,LLM,0.9,,,,Southern Song
+snd_ed8aaf57,song_石州引・石州慢_贺_0105,石州引・石州慢,贺铸,清歌,clear song,歌,song,红泪清歌，顿成清别。,Human,画楼,painted tower,micro_space,implied,memory,FALSE,LLM,0.9,114.5,37.44,T,Northern Song
+snd_ccb82ab5,song_石州引・石州慢_贺_0105,石州引・石州慢,贺铸,音尘多绝,sounds and dust are mostly cut off,音尘,sounds and dust (news),已是经年，杳杳音尘多绝。,Human,,,,implied,real,TRUE,LLM,0.7,114.5,37.44,T,Northern Song
+snd_fa3187c5,song_望湘人_贺_0106,望湘人,贺铸,莺声到枕,oriole's sound reaches the pillow,莺,oriole,厌莺声到枕,Animal,枕,pillow,micro_space,direct,real,FALSE,LLM,0.95,112.944,28.228,T,Northern Song
+snd_7bab1403,song_望湘人_贺_0106,望湘人,贺铸,鸾弦易断,phoenix strings easily break,鸾弦,phoenix strings (musical instrument),须信鸾弦易断,Instrument,,,,implied,imagination,FALSE,LLM,0.7,112.944,28.228,T,Northern Song
+snd_6cc350ae,song_望湘人_贺_0106,望湘人,贺铸,云和再鼓,cloud-harmony zither played again,云和,cloud-harmony zither (instrument),奈云和再鼓,Instrument,,,,implied,memory,FALSE,LLM,0.85,112.944,28.228,T,Northern Song
+snd_96e7af94,song_望湘人_贺_0106,望湘人,贺铸,曲终人远,"song ends, person far away",曲,song/music,曲终人远,Instrument,,,,implied,memory,FALSE,LLM,0.8,112.944,28.228,T,Northern Song
+snd_a000ab6e,song_蝶恋花_贺_0107,蝶恋花,贺铸,微吟,softly chant,人,person,竟日微吟长短句,Human,,,,implied,real,FALSE,LLM,0.9,116.409154,33.189245,T,Northern Song
+snd_7cf781d1,song_蝶恋花_贺_0107,蝶恋花,贺铸,胡琴语,huqin music,胡琴,huqin (string instrument),心寄胡琴语,Instrument,,,,implied,real,FALSE,LLM,0.95,116.409154,33.189245,T,Northern Song
+snd_65f07006,song_蝶恋花_贺_0107,蝶恋花,贺铸,雨声,sound of rain,雨,rain,数点雨声风约住,Nature,,,,direct,real,FALSE,LLM,0.95,116.409154,33.189245,T,Northern Song
+snd_5b43cea2,song_夏云峰_仲_0108,夏云峰,仲殊,莺声犹嫩,the oriole's song is still tender,莺,oriole,朱门掩、莺声犹嫩,Animal,朱门,red gate,micro_space,direct,real,FALSE,LLM,0.95,120.59,31.3,F,Northern Song
+snd_b50a2503,song_夏云峰_仲_0108,夏云峰,仲殊,时传音信,sometimes send news,音信,news/message,争知道、梦里蓬莱，待忘了馀香，时传音信,Human,,,,implied,imagination,FALSE,LLM,0.6,120.59,31.3,F,Northern Song
+snd_d824f71d,song_贺新郎_潘_0110,贺新郎,潘汾,画堂人静,"painted hall, people quiet",人,people,画堂人静,Human,画堂,painted hall,micro_space,implied,real,TRUE,LLM,0.9,,,,Northern and Southern Song Transition
+snd_ca09ddf6,song_贺新郎_潘_0110,贺新郎,潘汾,嘶骑不来,neighing horse does not come,骑,horse,嘶骑不来银烛暗,Animal,,,,implied,real,TRUE,LLM,0.9,,,,Northern and Southern Song Transition
+snd_b36538f3,song_忆王孙_李_0111,忆王孙,李重元,杜宇声声,cuckoo's repeated calls,杜宇,cuckoo,杜宇声声不忍闻,Animal,,,,direct,real,FALSE,LLM,1,,,,Northern Song
+snd_53199e5d,song_忆王孙_李_0111,忆王孙,李重元,雨打梨花,rain beating on pear blossoms,雨,rain,雨打梨花深闭门,Nature,深闭门,deeply closed door,micro_space,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_efe1c972,song_贺新郎_李_0112,贺新郎,李玉,嘶骑不来,the neighing horse does not come,骑,horse,嘶骑不来银烛暗,Animal,,,,implied,real,TRUE,LLM,0.9,,,,Northern Song
+snd_e67f4e44,song_临江仙_陈_0113,临江仙,陈与义,高咏,loudly reciting,人,person,高咏楚词酬午日,Human,,,,direct,real,FALSE,LLM,0.9,117.1749945,29.7293035,T,Northern and Southern Song Transition
+snd_82279128,song_临江仙_陈_0113,临江仙,陈与义,歌罢,after singing,人,person,歌罢满帘风,Human,,,,implied,real,FALSE,LLM,0.8,117.1749945,29.7293035,T,Northern and Southern Song Transition
+snd_d4274d65,song_临江仙_陈_0114,临江仙,陈与义,去无声,flows without sound,长沟流月,moonlit water in the long ditch,长沟流月去无声,Nature,长沟,long ditch,micro_space,implied,memory,TRUE,LLM,0.9,117.1749945,29.7293035,T,Northern and Southern Song Transition
+snd_2acede5e,song_临江仙_陈_0114,临江仙,陈与义,吹笛,playing the flute,笛,flute,杏花疏影里，吹笛到天明,Instrument,杏花疏影里,among the sparse shadows of apricot blossoms,micro_space,implied,memory,FALSE,LLM,1,117.1749945,29.7293035,T,Northern and Southern Song Transition
+snd_33432143,song_临江仙_陈_0114,临江仙,陈与义,渔唱,fisherman's song,渔,fisherman,古今多少事，渔唱起三更,Human,,,,implied,real,FALSE,LLM,1,117.1749945,29.7293035,T,Northern and Southern Song Transition
+snd_a090a2cd,song_兰陵王_张_0115,兰陵王,张元干,音断弦索,sound of strings broken,弦索,string instruments,甚粉淡衣襟，音断弦索,Instrument,,,,implied,memory,TRUE,LLM,0.95,,,,Northern and Southern Song Transition
+snd_9815bf7a,song_薄幸_吕_0117,薄幸,吕渭老,鸦啼莺弄,crows caw and orioles sing,鸦啼莺弄,crows and orioles,乍听得、鸦啼莺弄，惹起新愁无限。,Animal,青楼,green mansion,micro_space,direct,real,FALSE,LLM,0.95,120.75,30.77,F,Northern and Southern Song Transition
+snd_284d2002,song_薄幸_吕_0117,薄幸,吕渭老,无言,without words,无言,silence,尽无言、闲品秦筝，泪满参差雁。,Human,,,,implied,real,TRUE,LLM,0.8,120.75,30.77,F,Northern and Southern Song Transition
+snd_02d125a4,song_薄幸_吕_0117,薄幸,吕渭老,闲品秦筝,idly play the Qin zither,秦筝,Qin zither,尽无言、闲品秦筝，泪满参差雁。,Instrument,,,,implied,real,FALSE,LLM,0.9,120.75,30.77,F,Northern and Southern Song Transition
+snd_d92c943c,song_满江红_岳_0118,满江红,岳飞,潇潇雨歇,the pattering rain ceases,雨,rain,怒发冲冠，凭阑处、潇潇雨歇。,Nature,凭阑处,leaning on the railing,micro_space,direct,real,FALSE,LLM,0.9,115.159912,30.154878,T,Northern and Southern Song Transition
+snd_82697bd6,song_满江红_岳_0118,满江红,岳飞,仰天长啸,looking up to the sky and roaring,啸,roar,抬望眼、仰天长啸，壮怀激烈。,Human,,,,direct,real,FALSE,LLM,0.95,115.159912,30.154878,T,Northern and Southern Song Transition
+snd_adce50e2,song_水龙吟_陈_0119,水龙吟,陈亮,子规声断,the cuckoo's call breaks off,子规,cuckoo,正销魂，又是疏烟淡月，子规声断。,Animal,,,,direct,real,FALSE,LLM,0.95,120.03,28.9,T,Southern Song
+snd_428240ed,song_宴山亭・燕山亭_张_0120,宴山亭・燕山亭,张,声摇,sound shakes,蕙畹,orchid garden,蕙畹声摇,Nature,蕙畹,orchid garden,micro_space,implied,real,FALSE,LLM,0.6,116.4074,39.9042,T,Southern Song
+snd_6933e420,song_鹧鸪天_姜_0123,鹧鸪天,姜夔,山鸟啼,mountain birds cry,山鸟,mountain birds,暗里忽惊山鸟啼,Animal,山,mountain,micro_space,direct,dream,FALSE,LLM,0.95,120.1281295,30.589537,T,Southern Song
+snd_6fefbecc,song_霓裳中序第一_姜_0126,霓裳中序第一,姜夔,乱蛩吟壁,chaotic crickets chirping on the wall,蛩,cricket,乱蛩吟壁,Animal,壁,wall,micro_space,direct,real,FALSE,LLM,0.95,112.726471,27.257664,T,Southern Song
+snd_a6419dc7,song_齐天乐_姜_0128,齐天乐,姜夔,吟愁赋,chanting the sorrowful rhapsody,庾郎,Yu Xin,庾郎先自吟愁赋,Human,,,,direct,real,FALSE,LLM,0.9,120.161693,30.280059,T,Southern Song
+snd_e4ee428d,song_齐天乐_姜_0128,齐天乐,姜夔,私语,whispering,蟋蟀,cricket,凄凄更闻私语,Animal,,,,direct,real,FALSE,LLM,0.85,120.161693,30.280059,T,Southern Song
+snd_b803280b,song_齐天乐_姜_0128,齐天乐,姜夔,哀音似诉,sorrowful sound like complaining,蟋蟀,cricket,哀音似诉,Animal,,,,direct,real,FALSE,LLM,0.8,120.161693,30.280059,T,Southern Song
+snd_3e5bce0c,song_齐天乐_姜_0128,齐天乐,姜夔,吹暗雨,blowing dark rain,雨,rain,西窗又吹暗雨,Nature,西窗,west window,micro_space,direct,real,FALSE,LLM,0.85,120.161693,30.280059,T,Southern Song
+snd_961e8cc0,song_齐天乐_姜_0128,齐天乐,姜夔,砧杵,washing block and club,砧杵,washing block and club,相和砧杵,Environment,,,,implied,real,FALSE,LLM,0.75,120.161693,30.280059,T,Southern Song
+snd_22093fbe,song_齐天乐_姜_0128,齐天乐,姜夔,呼灯,calling for a lantern,世间儿女,children in the world,笑篱落呼灯,Human,篱落,hedge,micro_space,direct,real,FALSE,LLM,0.8,120.161693,30.280059,T,Southern Song
+snd_a688e209,song_齐天乐_姜_0128,齐天乐,姜夔,写入琴丝,written into the strings of the qin,琴丝,qin strings,写入琴丝,Instrument,,,,implied,real,FALSE,LLM,0.7,120.161693,30.280059,T,Southern Song
+snd_444cc2f0,song_齐天乐_姜_0128,齐天乐,姜夔,一声声更苦,each sound more bitter,琴丝,qin strings,一声声更苦,Instrument,,,,direct,real,FALSE,LLM,0.9,120.161693,30.280059,T,Southern Song
+snd_9d410f7a,song_一萼红_姜_0129,一萼红,姜夔,笑语,laughter and talk,人,people,渐笑语、惊起卧沙禽,Human,径竹,path among bamboos,micro_space,direct,real,FALSE,LLM,0.9,112.945333,28.233971,T,Southern Song
+snd_ccc85439,song_一萼红_姜_0129,一萼红,姜夔,惊起卧沙禽,startled the waterfowl resting on the sand,沙禽,waterfowl on the sand,渐笑语、惊起卧沙禽,Animal,沙,sandbank,micro_space,implied,real,FALSE,LLM,0.8,112.945333,28.233971,T,Southern Song
+snd_6f8d9c78,song_一萼红_姜_0129,一萼红,姜夔,呼唤登临,calling to ascend,人,people,野老林泉，故王台榭，呼唤登临,Human,林泉,forest and spring,micro_space,implied,real,FALSE,LLM,0.7,112.945333,28.233971,T,Southern Song
+snd_4ce35b7c,song_一萼红_姜_0129,一萼红,姜夔,空叹,vainly sigh,人,person,朱户黏鸡，金盘簇燕，空叹时序侵寻,Human,,,,direct,real,FALSE,LLM,0.6,112.945333,28.233971,T,Southern Song
+snd_5e2bb6ca,song_琵琶仙・自度曲_姜_0131,琵琶仙・自度曲,姜夔,几声啼,several sounds of crying,啼,crying (bird),春渐远、汀洲自绿，更添了、几声啼。,Animal,汀洲,sandbank,micro_space,direct,real,FALSE,LLM,0.9,120.094566,30.899015,T,Southern Song
+snd_48c26e5f,song_八归_姜_0132,八归,姜夔,蛩切,cricket chirps sharply,蛩,cricket,藓阶蛩切,Animal,藓阶,mossy steps,micro_space,direct,real,FALSE,LLM,0.95,112.945333,28.233971,T,Southern Song
+snd_f1e64819,song_八归_姜_0132,八归,姜夔,琵琶谁拨,who plays the pipa,琵琶,pipa (lute),问水面、琵琶谁拨,Instrument,水面,water surface,micro_space,implied,imagination,FALSE,LLM,0.9,112.945333,28.233971,T,Southern Song
+snd_70e5948e,song_八归_姜_0132,八归,姜夔,啼,cry of birds,啼,birds crying,总付与啼,Animal,,,,implied,real,FALSE,LLM,0.85,112.945333,28.233971,T,Southern Song
+snd_567e645a,song_扬州慢_姜_0133,扬州慢,姜夔,清角吹寒,clear horn blowing cold,角,horn,渐黄昏，清角吹寒，都在空城。,Instrument,空城,empty city,micro_space,direct,real,FALSE,LLM,0.95,119.4129,32.3938,T,Southern Song
+snd_e7a56bbd,song_暗香_姜_0136,暗香,姜夔,吹笛,playing the flute,笛,flute,梅边吹笛,Instrument,梅边,beside the plum trees,micro_space,implied,memory,FALSE,LLM,0.95,120.589613,31.304566,T,Southern Song
+snd_4146dd1c,song_暗香_姜_0136,暗香,姜夔,泣,weeping,翠尊,green wine cup,翠尊易泣,Human,,,,implied,imagination,FALSE,LLM,0.6,120.589613,31.304566,T,Southern Song
+snd_4132eceb,song_疏影_姜_0137,疏影,姜夔,玉龙哀曲,jade dragon's mournful tune,玉龙,jade dragon (flute),又却怨、玉龙哀曲,Instrument,,,,implied,imagination,FALSE,LLM,0.9,120.589613,31.304566,T,Southern Song
+snd_3431c396,song_翠楼吟_姜_0138,翠楼吟,姜夔,听毡幕、元戎歌吹,hear the singing and playing of the commander in the felt tent,元戎歌吹,commander's singing and playing,听毡幕、元戎歌吹,Human,毡幕,felt tent,micro_space,direct,real,FALSE,LLM,0.9,120.161693,30.280059,T,Southern Song
+snd_54407784,song_翠楼吟_姜_0138,翠楼吟,姜夔,新翻胡部曲,newly arranged Hu music,胡部曲,Hu music,新翻胡部曲,Instrument,,,,implied,real,FALSE,LLM,0.7,120.161693,30.280059,T,Southern Song
+snd_4a327990,song_木兰花・玉楼春_钱_0139,木兰花・玉楼春,钱惟演,莺语乱,orioles' songs in disorder,莺,orioles,城上风光莺语乱,Animal,城上,on the city wall,micro_space,direct,real,FALSE,LLM,0.95,113.38,31.69,T,Northern Song
+snd_d9817cb2,song_木兰花・玉楼春_钱_0139,木兰花・玉楼春,钱惟演,春拍岸,spring waves pat the shore,春波,spring waves,城下烟波春拍岸,Nature,城下,below the city wall,micro_space,implied,real,FALSE,LLM,0.85,113.38,31.69,T,Northern Song
+snd_6111f542,song_御街行_范_0141,御街行,范仲淹,寒声碎,cold sounds shatter,堕叶,falling leaves,纷纷堕叶飘香砌。夜寂静、寒声碎。,Nature,香砌,fragrant steps,micro_space,direct,real,FALSE,LLM,0.9,,,,Northern Song
+snd_dcab6caf,song_曲玉管_柳_0142,曲玉管,柳永,永日无言,all day long without words,人,person,一场消黯，永日无言，却下层楼,Human,层楼,tower,micro_space,implied,real,TRUE,LLM,0.9,107.4,34.52,T,Northern Song
+snd_5887cc0d,song_雨霖铃_柳_0143,雨霖铃,柳永,寒蝉凄切,cold cicadas mournfully chirp,寒蝉,cold cicadas,寒蝉凄切。对长亭晚，骤雨初歇。,Animal,长亭,long pavilion,micro_space,direct,real,FALSE,LLM,0.95,114.313904,34.802941,T,Northern Song
+snd_9c0889fd,song_雨霖铃_柳_0143,雨霖铃,柳永,骤雨初歇,sudden rain just stopped,骤雨,sudden rain,寒蝉凄切。对长亭晚，骤雨初歇。,Nature,长亭,long pavilion,micro_space,implied,real,FALSE,,0.7,114.313904,34.802941,T,Northern Song
+snd_be5b0a6e,song_雨霖铃_柳_0143,雨霖铃,柳永,竟无语凝噎,"actually speechless, choked with sobs",语,speech,执手相看泪眼，竟无语凝噎。,Human,,,,direct,real,TRUE,,0.9,114.313904,34.802941,T,Northern Song
+snd_e86fc2d1,song_采莲令_柳_0144,采莲令,柳永,轧轧开朱户,creaking sound of opening the red door,朱户,red door,翠娥执手送临歧，轧轧开朱户。,Environment,临歧,at the parting fork,micro_space,direct,real,FALSE,LLM,0.9,114.313904,34.802941,T,Northern Song
+snd_c6fce9fd,song_凤栖梧・蝶恋花_柳_0145,凤栖梧・蝶恋花,柳永,对酒当歌,"facing wine, should sing",歌,singing,拟把疏狂图一醉。对酒当歌，强乐还无味。,Human,,,,implied,imagination,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_f653e23c,song_浪淘沙_柳_0146,浪淘沙,柳永,又闻空阶，夜雨频滴,"again hear on empty steps, night rain frequently drips",夜雨,night rain,那堪酒醒，又闻空阶，夜雨频滴,Nature,空阶,empty steps,micro_space,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_6d153eb0,song_浪淘沙_柳_0146,浪淘沙,柳永,饮散歌阑,"drinking ends, songs cease",歌,song,洞房深处，几度饮散歌阑,Human,洞房深处,deep within the bridal chamber,micro_space,implied,memory,FALSE,LLM,0.9,,,,Northern Song
+snd_4d68ddb5,song_浪淘沙_柳_0146,浪淘沙,柳永,轻轻细说与,gently and softly tell,说,speak,愿低帏昵枕，轻轻细说与,Human,低帏昵枕,"lowered curtain, intimate pillow",micro_space,implied,imagination,FALSE,LLM,0.85,,,,Northern Song
+snd_73bf1c64,song_定风波_柳_0147,定风波,柳永,音书无个,no news or letters,音书,news/letters (implied sound of communication),恨薄情一去，音书无个,Human,,,,implied,real,TRUE,LLM,0.6,108.960637,34.271171,T,Northern Song
+snd_97485589,song_少年游_柳_0148,少年游,柳永,乱蝉栖,chaotic cicadas perch,蝉,cicadas,高柳乱蝉栖,Animal,高柳,tall willows,micro_space,implied,real,FALSE,LLM,0.8,114.5539995,32.3137475,T,Northern Song
+snd_cde1700c,song_戚氏_柳_0149,戚氏,柳永,正蝉吟败叶,cicadas chirping among withered leaves,蝉,cicadas,正蝉吟败叶，蛩响衰草，相应喧喧,Animal,败叶,withered leaves,micro_space,direct,real,FALSE,LLM,0.95,108.960637,34.271171,T,Northern Song
+snd_6add4e8e,song_戚氏_柳_0149,戚氏,柳永,蛩响衰草,crickets chirping among withered grass,蛩,crickets,正蝉吟败叶，蛩响衰草，相应喧喧,Animal,衰草,withered grass,micro_space,direct,real,FALSE,LLM,0.95,108.960637,34.271171,T,Northern Song
+snd_a662070a,song_戚氏_柳_0149,戚氏,柳永,相应喧喧,responding noisily,蝉与蛩,cicadas and crickets,正蝉吟败叶，蛩响衰草，相应喧喧,Animal,,,,direct,real,FALSE,LLM,0.8,108.960637,34.271171,T,Northern Song
+snd_5c381c23,song_戚氏_柳_0149,戚氏,柳永,遇当歌,encounter when singing,歌,singing,况有狂朋怪侣，遇当歌、对酒竞留连,Human,,,,implied,memory,FALSE,LLM,0.85,108.960637,34.271171,T,Northern Song
+snd_71450707,song_戚氏_柳_0149,戚氏,柳永,渐呜咽、画角数声残,"gradually sobbing, the painted horn's few sounds fade",画角,painted horn,漏箭移、稍觉轻寒。渐呜咽、画角数声残,Instrument,,,,direct,real,FALSE,LLM,0.95,108.960637,34.271171,T,Northern Song
+snd_5325dd0b,song_夜半乐_柳_0150,夜半乐,柳永,更闻商旅相呼,further hear merchants calling each other,商旅,merchants and travelers,怒涛渐息，樵风乍起，更闻商旅相呼。,Human,越溪深处,deep in the Yue stream,toponym,direct,real,FALSE,LLM,0.95,120.161693,30.280059,T,Northern Song
+snd_4aac400a,song_夜半乐_柳_0150,夜半乐,柳永,渔人鸣榔归去,fishermen strike the wooden clapper returning,渔人鸣榔,fishermen striking wooden clappers,残日下，渔人鸣榔归去。,Human,残日下,under the setting sun,micro_space,direct,real,FALSE,LLM,0.9,120.161693,30.280059,T,Northern Song
+snd_3e11e50b,song_夜半乐_柳_0150,夜半乐,柳永,含羞笑相语,shyly smile and talk to each other,浣沙游女,silk-washing maidens,岸边两两三三，浣沙游女。避行客、含羞笑相语。,Human,岸边,riverbank,micro_space,direct,real,FALSE,LLM,0.85,120.161693,30.280059,T,Northern Song
+snd_242d87d8,song_夜半乐_柳_0150,夜半乐,柳永,断鸿声远,the sound of a lone swan goose fades into the distance,断鸿,lone swan goose,凝泪眼、杳杳神京路。断鸿声远长天暮。,Animal,长天暮,vast sky at dusk,micro_space,direct,real,FALSE,LLM,0.95,120.161693,30.280059,T,Northern Song
+snd_f2306611,song_玉蝴蝶_柳_0151,玉蝴蝶,柳永,断鸿声,sound of a lone swan goose,断鸿,lone swan goose,断鸿声里，立尽斜阳,Animal,,,,direct,real,FALSE,LLM,0.95,115.0676465,33.84941,T,Northern Song
+snd_c4d7d00f,song_竹马子・竹马儿_柳_0153,竹马子・竹马儿,柳永,残蝉噪晚,lingering cicadas chirp in the evening,残蝉,lingering cicadas,渐觉一叶惊秋，残蝉噪晚，素商时序。,Animal,,,,direct,real,FALSE,LLM,0.95,118.78,32.05,T,Northern Song
+snd_d48335e6,song_迷神引_柳_0154,迷神引,柳永,孤城暮角,lonely city evening horn,角,horn,孤城暮角，引胡茄怨。,Instrument,孤城,lonely city,micro_space,direct,real,FALSE,LLM,0.9,112.989982,28.118301,T,Northern Song
+snd_65f20d67,song_迷神引_柳_0154,迷神引,柳永,引胡茄怨,draws out the plaintive Tartar reed pipe,胡茄,Tartar reed pipe,孤城暮角，引胡茄怨。,Instrument,孤城,lonely city,micro_space,direct,real,FALSE,LLM,0.85,112.989982,28.118301,T,Northern Song
+snd_c65a4778,song_迷神引_柳_0154,迷神引,柳永,平沙雁、旋惊散,"on the flat sand, wild geese suddenly scatter in alarm",雁,wild geese,水茫茫，平沙雁、旋惊散。,Animal,平沙,flat sand,micro_space,implied,real,FALSE,LLM,0.7,112.989982,28.118301,T,Northern Song
+snd_3f1240dd,song_一丛花令・一丛花_张_0156,一丛花令・一丛花,张先,嘶骑渐遥,neighing horse gradually distant,骑,horse,嘶骑渐遥，征尘不断，何处认郎踪。,Animal,,,,direct,real,FALSE,LLM,0.9,120.1,30.86,T,Northern Song
+snd_9ce8a89f,song_天仙子_张_0157,天仙子,张先,水调数声,several notes of Water Melody,水调,Water Melody (a tune),水调数声持酒听,Instrument,,,,direct,real,FALSE,LLM,0.9,113.659605,30.235006,T,Northern Song
+snd_80169ede,song_天仙子_张_0157,天仙子,张先,听,listen,水调,Water Melody,水调数声持酒听,Instrument,,,,direct,real,FALSE,LLM,0.8,113.659605,30.235006,T,Northern Song
+snd_d0cc8734,song_千秋岁_张_0158,千秋岁,张先,数声鶗鴂,several cries of the cuckoo,鶗鴂,cuckoo,数声鶗鴂。又报芳菲歇。,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_d9459b47,song_千秋岁_张_0158,千秋岁,张先,莫把幺弦拨,do not pluck the thin string,幺弦,thin string (of a musical instrument),莫把幺弦拨。怨极弦能说。,Instrument,,,,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_158667ec,song_青门引・青门饮_张_0159,青门引・青门饮,张先,风雨晚来方定,wind and rain only stop in the evening,风雨,wind and rain,风雨晚来方定,Nature,,,,implied,real,FALSE,LLM,0.9,120.1,30.86,T,Northern Song
+snd_19e0eeb0,song_青门引・青门饮_张_0159,青门引・青门饮,张先,楼头画角风吹醒,the painted horn on the tower awakens me blown by wind,画角,painted horn (military instrument),楼头画角风吹醒,Instrument,楼头,top of the tower,micro_space,direct,real,FALSE,LLM,0.95,120.1,30.86,T,Northern Song
+snd_c6a7ed9b,song_青门引・青门饮_张_0159,青门引・青门饮,张先,入夜重门静,"as night falls, the multiple doors are quiet",静,silence,入夜重门静,Environment,重门,multiple doors,micro_space,direct,real,TRUE,LLM,0.85,120.1,30.86,T,Northern Song
+snd_0dc15537,song_浣溪沙_晏_0160,浣溪沙,晏殊,一曲新词,a new song,新词,new song,一曲新词酒一杯,Human,,,,implied,real,FALSE,LLM,0.6,115.65,34.43,T,Northern Song
+snd_f95b348d,song_浣溪沙_晏_0161,浣溪沙,晏殊,歌席,singing banquet,歌,singing,酒筵歌席莫辞频,Human,酒筵歌席,banquet with singing,micro_space,implied,real,FALSE,LLM,0.9,115.65,34.43,T,Northern Song
+snd_8dcfcb05,song_浣溪沙_晏_0161,浣溪沙,晏殊,莫辞频,do not decline frequently,辞,decline (speech),酒筵歌席莫辞频,Human,酒筵歌席,banquet with singing,micro_space,implied,real,TRUE,LLM,0.7,115.65,34.43,T,Northern Song
+snd_e119ddbf,song_浣溪沙_晏_0161,浣溪沙,晏殊,落花风雨,falling flowers and wind and rain,风雨,wind and rain,落花风雨更伤春,Nature,,,,implied,real,FALSE,LLM,0.8,115.65,34.43,T,Northern Song
+snd_3c5522fa,song_木兰花・玉楼春_晏_0164,木兰花・玉楼春,晏殊,闻琴,hear the zither,琴,zither,闻琴解佩神仙侣,Instrument,,,,direct,memory,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_e3709bc3,song_木兰花・玉楼春_晏_0165,木兰花・玉楼春,晏殊,歌韵响铮琮,singing rhyme resounds like jingling jade,歌韵,singing rhyme,重头歌韵响铮琮,Human,池塘,pond,micro_space,direct,memory,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_90a0874f,song_踏莎行_晏_0166,踏莎行,晏殊,离歌,farewell song,离歌,farewell song,祖席离歌，长亭别宴。,Human,祖席,farewell banquet,micro_space,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_325e4345,song_踏莎行_晏_0166,踏莎行,晏殊,马映林嘶,horse neighs through the forest,马,horse,居人匹马映林嘶，行人去棹依波转。,Animal,林,forest,micro_space,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_05863735,song_玉楼春_晏_0168,玉楼春,晏殊,五更钟,bell at the fifth watch,钟,bell,楼头残梦五更钟,Environment,楼头,top of the tower,micro_space,implied,real,FALSE,LLM,0.9,114.31,34.79,F,Northern Song
+snd_2860e46c,song_玉楼春_晏_0168,玉楼春,晏殊,三月雨,rain in the third month,雨,rain,花底离情三月雨,Nature,花底,under the flowers,micro_space,implied,real,FALSE,LLM,0.85,114.31,34.79,F,Northern Song
+snd_41e3eb5b,song_诉衷情_欧_0171,诉衷情,欧阳修,拟歌先敛,about to sing but first restrains,歌,singing,拟歌先敛，欲笑还颦，最断人肠。,Human,,,,implied,imagination,FALSE,LLM,0.6,111.31,30.77,T,Northern Song
+snd_1e758e4f,song_玉楼春_欧_0174,玉楼春,欧阳修,歌韵响铮鏦,singing rhythm resounds with clanging,歌韵,singing rhythm,从头歌韵响铮鏦,Human,,,,direct,memory,FALSE,LLM,0.9,114.140711,33.7601275,T,Northern Song
+snd_17d072ff,song_玉楼春_欧_0175,玉楼春,欧阳修,闻琴,hear the zither,琴,zither,闻琴解神仙侣,Instrument,,,,direct,memory,FALSE,LLM,0.9,114.140711,33.7601275,T,Northern Song
+snd_2c017c4b,song_玉楼春_欧_0176,玉楼春,欧阳修,风竹敲秋韵,wind and bamboo strike autumn rhythm,风竹,wind and bamboo,夜深风竹敲秋韵,Nature,,,,direct,real,FALSE,LLM,0.9,114.140711,33.7601275,T,Northern Song
+snd_1176cdaa,song_玉楼春_欧_0176,玉楼春,欧阳修,万叶千声,"ten thousand leaves, a thousand sounds",叶,leaves,万叶千声皆是恨,Nature,,,,direct,real,FALSE,LLM,0.85,114.140711,33.7601275,T,Northern Song
+snd_db18e9d5,song_风入松_俞_0178,风入松,俞国宝,骄嘶,proudly neigh,玉骢,jade-white horse,玉骢惯识西湖路，骄嘶过、沽酒垆前。,Animal,沽酒垆前,in front of the wine shop,micro_space,direct,real,FALSE,LLM,0.95,120.14,30.26,T,Southern Song
+snd_1794ee38,song_风入松_俞_0178,风入松,俞国宝,箫鼓,flute and drum,箫鼓,flute and drum,红杏香中箫鼓，绿杨影里秋千。,Instrument,红杏香中,amid the fragrance of red apricot blossoms,micro_space,direct,real,FALSE,LLM,0.95,120.14,30.26,T,Southern Song
+snd_93299d2f,song_绮罗香_史_0179,绮罗香,史达祖,翦灯深夜语,"trimming the lamp, talking deep into the night",语,speech,记当日、门掩梨花，翦灯深夜语。,Human,门掩梨花,behind the door with pear blossoms,micro_space,implied,memory,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_f90f7e30,song_双双燕_史_0180,双双燕,史达祖,软语,soft speech,燕,swallows,又软语、商量不定,Animal,雕梁藻井,carved beams and caisson ceiling,micro_space,implied,real,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_879fc107,song_喜迁莺_史_0182,喜迁莺,史达祖,忍听东风笛,bear to hear the east wind flute,笛,flute,老了杜郎，忍听东风笛,Instrument,,,,direct,memory,FALSE,LLM,0.9,120.16,30.29,T,Southern Song
+snd_c396b304,song_三姝媚_史_0183,三姝媚,史达祖,凤弦常下,phoenix strings often lowered,凤弦,phoenix strings (zither strings),锦瑟横床，想泪痕尘影，凤弦常下。,Instrument,床,bed,micro_space,implied,memory,FALSE,LLM,0.8,120.16,30.29,F,Southern Song
+snd_c0dbd7c4,song_夜合花_史_0184,夜合花,史达祖,歌边,by the singing,歌,singing,曾在歌边惹恨,Human,,,,implied,memory,FALSE,LLM,0.8,120.16,30.29,F,Southern Song
+snd_6f75b27f,song_八归_史_0185,八归,史达祖,歌眉舒绿,singing eyebrows relax green,歌,song,赖有歌眉舒绿,Human,官渡,official ferry,toponym,implied,real,FALSE,LLM,0.9,115.89,38.88,T,Southern Song
+snd_3f99b766,song_玉胡蝶・玉蝴蝶_史_0186,玉胡蝶・玉蝴蝶,史达祖,犹抱凉蝉,still holding the cool cicada,凉蝉,cool cicada,可怜闲叶，犹抱凉蝉,Animal,宫树,palace trees,micro_space,implied,real,FALSE,LLM,0.8,114.26,30.59,T,Southern Song
+snd_ef3b1d64,song_玉胡蝶・玉蝴蝶_史_0186,玉胡蝶・玉蝴蝶,史达祖,吟思又接愁边,chanting thoughts connect to sorrow's edge,吟思,chanting thoughts,短景归秋，吟思又接愁边,Human,,,,implied,real,FALSE,LLM,0.6,114.26,30.59,T,Southern Song
+snd_86c27b21,song_玉胡蝶・玉蝴蝶_史_0186,玉胡蝶・玉蝴蝶,史达祖,漏初长,the water clock begins to lengthen,漏,water clock,漏初长、梦魂难禁,Environment,,,,implied,real,FALSE,LLM,0.7,114.26,30.59,T,Southern Song
+snd_49fe0ccd,song_玉胡蝶・玉蝴蝶_史_0186,玉胡蝶・玉蝴蝶,史达祖,啼蛄搅夜,the crying mole cricket disturbs the night,啼蛄,crying mole cricket,无端。啼蛄搅夜,Animal,夜,night,implied,direct,real,FALSE,LLM,0.9,114.26,30.59,T,Southern Song
+snd_e228dc5f,song_玉胡蝶・玉蝴蝶_史_0186,玉胡蝶・玉蝴蝶,史达祖,一笛当楼,a flute facing the tower,笛,flute,一笛当楼，谢娘悬泪立风前,Instrument,楼,tower,micro_space,implied,real,FALSE,LLM,0.9,114.26,30.59,T,Southern Song
+snd_197e83ed,song_秋霁_史_0187,秋霁,史达祖,夜闻秋声,hear the sound of autumn at night,秋声,sound of autumn,夜闻秋声，吹动岑寂,Nature,,,,direct,real,FALSE,LLM,0.9,114.26,30.59,T,Southern Song
+snd_93c8411e,song_秋霁_史_0187,秋霁,史达祖,露蛩悲,dew crickets mourn,蛩,cricket,露蛩悲、清灯冷屋,Animal,冷屋,cold room,micro_space,implied,real,FALSE,LLM,0.85,114.26,30.59,T,Southern Song
+snd_e9716bfc,song_宴清都_卢_0188,宴清都,卢祖皋,雁阔云音,"wild geese distant, cloud sounds",雁,wild geese,新来雁阔云音，鸾分槛影，无计重见,Animal,,,,implied,memory,TRUE,LLM,0.7,120.16,30.29,F,Southern Song
+snd_b2647067,song_江城子_卢_0189,江城子,卢祖皋,无处觅箫声,nowhere to find the sound of the flute,箫声,flute sound,天阔云闲，无处觅箫声。,Instrument,,,,implied,real,TRUE,LLM,0.9,120.16,30.29,T,Southern Song
+snd_953641da,song_小重山_章_0190,小重山,章良能,碎鸣禽,fragmented chirping of birds,禽,birds,雨馀风软碎鸣禽,Animal,,,,direct,real,FALSE,LLM,0.95,120.16,30.29,F,Southern Song
+snd_0fb57eda,song_满庭芳_张_0191,满庭芳,张,静听寒声断续,quietly listening to the cold sound intermittently,寒声,cold sound (insect chirping),静听寒声断续,Animal,宝钗楼外,outside the Baochai Tower,toponym,direct,real,FALSE,LLM,0.9,116.767473,28.6925065,T,Southern Song
+snd_05c3ccd7,song_满庭芳_张_0191,满庭芳,张,微韵转、凄咽悲沈,"subtle tones turning, sobbing and sinking in sorrow",微韵,subtle tones (insect chirping),微韵转、凄咽悲沈,Animal,宝钗楼外,outside the Baochai Tower,toponym,direct,real,FALSE,LLM,0.85,116.767473,28.6925065,T,Southern Song
+snd_569de967,song_满庭芳_张_0191,满庭芳,张,敛步随音,treading lightly following the sound,音,sound (insect chirping),敛步随音,Animal,,,,direct,memory,FALSE,LLM,0.8,116.767473,28.6925065,T,Southern Song
+snd_75d4a244,song_满庭芳_张_0191,满庭芳,张,凉夜伴孤吟,on a cool night accompanying lonely chanting,孤吟,lonely chanting,凉夜伴孤吟,Human,床下,under the bed,micro_space,implied,real,FALSE,LLM,0.75,116.767473,28.6925065,T,Southern Song
+snd_605ea53f,song_浣溪沙_吴_0193,浣溪沙,吴文英,无语,without words,燕,swallow,夕阳无语燕归愁,Animal,,,,implied,real,TRUE,LLM,0.9,120.586673,30.036519,T,Southern Song
+snd_862fe67e,song_浣溪沙_吴_0193,浣溪沙,吴文英,无声,without sound,落絮,falling willow catkins,落絮无声春堕泪,Nature,,,,implied,real,TRUE,LLM,0.9,120.586673,30.036519,T,Southern Song
+snd_1c4baae2,song_点绛唇_吴_0195,点绛唇,吴文英,笙歌,reed pipe songs,笙歌,reed pipe music and singing,春梦笙歌里,Instrument,小楼,small tower,micro_space,implied,dream,FALSE,LLM,0.9,120.16,30.23,T,Southern Song
+snd_e30b2906,song_祝英台近_吴_0196,祝英台近,吴文英,莺声,oriole's song,莺,oriole,有情花影阑干，莺声门径，解留我、霎时凝伫。,Animal,门径,gate path,micro_space,direct,real,FALSE,LLM,0.95,119.97,30.53,T,Southern Song
+snd_dfda0d69,song_祝英台近_吴_0197,祝英台近,吴文英,笑声转,laughter turns,人,people,有人添烛西窗，不眠侵晓，笑声转、新年莺语。,Human,西窗,west window,micro_space,direct,real,FALSE,LLM,0.9,119.97,30.53,T,Southern Song
+snd_eacf1c69,song_祝英台近_吴_0197,祝英台近,吴文英,新年莺语,New Year's oriole song,莺,oriole,有人添烛西窗，不眠侵晓，笑声转、新年莺语。,Animal,西窗,west window,micro_space,direct,real,FALSE,LLM,0.95,119.97,30.53,T,Southern Song
+snd_05b65edf,song_烛影摇红_廖_0200,烛影摇红,廖世美,波声带雨,wave sound carrying rain,波,waves,晚霁波声带雨,Nature,江上,on the river,implied,direct,real,FALSE,LLM,0.9,113.69,31.26,T,Northern and Southern Song Transition
+snd_cd810b52,song_凤凰台上忆吹箫_李_0201,凤凰台上忆吹箫,李清照,欲说还休,want to speak but stop,人（词人）,person (poet),多少事、欲说还休,Human,,,,implied,real,TRUE,LLM,0.9,118.440962,36.778223,T,Northern and Southern Song Transition
+snd_c0c51b67,song_凤凰台上忆吹箫_李_0201,凤凰台上忆吹箫,李清照,千万遍阳关,thousands of times the Yang Pass song,阳关（曲）,Yang Pass (song),明朝，这回去也，千万遍阳关，也即难留,Human,,,,implied,imagination,FALSE,LLM,0.8,118.440962,36.778223,T,Northern and Southern Song Transition
+snd_056d5b9c,song_永遇乐_李_0204,永遇乐,李清照,吹梅笛怨,playing the melancholy flute tune 'Plum Blossom',笛,flute,染柳烟浓，吹梅笛怨，春意知几许。,Instrument,,,,direct,real,FALSE,LLM,0.9,120.161693,30.280059,T,Northern and Southern Song Transition
+snd_2788b17e,song_永遇乐_李_0204,永遇乐,李清照,听人笑语,listening to people's laughter and talk,人,people,不如向、帘儿底下，听人笑语。,Human,帘儿底下,under the curtain,micro_space,direct,real,FALSE,LLM,0.95,120.161693,30.280059,T,Northern and Southern Song Transition
+snd_1133b2a9,song_声声慢_李_0205,声声慢,李清照,雁过也,wild geese pass by,雁,wild geese,雁过也，正伤心，却是旧时相识。,Animal,,,,implied,real,FALSE,LLM,0.8,119.3013275,33.529141,T,Northern and Southern Song Transition
+snd_742ceb88,song_声声慢_李_0205,声声慢,李清照,点点滴滴,drip drop,细雨,fine rain,梧桐更兼细雨，到黄昏、点点滴滴。,Nature,梧桐,parasol tree,micro_space,direct,real,FALSE,LLM,0.9,119.3013275,33.529141,T,Northern and Southern Song Transition
+snd_9b072196,song_苏武慢_蔡_0206,苏武慢,蔡伸,鸣笳声断,the sound of the reed pipe breaks off,笳,reed pipe,古垒鸣笳声断,Instrument,古垒,ancient fort,micro_space,direct,real,FALSE,LLM,0.95,116.41,39.91,T,Northern and Southern Song Transition
+snd_4e4f5e6d,song_苏武慢_蔡_0206,苏武慢,蔡伸,败叶萧萧,withered leaves rustle,败叶,withered leaves,败叶萧萧,Nature,,,,direct,real,FALSE,LLM,0.9,116.41,39.91,T,Northern and Southern Song Transition
+snd_20f9204f,song_柳梢青_蔡_0207,柳梢青,蔡伸,数声鶗鴂,several cries of the cuckoo,鶗鴂,cuckoo,数声鶗鴂。可怜又是，春归时节。,Animal,,,,direct,real,FALSE,LLM,0.95,120.16,30.29,F,Northern and Southern Song Transition
+snd_cd46ab2d,song_摸鱼儿_辛_0208,摸鱼儿,辛弃疾,怨春不语,resent spring not speaking,春,spring,怨春不语,Nature,,,,implied,real,TRUE,LLM,0.6,117.236762,29.529646,T,Southern Song
+snd_e53c20d8,song_水龙吟_辛_0209,水龙吟,辛弃疾,断鸿声里,in the sound of the broken swan,断鸿,broken swan (a lone swan's cry),落日楼头，断鸿声里，江南游子,Animal,楼头,atop the tower,micro_space,direct,real,FALSE,LLM,0.95,118.259367,29.3561985,T,Southern Song
+snd_62df8310,song_水龙吟_辛_0209,水龙吟,辛弃疾,栏干拍遍,slapping the railings all over,栏干拍遍,slapping the railings,把吴钩看了，栏干拍遍，无人会、登临意,Environment,栏干,railings,micro_space,implied,real,FALSE,LLM,0.8,118.259367,29.3561985,T,Southern Song
+snd_18d0ab5e,song_木兰花慢_辛_0213,木兰花慢,辛弃疾,醉来时响空弦,"when drunk, the sound of an empty bowstring rings out",空弦,empty bowstring,目断秋霄落雁，醉来时响空弦。,Environment,,,,implied,imagination,FALSE,LLM,0.7,115.7053705,30.279967,T,Southern Song
+snd_fe703b28,song_祝英台令_辛_0214,祝英台令,辛弃疾,流莺声住,oriole's song stops,流莺,oriole,倩谁唤、流莺声住,Animal,南浦,southern shore,toponym,implied,real,TRUE,LLM,0.9,115.86,28.68,T,Southern Song
+snd_f915f3a9,song_祝英台令_辛_0214,祝英台令,辛弃疾,呜咽梦中语,sobbing words in dream,梦中语,words in dream,罗帐灯昏，呜咽梦中语,Human,罗帐,silk curtain,micro_space,direct,dream,FALSE,LLM,0.95,115.86,28.68,T,Southern Song
+snd_2223321c,song_青玉案_辛_0215,青玉案,辛弃疾,凤箫声动,phoenix flute sounds move,凤箫,phoenix flute,凤箫声动，玉壶光转，一夜鱼龙舞。,Instrument,,,,direct,real,FALSE,LLM,0.95,120.16,30.29,T,Southern Song
+snd_f123122d,song_青玉案_辛_0215,青玉案,辛弃疾,笑语盈盈,laughter and talk abundant,笑语,laughter and talk,蛾儿雪柳黄金缕。笑语盈盈暗香去。,Human,,,,direct,real,FALSE,LLM,0.9,120.16,30.29,T,Southern Song
+snd_4fb97c3c,song_贺新郎_辛_0216,贺新郎,辛弃疾,霓裳曲罢,the Rainbow Garment music ended,霓裳曲,Rainbow Garment music,自开元、霓裳曲罢,Instrument,,,,implied,memory,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_3cc404f5,song_贺新郎_辛_0216,贺新郎,辛弃疾,弦解语,the strings understand speech,弦,strings,弦解语，恨难说,Instrument,,,,implied,imagination,FALSE,LLM,0.6,116.1952135,27.384061,T,Southern Song
+snd_22d0e7c5,song_贺新郎_辛_0216,贺新郎,辛弃疾,轻拢慢拈,lightly pluck and slowly strum,拢、拈,plucking and strumming,琐窗寒、轻拢慢拈,Instrument,琐窗,carved window,micro_space,implied,real,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_b6bc0d18,song_贺新郎_辛_0216,贺新郎,辛弃疾,一抹梁州哀彻,a stroke of Liangzhou mournful to the core,一抹,a stroke (of the pipa),推手含情还却手，一抹梁州哀彻,Instrument,,,,implied,real,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_aad26285,song_贺新郎_辛_0216,贺新郎,辛弃疾,弹到此，为呜咽,"playing to this point, becomes sobbing",呜咽,sobbing,弹到此，为呜咽,Human,,,,implied,real,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_c8cb4e82,song_贺新郎_辛_0217,贺新郎,辛弃疾,鹧鸪声住,partridge sound stops,鹧鸪,partridge,更那堪、鹧鸪声住，杜鹃声切,Animal,,,,direct,real,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_762cdf67,song_贺新郎_辛_0217,贺新郎,辛弃疾,杜鹃声切,cuckoo's urgent cry,杜鹃,cuckoo,更那堪、鹧鸪声住，杜鹃声切,Animal,,,,direct,real,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_f97118a0,song_贺新郎_辛_0217,贺新郎,辛弃疾,悲歌未彻,sad song not yet finished,壮士,hero,正壮士、悲歌未彻,Human,,,,direct,memory,FALSE,LLM,0.9,116.1952135,27.384061,T,Southern Song
+snd_6f7f1680,song_贺新郎_辛_0217,贺新郎,辛弃疾,啼鸟,singing birds,啼鸟,singing birds,啼鸟还知如许恨,Animal,,,,implied,imagination,FALSE,LLM,0.7,116.1952135,27.384061,T,Southern Song
+snd_c36cb8c3,song_绿头鸭・多丽_贺_0220,绿头鸭・多丽,贺铸,彩箫流怨,colorful flute flows with sorrow,彩箫,colorful flute,托微风、彩箫流怨，断肠马上曾闻。,Instrument,画楼珠箔临津,painted tower with pearl curtains by the ferry,micro_space,direct,memory,FALSE,LLM,0.95,114.31,34.79,T,Northern Song
+snd_e3d5444f,song_绿头鸭・多丽_贺_0220,绿头鸭・多丽,贺铸,断肠马上曾闻,"heartbroken, once heard on horseback",彩箫,colorful flute,托微风、彩箫流怨，断肠马上曾闻。,Instrument,马上,on horseback,micro_space,direct,memory,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_d7c2f461,song_绿头鸭・多丽_贺_0220,绿头鸭・多丽,贺铸,调琴思,tuning the qin's thoughts,琴,qin (zither),燕堂开、艳妆丛里，调琴思、认歌颦。,Instrument,燕堂,swallow hall,micro_space,implied,real,FALSE,LLM,0.85,114.31,34.79,T,Northern Song
+snd_0becf817,song_绿头鸭・多丽_贺_0220,绿头鸭・多丽,贺铸,认歌颦,recognizing the song's frown,歌,song,燕堂开、艳妆丛里，调琴思、认歌颦。,Human,燕堂,swallow hall,micro_space,implied,real,FALSE,LLM,0.8,114.31,34.79,T,Northern Song
+snd_9363806a,song_绿头鸭・多丽_贺_0220,绿头鸭・多丽,贺铸,疏钟,sparse bell,钟,bell,回廊影，疏钟淡月，几许销魂。,Environment,回廊,winding corridor,micro_space,direct,real,FALSE,LLM,0.95,114.31,34.79,T,Northern Song
+snd_564f09a6,song_水龙吟_晁_0221,水龙吟,晁补之,狂歌似旧,wild singing as before,歌,singing,纵樽前痛饮，狂歌似旧，情难依旧,Human,樽前,before the wine cup,micro_space,implied,real,FALSE,LLM,0.9,118.2125845,32.4328105,T,Northern Song
+snd_9dade50f,song_瑞龙吟_周_0224,瑞龙吟,周邦彦,盈盈笑语,light laughter and talk,人,person,侵晨浅约宫黄，障风映袖，盈盈笑语。,Human,坊陌人家,neighborhood houses,micro_space,direct,memory,FALSE,LLM,0.9,114.313904,34.802941,T,Northern Song
+snd_9981b70b,song_瑞龙吟_周_0224,瑞龙吟,周邦彦,歌舞,singing and dancing,人,person,前度刘郎重到，访邻寻里，同时歌舞。,Human,邻里,neighborhood,micro_space,implied,memory,FALSE,LLM,0.85,114.313904,34.802941,T,Northern Song
+snd_070b6240,song_瑞龙吟_周_0224,瑞龙吟,周邦彦,声价如故,fame remains as before,秋娘,Qiu Niang (a singer),唯有旧家秋娘，声价如故。,Human,,,,implied,memory,FALSE,LLM,0.6,114.313904,34.802941,T,Northern Song
+snd_bcb7a912,song_锁窗寒・琐寒窗_周_0225,锁窗寒・琐寒窗,周邦彦,啼鸦,cawing crows,鸦,crow,暗柳啼鸦,Animal,暗柳,dark willows,micro_space,direct,real,FALSE,LLM,0.95,114.31,34.79,T,Northern Song
+snd_046583dd,song_锁窗寒・琐寒窗_周_0225,锁窗寒・琐寒窗,周邦彦,愁雨,sorrowful rain,雨,rain,静锁一庭愁雨,Nature,一庭,a courtyard,micro_space,implied,real,FALSE,LLM,0.8,114.31,34.79,T,Northern Song
+snd_590e1f85,song_锁窗寒・琐寒窗_周_0225,锁窗寒・琐寒窗,周邦彦,剪烛西窗语,talk by the west window while trimming the candle,语,speech,故人剪烛西窗语,Human,西窗,west window,micro_space,implied,memory,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_a75596e1,song_锁窗寒・琐寒窗_周_0225,锁窗寒・琐寒窗,周邦彦,唤酒,call for wine,唤,call,旗亭唤酒,Human,旗亭,flag pavilion,micro_space,implied,memory,FALSE,LLM,0.85,114.31,34.79,T,Northern Song
+snd_25dea42d,song_风流子_周_0226,风流子,周邦彦,曾听得理丝簧,once heard the playing of silk and reed instruments,丝簧,silk and reed instruments,绣阁凤帏深几许，曾听得理丝簧。,Instrument,绣阁凤帏,embroidered chamber with phoenix curtains,micro_space,direct,memory,FALSE,LLM,0.95,115.5250555,31.2026705,T,Northern Song
+snd_50f5f4f0,song_风流子_周_0226,风流子,周邦彦,未歌先咽,"before singing, first choked with sobs",歌,singing,欲说又休，虑乖芳信，未歌先咽，愁近清觞。,Human,,,,implied,real,FALSE,LLM,0.85,115.5250555,31.2026705,T,Northern Song
+snd_a48061bb,song_解连环_周_0228,解连环,周邦彦,信音辽邈,news and sounds are distant and vague,信音,news/sounds (of the lover),嗟情人断绝，信音辽邈。,Human,,,,implied,memory,TRUE,LLM,0.7,114.31,34.79,F,Northern Song
+snd_1afeac5d,song_解连环_周_0228,解连环,周邦彦,当日音书,past sounds and letters,音书,sounds and letters (messages),谩记得、当日音书，把闲语闲言，待总烧却。,Human,,,,implied,memory,FALSE,LLM,0.6,114.31,34.79,F,Northern Song
+snd_e4699648,song_瑞鹤仙_周_0229,瑞鹤仙,周邦彦,流莺劝我,wandering oriole urges me,流莺,wandering oriole,有流莺劝我，重解绣鞍，缓引春酌。,Animal,短亭,short pavilion,micro_space,direct,real,FALSE,LLM,0.9,119.42,32.39,T,Northern Song
+snd_69199841,song_瑞鹤仙_周_0229,瑞鹤仙,周邦彦,惊飙动幕,startling gale moves the curtain,惊飙,startling gale,惊飙动幕。,Nature,朱阁,red pavilion,micro_space,direct,real,FALSE,LLM,0.85,119.42,32.39,T,Northern Song
+snd_282a3b3a,song_浪涛沙・浪淘沙_周_0230,浪涛沙・浪淘沙,周邦彦,耿耿寒漏咽,the cold water-clock sobs persistently,寒漏,cold water-clock,向露冷风清，无人处、耿耿寒漏咽。,Environment,无人处,a place without people,micro_space,direct,real,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_c2f29114,song_浪涛沙・浪淘沙_周_0230,浪涛沙・浪淘沙,周邦彦,怨歌永,the plaintive song lingers,怨歌,plaintive song,怨歌永、琼壶敲尽缺。,Human,,,,implied,real,FALSE,LLM,0.85,114.31,34.79,T,Northern Song
+snd_67d240d3,song_浪涛沙・浪淘沙_周_0230,浪涛沙・浪淘沙,周邦彦,琼壶敲尽缺,the jade pot is struck until it is chipped,琼壶,jade pot,怨歌永、琼壶敲尽缺。,Instrument,,,,implied,real,FALSE,LLM,0.8,114.31,34.79,T,Northern Song
+snd_a83184e3,song_满庭芳_周_0231,满庭芳,周邦彦,新绿溅溅,new green splashing sound,水,water,小桥外、新绿溅溅,Nature,小桥外,outside the small bridge,micro_space,implied,real,FALSE,LLM,0.9,119.05,31.65,T,Northern Song
+snd_26bcde13,song_满庭芳_周_0231,满庭芳,周邦彦,不堪听、急管繁弦,cannot bear to hear the urgent pipes and numerous strings,急管繁弦,urgent pipes and numerous strings,憔悴江南倦客，不堪听、急管繁弦,Instrument,,,,direct,real,FALSE,LLM,0.95,119.05,31.65,T,Northern Song
+snd_031bdcae,song_满庭芳_周_0231,满庭芳,周邦彦,歌筵畔,beside the singing feast,歌,singing,歌筵畔，先安簟枕，容我醉时眠,Human,歌筵畔,beside the singing feast,micro_space,implied,real,FALSE,LLM,0.8,119.05,31.65,T,Northern Song
+snd_850b58ea,song_过秦楼_周_0232,过秦楼,周邦彦,马声初断,horse sounds just ceased,马,horse,巷陌马声初断,Animal,巷陌,alleys and streets,micro_space,direct,real,TRUE,LLM,0.9,119.05,31.65,F,Northern Song
+snd_a5244793,song_过秦楼_周_0232,过秦楼,周邦彦,叶喧凉吹,leaves rustle in cool breeze,叶,leaves,叶喧凉吹,Nature,,,,direct,real,FALSE,LLM,0.8,119.05,31.65,F,Northern Song
+snd_fb8e7c5e,song_夜游宫_周_0233,夜游宫,周邦彦,听几片、井桐飞坠,hear a few pieces of parasol leaves falling from the well,井桐飞坠,falling parasol leaves from the well,听几片、井桐飞坠,Nature,古屋寒窗底,beneath the cold window of an old house,micro_space,direct,real,FALSE,LLM,0.9,114.31,34.79,F,Northern Song
+snd_34e57ab4,song_解语花_周_0234,解语花,周邦彦,箫鼓喧,flutes and drums clamor,箫鼓,flutes and drums,箫鼓喧，人影参差，满路飘香麝。,Instrument,花市,flower market,micro_space,direct,real,FALSE,LLM,0.95,121.556686,29.880177,T,Northern Song
+snd_43f0d774,song_解语花_周_0234,解语花,周邦彦,歌罢,singing ends,歌,singing,清漏移，飞盖归来，从舞休歌罢。,Human,,,,implied,real,FALSE,LLM,0.7,121.556686,29.880177,T,Northern Song
+snd_0b1c30d3,song_大_周_0235,大酺,周邦彦,飞雨时鸣高屋,flying rain sometimes sounds on the high roof,飞雨,flying rain,对宿烟收，春禽静，飞雨时鸣高屋。,Nature,高屋,high roof,micro_space,direct,real,FALSE,LLM,0.9,,,,Northern Song
+snd_3af59889,song_大_周_0235,大酺,周邦彦,听檐声不断,listen to the continuous sound of eaves,檐声,sound of eaves (rain dripping),邮亭无人处，听檐声不断，困眠初熟。,Nature,邮亭,post station,toponym,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_1c734a4a,song_大_周_0235,大酺,周邦彦,笛中哀曲,sad tune in the flute,笛,flute,未怪平阳客，双泪落、笛中哀曲。,Instrument,,,,implied,imagination,FALSE,LLM,0.85,,,,Northern Song
+snd_50f3ef2b,song_大_周_0235,大酺,周邦彦,春禽静,spring birds are quiet,春禽,spring birds,对宿烟收，春禽静，飞雨时鸣高屋。,Animal,,,,direct,real,TRUE,LLM,0.9,,,,Northern Song
+snd_afddc4ea,song_花犯_周_0236,花犯,周邦彦,吟望久,chanting and gazing for a long time,吟,chanting,吟望久，青苔上、旋看飞坠。,Human,青苔上,on the green moss,micro_space,implied,real,FALSE,LLM,0.8,118.802891,32.064735,T,Northern Song
+snd_21d3aec8,song_六丑_周_0237,六丑,周邦彦,时叩窗隔,sometimes tapping on the window lattice,蜂媒蝶使,bees and butterflies,但蜂媒蝶使，时叩窗隔,Animal,窗隔,window lattice,micro_space,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_73083ba4,song_六丑_周_0237,六丑,周邦彦,成叹息,heaves a sigh,人,person (the speaker),静绕珍丛底，成叹息,Human,珍丛底,beneath the precious thicket,micro_space,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_5e0ba188,song_六丑_周_0237,六丑,周邦彦,莫趁潮汐,do not follow the tides,潮汐,tides,漂流处、莫趁潮汐,Nature,漂流处,place of drifting,implied,implied,imagination,TRUE,LLM,0.7,,,,Northern Song
+snd_61ce0072,song_兰陵王_周_0238,兰陵王,周邦彦,哀弦,sad strings,弦,strings,又酒趁哀弦，灯照离席。,Instrument,离席,farewell feast,micro_space,implied,real,FALSE,LLM,0.9,114.577442,38.152193,T,Northern Song
+snd_46242ceb,song_兰陵王_周_0238,兰陵王,周邦彦,闻笛,hear flute,笛,flute,念月榭携手，露桥闻笛。,Instrument,露桥,dew-covered bridge,micro_space,direct,memory,FALSE,LLM,0.95,114.577442,38.152193,T,Northern Song
+snd_d24c0811,song_西河_周_0239,西河,周邦彦,怒涛寂寞打孤城,angry waves lonely beat the solitary city,怒涛,angry waves,怒涛寂寞打孤城,Nature,孤城,solitary city,micro_space,implied,real,FALSE,LLM,0.9,114.313904,34.802941,T,Northern Song
+snd_e7bb6df3,song_西河_周_0239,西河,周邦彦,酒旗戏鼓甚处市,"wine banners and theatrical drums, what market place?",戏鼓,theatrical drums,酒旗戏鼓甚处市,Instrument,市,market,micro_space,implied,memory,FALSE,LLM,0.85,114.313904,34.802941,T,Northern Song
+snd_a29b5699,song_西河_周_0239,西河,周邦彦,相对如说兴亡,facing each other as if speaking of rise and fall,燕子,swallows,相对如说兴亡,Animal,斜阳里,in the setting sun,micro_space,implied,imagination,FALSE,LLM,0.7,114.313904,34.802941,T,Northern Song
+snd_6743925b,song_绮寮怨_周_0240,绮寮怨,周邦彦,叹息,sigh,人（诗人）,person (poet),徘徊久、叹息愁思盈。,Human,,,,direct,real,FALSE,LLM,0.9,112.24722,30.340606,T,Northern Song
+snd_1eecdd62,song_绮寮怨_周_0240,绮寮怨,周邦彦,旧曲凄清,"old tune, desolate and clear",旧曲,old tune,旧曲凄清。敛愁黛、与谁听。,Instrument,,,,implied,memory,FALSE,LLM,0.8,112.24722,30.340606,T,Northern Song
+snd_d5799fe4,song_绮寮怨_周_0240,绮寮怨,周邦彦,与谁听,with whom to listen,旧曲,old tune,旧曲凄清。敛愁黛、与谁听。,Instrument,,,,implied,memory,TRUE,LLM,0.7,112.24722,30.340606,T,Northern Song
+snd_6fc5e474,song_绮寮怨_周_0240,绮寮怨,周邦彦,歌声,singing voice,歌声,singing voice,歌声未尽处，先泪零。,Human,,,,implied,imagination,FALSE,LLM,0.9,112.24722,30.340606,T,Northern Song
+snd_6516bb10,song_拜星月・拜星月慢_周_0241,拜星月・拜星月慢,周邦彦,秋虫叹,autumn insects sigh,秋虫,autumn insects,重门闭、败壁秋虫叹,Animal,败壁,decayed wall,micro_space,implied,real,FALSE,LLM,0.9,114.31,34.79,T,Northern Song
+snd_ba44be48,song_蝶恋花_周_0243,蝶恋花,周邦彦,惊乌栖不定,startled crows cannot settle,乌,crows,月皎惊乌栖不定,Animal,,,,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_b87c97f3,song_蝶恋花_周_0243,蝶恋花,周邦彦,辘轳牵金井,windlass pulls the golden well,辘轳,windlass,更漏将残，辘轳牵金井,Environment,金井,golden well,micro_space,implied,real,FALSE,LLM,0.8,,,,Northern Song
+snd_be477e4a,song_蝶恋花_周_0243,蝶恋花,周邦彦,别语愁难听,parting words sorrowful hard to hear,别语,parting words,去意徊徨，别语愁难听,Human,,,,direct,real,FALSE,LLM,0.9,,,,Northern Song
+snd_7a8a1c4d,song_蝶恋花_周_0243,蝶恋花,周邦彦,鸡相应,cocks respond to each other,鸡,roosters,露寒人远鸡相应,Animal,,,,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_ca439c0a,song_夜飞鹊・夜飞鹊慢_周_0244,夜飞鹊・夜飞鹊慢,周邦彦,探风前津鼓,listen for the ferry drum in the wind,津鼓,ferry drum,相将散离会，探风前津鼓，树杪参旗。,Environment,风前,in the wind,micro_space,implied,real,FALSE,LLM,0.9,119.05,31.65,T,Northern Song
+snd_4ed9df68,song_夜飞鹊・夜飞鹊慢_周_0244,夜飞鹊・夜飞鹊慢,周邦彦,人语渐无闻,human voices gradually become inaudible,人语,human voices,迢递路回清野，人语渐无闻，空带愁归。,Human,清野,clear wilderness,micro_space,direct,real,TRUE,LLM,0.95,119.05,31.65,T,Northern Song
+snd_41b5f16d,song_夜飞鹊・夜飞鹊慢_周_0244,夜飞鹊・夜飞鹊慢,周邦彦,欷酹酒,sighing and pouring wine,欷,sigh,但徘徊班草，欷酹酒，极望天西。,Human,,,,implied,real,FALSE,LLM,0.8,119.05,31.65,T,Northern Song
+snd_c835ec29,song_关河令・清商怨_周_0245,关河令・清商怨,周邦彦,伫听寒声,standing listening to the cold sound,寒声,cold sound,伫听寒声，云深无雁影。,Nature,庭,courtyard,micro_space,direct,real,FALSE,LLM,0.7,,,,Northern Song
+snd_4781b7fa,song_关河令・清商怨_周_0245,关河令・清商怨,周邦彦,人去寂静,"people gone, silent",人,people,更深人去寂静。,Human,,,,implied,real,TRUE,LLM,0.8,,,,Northern Song
+snd_4f8bd576,song_南浦_孔_0246,南浦,孔夷,风悲画角,wind sorrows painted horn,画角,painted horn,风悲画角,Instrument,谯门,watchtower gate,micro_space,direct,real,FALSE,LLM,0.9,115.89,41.8,F,Northern Song
+snd_268d3086,song_南浦_孔_0246,南浦,孔夷,听单于、三弄落谯门,"listen to the Tanyu tune, three variations falling from the watchtower gate",单于,Tanyu tune (a melody),听单于、三弄落谯门,Instrument,谯门,watchtower gate,micro_space,direct,real,FALSE,LLM,0.9,115.89,41.8,F,Northern Song
+snd_09f7b2f6,song_南浦_孔_0246,南浦,孔夷,敲窗,knocking on the window,乱叶,chaotic leaves,正敲窗、乱叶舞纷纷,Nature,窗,window,micro_space,implied,real,FALSE,LLM,0.8,115.89,41.8,F,Northern Song
+snd_4c490eb0,song_南浦_孔_0246,南浦,孔夷,送数声惊雁,send off several sounds of startled geese,惊雁,startled geese,送数声惊雁，下离烟水，嘹唳度寒云,Animal,离烟水,misty waters of departure,micro_space,direct,real,FALSE,LLM,0.9,115.89,41.8,F,Northern Song
+snd_c0b83276,song_南浦_孔_0246,南浦,孔夷,嘹唳度寒云,loud and clear cries crossing cold clouds,惊雁,startled geese,送数声惊雁，下离烟水，嘹唳度寒云,Animal,寒云,cold clouds,micro_space,direct,real,FALSE,LLM,0.9,115.89,41.8,F,Northern Song
+snd_7f0157fe,song_眉妩_王_0250,眉妩,王沂孙,休问,do not ask,人,people,千古盈亏休问,Human,,,,implied,imagination,TRUE,LLM,0.6,120.58,30.01,T,Southern Song
+snd_5ee4d52b,song_齐天乐_王_0251,齐天乐,王沂孙,乍咽凉柯,suddenly sobbing on the cold branch,宫魂（蝉）,cicada (palace soul),乍咽凉柯，还移暗叶，重把离愁深诉。,Animal,凉柯,cold branch,micro_space,direct,real,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_38c0ef28,song_齐天乐_王_0251,齐天乐,王沂孙,重把离愁深诉,again pouring out deep parting sorrow,宫魂（蝉）,cicada (palace soul),乍咽凉柯，还移暗叶，重把离愁深诉。,Animal,暗叶,dark leaves,micro_space,direct,real,FALSE,LLM,0.8,120.16,30.29,F,Southern Song
+snd_68517e78,song_齐天乐_王_0251,齐天乐,王沂孙,玉筝调柱,tuning the jade zither's pegs,玉筝,jade zither,西窗过雨。怪瑶佩流空，玉筝调柱。,Instrument,西窗,west window,micro_space,implied,real,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_9d9d51ea,song_齐天乐_王_0251,齐天乐,王沂孙,馀音更苦,the lingering sound is even more bitter,宫魂（蝉）,cicada (palace soul),馀音更苦。甚独抱清高，顿成凄楚。,Animal,,,,direct,real,FALSE,LLM,0.9,120.16,30.29,F,Southern Song
+snd_23ca9416,song_高阳台_王_0252,高阳台,王沂孙,霏霏玉管春葭,whistling sound of jade pipes and spring reeds,玉管春葭,jade pipes and spring reeds,残雪庭阴，轻寒帘影，霏霏玉管春葭。,Instrument,庭阴,shady courtyard,micro_space,implied,real,FALSE,LLM,0.9,120.58,30.01,F,Southern Song
+snd_74926d25,song_紫萸香慢_姚_0255,紫萸香慢,姚云文,歌罢涕零,"after singing, tears fall",歌,singing,歌罢涕零,Human,,,,implied,real,FALSE,LLM,0.9,116.39,39.9,F,Southern Song
+snd_5dbd121d,song_贺新郎_蒋_0256,贺新郎,蒋捷,叹秦筝、斜鸿阵里，素弦尘扑,"sigh over the Qin zheng, among the slanting wild geese formation, plain strings covered with dust",秦筝,Qin zheng (a type of zither),叹秦筝、斜鸿阵里，素弦尘扑,Instrument,黄金屋,golden house,micro_space,implied,memory,FALSE,LLM,0.9,120.589613,31.304566,T,Southern Song
+snd_069e8919,song_贺新郎_蒋_0256,贺新郎,蒋捷,彩扇红牙今都在，恨无人、解听开元曲,"colorful fan and red clappers are still here, but regret no one understands to listen to the Kaiyuan tune",开元曲,Kaiyuan tune (a musical piece from the Kaiyuan era),彩扇红牙今都在，恨无人、解听开元曲,Instrument,,,,implied,imagination,TRUE,LLM,0.85,120.589613,31.304566,T,Southern Song
+snd_ce918145,song_女冠子_蒋_0257,女冠子,蒋捷,一片笙箫,a whole stretch of sheng and xiao music,笙箫,sheng and xiao (Chinese wind instruments),一片笙箫，琉璃光射。,Instrument,宝钗楼上,on the Baochai Tower,micro_space,direct,memory,FALSE,LLM,0.95,119.82,31.36,T,Southern Song
+snd_ad4f0da7,song_女冠子_蒋_0257,女冠子,蒋捷,犹唱,still singing,邻女,neighbor girl,笑绿鬟邻女，倚窗犹唱，夕阳西下。,Human,窗,window,micro_space,direct,real,FALSE,LLM,0.95,119.82,31.36,T,Southern Song
+snd_4a5316fd,song_瑞鹤仙_蒋_0258,瑞鹤仙,蒋捷,断鼓零钟,broken drum and scattered bell,鼓钟,drum and bell,渐断鼓零钟，街喧初息。,Environment,街,street,micro_space,direct,real,FALSE,LLM,0.9,119.82,31.36,T,Southern Song
+snd_5d768874,song_瑞鹤仙_蒋_0258,瑞鹤仙,蒋捷,街喧初息,street noise just subsided,街喧,street noise,渐断鼓零钟，街喧初息。,Environment,街,street,micro_space,direct,real,FALSE,LLM,0.85,119.82,31.36,T,Southern Song
+snd_3af00179,song_瑞鹤仙_蒋_0258,瑞鹤仙,蒋捷,琼瑰暗泣,jade-like gems secretly weep,琼瑰,jade-like gems (metaphor for tears),琼瑰暗泣。,Human,,,,implied,real,FALSE,LLM,0.6,119.82,31.36,T,Southern Song
+snd_a7589e78,song_瑞鹤仙_蒋_0258,瑞鹤仙,蒋捷,红楼夜笛,night flute from the red chamber,笛,flute,休照红楼夜笛。,Instrument,红楼,red chamber,micro_space,implied,imagination,TRUE,LLM,0.95,119.82,31.36,T,Southern Song
+snd_d45f83aa,song_渡江云_张_0260,渡江云,张炎,风急暮潮初,"wind urgent, evening tide begins",风,wind,山空天入海，倚楼望极，风急暮潮初。,Nature,楼,tower,micro_space,implied,real,FALSE,LLM,0.8,120.58,30.01,T,Southern Song
+snd_e48ee3a3,song_解连环_张_0261,解连环,张炎,暮雨相呼,evening rain calls to each other,暮雨,evening rain,暮雨相呼，怕蓦地、玉关重见,Nature,,,,implied,imagination,FALSE,LLM,0.7,112.15,30.6,F,Southern Song
+snd_cd1a251c,song_月下笛_张_0262,月下笛,张炎,难听夜雨,hard to listen to the night rain,夜雨,night rain,第一是、难听夜雨,Nature,,,,direct,memory,FALSE,LLM,0.9,122.1,30.02,T,Southern Song
+snd_699bff01,song_月下笛_张_0262,月下笛,张炎,拥衾谁语,who to talk to while hugging the quilt,语,speech,拥衾谁语,Human,,,,implied,real,FALSE,LLM,0.8,122.1,30.02,T,Southern Song
+snd_309b5e6e,song_贺新郎_叶_0264,贺新郎,叶梦得,啼莺语,orioles singing,莺,oriole,睡起啼莺语,Animal,房栊,room window,micro_space,direct,real,FALSE,LLM,0.95,119.19,32.27,T,Northern and Southern Song Transition
+snd_519ff6d5,song_贺新郎_叶_0264,贺新郎,叶梦得,唱金缕,sing Golden Thread,人,person,谁为我，唱金缕,Human,,,,implied,imagination,FALSE,LLM,0.9,119.19,32.27,T,Northern and Southern Song Transition
+snd_fb514d23,song_喜迁莺_刘_0266,喜迁莺,刘一止,晓光催角,dawn light urges the horn,角,horn,晓光催角,Instrument,,,,implied,real,FALSE,LLM,0.9,119.9,30.88,T,Northern and Southern Song Transition
+snd_a213835b,song_喜迁莺_刘_0266,喜迁莺,刘一止,听宿鸟未惊,hear the roosting birds not startled,宿鸟,roosting birds,听宿鸟未惊,Animal,,,,direct,real,TRUE,LLM,0.95,119.9,30.88,T,Northern and Southern Song Transition
+snd_f8da3067,song_喜迁莺_刘_0266,喜迁莺,刘一止,邻鸡先觉,neighbor's rooster first aware,邻鸡,neighbor's rooster,邻鸡先觉,Animal,邻,neighbor's place,micro_space,implied,real,FALSE,LLM,0.85,119.9,30.88,T,Northern and Southern Song Transition
+snd_34361654,song_喜迁莺_刘_0266,喜迁莺,刘一止,马嘶人起,"horses neigh, people rise",马嘶,horse neighing,马嘶人起,Animal,,,,implied,real,FALSE,LLM,0.9,119.9,30.88,T,Northern and Southern Song Transition
+snd_341197aa,song_点绛唇_汪_0267,点绛唇,汪藻,乱鸦啼後,after the crows caw in disorder,乱鸦,disorderly crows,乱鸦啼後,Animal,,,,implied,memory,FALSE,LLM,0.9,118.762888,30.951983,T,Northern and Southern Song Transition
+snd_20477e60,song_三台_万_0269,三台,万俟咏,莺儿百啭,orioles warbling a hundred times,莺儿,orioles,乍莺儿百啭断续，燕子飞来飞去。,Animal,,,,direct,real,FALSE,LLM,0.95,114.31,34.79,T,Northern and Southern Song Transition
+snd_26307968,song_江神子慢・江城子慢_田_0270,江神子慢・江城子慢,田为,楼外孤鸿声渐远,"outside the tower, the sound of a lone swan gradually fades",孤鸿,lone swan,楼外孤鸿声渐远,Animal,楼外,outside the tower,micro_space,direct,real,FALSE,LLM,0.95,,,,Northern Song
+snd_6603c54b,song_江神子慢・江城子慢_田_0270,江神子慢・江城子慢,田为,画角黄昏时节,painted horn at dusk,画角,painted horn (military instrument),消魂处、画角黄昏时节,Instrument,,,,implied,real,FALSE,LLM,0.9,,,,Northern Song
+snd_bbd91e4b,song_江神子慢・江城子慢_田_0270,江神子慢・江城子慢,田为,声呜咽,the sound sobs,画角,painted horn,声呜咽,Instrument,,,,direct,real,FALSE,LLM,0.85,,,,Northern Song
+snd_67a7f2ef,song_菩萨蛮_陈_0272,菩萨蛮,陈克,簸钱声,sound of tossing coins,簸钱,tossing coins,几处簸钱声,Environment,几处,several places,implied,direct,real,FALSE,LLM,0.9,120.16,30.29,F,Northern and Southern Song Transition
+snd_e3d8462f,song_鹧鸪天_周_0273,鹧鸪天,周紫芝,梧桐叶上三更雨,rain on wutong leaves at midnight,雨,rain,梧桐叶上三更雨，叶叶声声是别离。,Nature,梧桐叶上,on wutong leaves,micro_space,implied,real,FALSE,LLM,0.9,,,,Northern and Southern Song Transition
+snd_e7cf6533,song_鹧鸪天_周_0273,鹧鸪天,周紫芝,叶叶声声是别离,every leaf and every sound is parting,雨声,rain sound,梧桐叶上三更雨，叶叶声声是别离。,Nature,梧桐叶上,on wutong leaves,micro_space,implied,real,FALSE,LLM,0.85,,,,Northern and Southern Song Transition
+snd_636b2312,song_鹧鸪天_周_0273,鹧鸪天,周紫芝,调宝瑟,tune the precious zither,宝瑟,precious zither,调宝瑟，拨金猊。那时同唱鹧鸪词。,Instrument,,,,implied,memory,FALSE,LLM,0.9,,,,Northern and Southern Song Transition
+snd_90d5ccfd,song_鹧鸪天_周_0273,鹧鸪天,周紫芝,同唱鹧鸪词,together sing the partridge song,人声,human voice,调宝瑟，拨金猊。那时同唱鹧鸪词。,Human,,,,implied,memory,FALSE,LLM,0.95,,,,Northern and Southern Song Transition
+snd_24ec4e4b,song_鹧鸪天_周_0273,鹧鸪天,周紫芝,不听清歌,not hear the clear song,清歌,clear song,如今风雨西楼夜，不听清歌也泪垂。,Human,西楼,west tower,micro_space,direct,real,TRUE,LLM,0.95,,,,Northern and Southern Song Transition
+snd_bb27b162,song_秦楼月・忆秦娥_范_0276,秦楼月・忆秦娥,范成大,催漏金虬咽,"urging the water-clock, the golden dragon sobs",金虬,golden dragon (water-clock spout),隔烟催漏金虬咽,Environment,楼阴缺,the missing part of the tower's shadow,micro_space,implied,real,FALSE,LLM,0.9,111.31,29.13,T,Southern Song
+snd_71153083,song_六州歌头_张_0279,六州歌头,张孝祥,悄边声,silent border sounds,边声,border sounds,征尘暗，霜风劲，悄边声。,Environment,边,border,implied,direct,real,TRUE,LLM,0.9,118.802891,32.064735,T,Southern Song
+snd_efef821d,song_六州歌头_张_0279,六州歌头,张孝祥,笳鼓悲鸣,reed pipes and drums sadly sound,笳鼓,reed pipes and drums,看名王宵猎，骑火一川明。笳鼓悲鸣。,Instrument,,,,direct,real,FALSE,LLM,0.95,118.802891,32.064735,T,Southern Song
+snd_a516551d,song_念奴娇_张_0280,念奴娇,张孝祥,扣舷独笑,tap the gunwale and laugh alone,笑,laughter,扣舷独笑，不知今夕何夕。,Human,舷,gunwale,micro_space,direct,real,FALSE,LLM,0.9,114.5496665,28.672314,T,Southern Song

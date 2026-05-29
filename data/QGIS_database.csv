@@ -1,0 +1,645 @@
+﻿dynasty,title,author,original_phrase,original_phrase_en,sound_source_raw,sound_source_en,context_window,sound_category,perception_reality,is_negated,lng/X,lat/Y,certainty
+Tang,在狱咏蝉,骆宾王,蝉声唱,cicada's song,蝉,cicada,西陆蝉声唱,Animal,real,FALSE,108.946306,34.347436,T
+Tang,在狱咏蝉,骆宾王,响易沈,sound easily sinks,蝉声,cicada sound,风多响易沈,Animal,real,FALSE,108.946306,34.347436,T
+Tang,鼓吹曲辞 将进酒,李白,与君歌一曲,sing a song for you,歌,song,与君歌一曲，请君为我侧耳听。,Human,real,FALSE,113.014821,34.523694,T
+Tang,鼓吹曲辞 将进酒,李白,侧耳听,listen attentively,听,listening,请君为我侧耳听。,Human,real,FALSE,113.014821,34.523694,T
+Tang,鼓吹曲辞 将进酒,李白,钟鼓,bells and drums,钟鼓,bells and drums,钟鼓馔玉不足贵，但愿长醉不复醒。,Instrument,real,FALSE,113.014821,34.523694,T
+Tang,横吹曲辞 关山月,李白,叹息,sigh,戍客,frontier soldiers,高楼当此夜，叹息未应闲。,Human,real,FALSE,,,
+Tang,蝉,李商隐,恨费声,resentfully waste sound,蝉,cicada,徒劳恨费声,Animal,real,FALSE,111.196716,30.3092385,T
+Tang,蝉,李商隐,疎欲断,sparse and about to break off,蝉声,cicada sound,五更疎欲断,Animal,real,FALSE,111.196716,30.3092385,T
+Tang,蝉,李商隐,最相警,most mutually alerting,蝉声,cicada sound,烦君最相警,Animal,real,FALSE,111.196716,30.3092385,T
+Tang,夜雨寄北,李商隐,话,talk about,人,people,却话巴山夜雨时,Human,imagination,FALSE,105.101082,31.101709,T
+Tang,韩碑,李商隐,愿书万本诵万过,Wish to copy ten thousand copies and recite ten thousand times,诵,recite,愿书万本诵万过,Human,imagination,FALSE,108.228551,34.169587,T
+Tang,风雨,李商隐,管弦,pipes and strings,管弦,musical instruments,青楼自管弦,Instrument,real,FALSE,114.1827065,29.8976845,T
+Tang,隋宫,李商隐,有暮鸦,have evening crows,暮鸦,evening crows,终古垂杨有暮鸦,Animal,real,FALSE,119.419107,32.39986,T
+Tang,无题二首 一,李商隐,听鼓,hear the drum,鼓,drum,嗟余听鼓应官去,Environment,real,FALSE,113.774691,34.223034,T
+Tang,无题四首 一,李商隐,五更钟,dawn bell,钟,bell,月斜楼上五更钟,Environment,real,FALSE,,,
+Tang,无题四首 一,李商隐,啼难唤,crying hard to call,啼,crying,梦为远别啼难唤,Human,dream,FALSE,,,
+Tang,无题四首 二,李商隐,飒飒东风细雨来,soughing east wind with fine rain coming,东风,east wind,飒飒东风细雨来,Nature,real,FALSE,,,
+Tang,无题四首 二,李商隐,有轻雷,there is light thunder,轻雷,light thunder,芙蓉塘外有轻雷,Nature,real,FALSE,,,
+Tang,无题,李商隐,夜吟,night recitation,吟,recitation,夜吟应觉月光寒,Human,imagination,FALSE,109.4378865,32.947773,T
+Tang,瑶池,李商隐,歌声,singing voice,歌声,singing voice,黄竹歌声动地哀,Human,real,FALSE,108.946306,34.347436,T
+Tang,无题二首 一,李商隐,车走雷声,carriage moves like thunder sound,车,carriage,车走雷声语未通,Environment,real,FALSE,113.774691,34.223034,T
+Tang,北青萝,李商隐,独敲初夜磬,alone striking the evening chime stone,磬,chime stone,独敲初夜磬,Instrument,real,FALSE,112.27,35.14,T
+Tang,章台夜思,韦庄,清瑟怨遥夜,clear zither resents the distant night,瑟,zither,清瑟怨遥夜，遶弦风雨哀。,Instrument,real,FALSE,112.625,30.242,T
+Tang,章台夜思,韦庄,遶弦风雨哀,around the strings wind and rain mourn,风雨,wind and rain,清瑟怨遥夜，遶弦风雨哀。,Nature,real,FALSE,112.625,30.242,T
+Tang,宫词,薛逢,水滴铜龙昼漏长,"water drips from the bronze dragon, the day clock is long",水滴铜龙,water dripping on bronze dragon,锁衔金兽连环冷，水滴铜龙昼漏长。,Environment,real,FALSE,,,
+Tang,灞上秋居,马戴,白露滴,white dew drips,白露,white dew,空园白露滴,Nature,real,FALSE,109.0809,34.315,T
+Tang,春怨,金昌绪,打起黄莺儿,drive away the oriole,黄莺儿,oriole,打起黄莺儿,Animal,real,FALSE,,,
+Tang,春怨,金昌绪,莫教枝上啼,don't let it sing on the branch,黄莺儿,oriole,莫教枝上啼,Animal,real,FALSE,,,
+Tang,春怨,金昌绪,啼时惊妾梦,its singing startles my dream,黄莺儿,oriole,啼时惊妾梦,Animal,dream,FALSE,,,
+Tang,杂诗 十三,无名氏,杜鹃休向耳边啼,"cuckoo, stop crying by my ear",杜鹃,cuckoo,杜鹃休向耳边啼,Animal,real,FALSE,,,
+Tang,古意呈补阙乔知之,沈佺期,寒砧催木叶,cold anvil urges the falling leaves,砧,anvil (for washing clothes),九月寒砧催木叶,Environment,real,FALSE,112.460033,34.624376,T
+Tang,青谿,王维,声喧乱石中,sound clamors among the rocks,水,water,声喧乱石中,Nature,real,FALSE,108.946306,34.347436,T
+Tang,渭川田家,王维,雉雊,pheasant calls,雉,pheasant,雉雊麦苗秀,Animal,real,FALSE,108.94,34.34,T
+Tang,渭川田家,王维,语依依,talk reluctantly,田夫,farmers,田夫荷锄至，相见语依依,Human,real,FALSE,108.94,34.34,T
+Tang,渭川田家,王维,吟式微,chant 'Decline',诗人,poet,怅然吟式微,Human,real,FALSE,108.94,34.34,T
+Tang,老将行,王维,汉兵奋迅如霹雳,Han soldiers advance swiftly like thunderbolt,霹雳,thunderbolt,汉兵奋迅如霹雳,Nature,real,FALSE,108.946306,34.347436,T
+Tang,老将行,王维,耻令越甲鸣吴军,Ashamed to let the Yue armor clatter in Wu army,鸣,clatter,耻令越甲鸣吴军,Environment,imagination,FALSE,108.946306,34.347436,T
+Tang,桃源行,王维,鸡犬喧,chickens and dogs clamor,鸡犬,chickens and dogs,日出云中鸡犬喧,Animal,real,FALSE,108.946306,34.347436,T
+Tang,桃源行,王维,惊闻,startled to hear,俗客,mundane visitors,惊闻俗客争来集,Human,real,FALSE,108.946306,34.347436,T
+Tang,桃源行,王维,争来集,compete to gather,俗客,mundane visitors,惊闻俗客争来集,Human,real,FALSE,108.946306,34.347436,T
+Tang,洛阳女儿行,王维,理曲,practice music,曲,music,戏罢曾无理曲时,Instrument,real,TRUE,112.454,34.6197,T
+Tang,辋川闲居赠裴秀才迪,王维,听暮蝉,listen to evening cicadas,暮蝉,evening cicadas,临风听暮蝉,Animal,real,FALSE,109.3637,34.0538,T
+Tang,辋川闲居赠裴秀才迪,王维,狂歌,wildly singing,接舆,Jieyu (a madman),狂歌五柳前,Human,real,FALSE,109.3637,34.0538,T
+Tang,酬张少府,王维,弹琴,play the zither,琴,zither,山月照弹琴,Instrument,real,FALSE,108.946306,34.347436,T
+Tang,酬张少府,王维,渔歌,fisherman's song,渔歌,fisherman's song,渔歌入浦深,Human,real,FALSE,108.946306,34.347436,T
+Tang,送梓州李使君,王维,一夜雨,night rain,雨,rain,山中一夜雨,Nature,real,FALSE,105.096,31.0943,T
+Tang,山石,韩愈,百虫绝,all insects cease,百虫,insects,夜深静卧百虫绝,Animal,real,TRUE,111.630105,34.5751885,T
+Tang,山石,韩愈,水声激激,water sounds gurgling,水,water,当流赤足蹋涧石，水声激激风吹衣,Nature,real,FALSE,111.630105,34.5751885,T
+Tang,八月十五夜赠张功曹,韩愈,声影绝,sounds and shadows cease,声,sound,沙平水息声影绝,Environment,real,TRUE,113.021311,25.776711,T
+Tang,八月十五夜赠张功曹,韩愈,君当歌,you should sing,君,you (the addressee),一桮相属君当歌,Human,imagination,FALSE,113.021311,25.776711,T
+Tang,八月十五夜赠张功曹,韩愈,君歌声酸,your song's sound is sour,君歌,your song,君歌声酸辞且苦,Human,real,FALSE,113.021311,25.776711,T
+Tang,八月十五夜赠张功曹,韩愈,不能听终,cannot listen to the end,君歌,your song,不能听终泪如雨,Human,real,TRUE,113.021311,25.776711,T
+Tang,八月十五夜赠张功曹,韩愈,搥大鼓,beat the big drum,大鼓,big drum,昨者州前搥大鼓,Instrument,memory,FALSE,113.021311,25.776711,T
+Tang,八月十五夜赠张功曹,韩愈,听我歌,listen to my song,我歌,my song,君歌且休听我歌,Human,real,FALSE,113.021311,25.776711,T
+Tang,谒衡岳庙遂宿岳寺题门楼,韩愈,猿鸣钟动,"monkeys cry, bells ring",猿鸣钟动,monkeys crying and bells ringing,猿鸣钟动不知曙,Animal,real,FALSE,112.6898,27.2969,T
+Tang,春宫怨,杜荀鹤,鸟声碎,birds' voices are fragmented,鸟,birds,风暖鸟声碎,Animal,real,FALSE,,,
+Tang,近试上张籍水部,朱庆余,低声问,ask in a low voice,新娘,bride,妆罢低声问夫壻,Human,real,FALSE,108.94,34.34,T
+Tang,泊秦淮,杜牧,犹唱后庭花,still singing the Rear Courtyard Flowers,商女,singing girls,商女不知亡国恨，隔江犹唱后庭花。,Human,real,FALSE,118.7947,32.0391,T
+Tang,旅宿,杜牧,断鴈警愁眠,broken wild geese alarm the sorrowful sleep,断鴈,broken wild geese,断鴈警愁眠,Animal,real,FALSE,,,
+Tang,早秋三首 一,许浑,泛清瑟,playing the clear zither,瑟,zither,遥夜泛清瑟,Instrument,real,FALSE,119.44,32.18,T
+Tang,秋日赴阙题潼关驿楼,许浑,红叶晚萧萧,red leaves rustle in the evening,红叶,red leaves,红叶晚萧萧,Nature,real,FALSE,110.2473,34.5443,T
+Tang,颂古三十二首  其二三,释明辩,打起黄莺儿,beat up the oriole,黄莺儿,oriole,打起黄莺儿,Animal,real,FALSE,,,
+Tang,颂古三十二首  其二三,释明辩,莫教枝上啼,don't let it sing on the branch,黄莺儿,oriole,莫教枝上啼,Animal,real,FALSE,,,
+Tang,后宫词,白居易,按歌声,sound of singing accompanied by music,歌声,singing voice,夜深前殿按歌声,Human,real,FALSE,,,
+Tang,喜见外弟又言别,李益,语罢暮天钟,"after speaking, the evening bell",钟,bell,别来沧海事，语罢暮天钟。,Environment,real,FALSE,112.45,34.62,F
+Tang,听筝,李端,鸣筝,sounding zither,筝,zither,鸣筝金粟柱,Instrument,real,FALSE,,,
+Tang,听筝,李端,误拂弦,mistakenly pluck the strings,弦,strings,时时误拂弦,Instrument,real,FALSE,,,
+Tang,听弹琴,刘长卿,泠泠七丝上,clear and cold sound from the seven strings,七丝,seven strings (of a zither),泠泠七丝上,Instrument,real,FALSE,120.58,31.3,T
+Tang,听弹琴,刘长卿,静听松风寒,quietly listening to the cold wind in the pines,松风,wind in the pines,静听松风寒,Nature,real,FALSE,120.58,31.3,T
+Tang,听弹琴,刘长卿,今人多不弹,nowadays people mostly do not play,弹,play (the zither),今人多不弹,Instrument,real,TRUE,120.58,31.3,T
+Tang,秋日登吴公台上寺远眺寺即陈将吴明彻战场,刘长卿,寒磬满空林,cold chime fills the empty forest,磬,chime (Buddhist stone or metal percussion),夕阳依旧垒，寒磬满空林。,Instrument,real,FALSE,119.4,32.428,T
+Tang,江州重别薛六柳八二员外,刘长卿,学醉歌,learn drunken songs,歌,song,世事空知学醉歌,Human,imagination,FALSE,115.9944,29.7213,T
+Tang,长沙过贾谊宅,刘长卿,寂寂,"silent, silent",江山,rivers and mountains,寂寂江山摇落处,Environment,real,FALSE,112.9663,28.196,T
+Tang,自夏口至鹦鹉洲夕望岳阳寄源中丞,刘长卿,寒吹角,cold blowing of horn,角,horn,孤城背岭寒吹角,Instrument,real,FALSE,114.2847,30.5719,T
+Tang,赋得,刘长卿,莺啼燕语,orioles chirping and swallows twittering,莺燕,orioles and swallows,莺啼燕语报新年,Animal,real,FALSE,,,
+Tang,凉州词二首 一,王翰,琵琶马上催,lute on horseback urges,琵琶,lute (pipa),欲饮琵琶马上催,Instrument,real,FALSE,102.6238,37.9278,T
+Tang,夏日南亭怀辛大,孟浩然,竹露滴清响,bamboo dew drips with clear sound,竹露,bamboo dew,竹露滴清响,Nature,real,FALSE,112.1,31.99,T
+Tang,夏日南亭怀辛大,孟浩然,欲取鸣琴弹,want to take the sounding zither and play,鸣琴,sounding zither,欲取鸣琴弹,Instrument,imagination,FALSE,112.1,31.99,T
+Tang,宿业师山房期丁大不至,孟浩然,风泉满清听,wind and springs fill the clear hearing,风泉,wind and springs,松月生夜凉，风泉满清听。,Nature,real,FALSE,112.1,31.99,F
+Tang,宿业师山房期丁大不至,孟浩然,孤琴候萝迳,lonely zither awaits on the vine path,琴,zither,之子期宿来，孤琴候萝迳。,Instrument,imagination,FALSE,112.1,31.99,F
+Tang,夜归鹿门山歌,孟浩然,钟鸣,bell rings,钟,bell,山寺钟鸣昼已昏,Environment,real,FALSE,112.15,31.91,T
+Tang,夜归鹿门山歌,孟浩然,寂寥,quiet and desolate,岩扉松径,stone door and pine path,岩扉松径长寂寥,Environment,real,TRUE,112.15,31.91,T
+Tang,秦中感秋寄远上人,孟浩然,闻蝉,hear cicadas,蝉,cicadas,闻蝉但益悲,Animal,real,FALSE,108.94,34.34,T
+Tang,宿桐庐江寄广陵旧游,孟浩然,闻猿愁,hear the sorrowful monkeys,猿,monkeys,山暝闻猿愁,Animal,real,FALSE,119.67,29.79,T
+Tang,宿桐庐江寄广陵旧游,孟浩然,风鸣两岸叶,wind whistles through leaves on both banks,风,wind,风鸣两岸叶,Nature,real,FALSE,119.67,29.79,T
+Tang,春晓,孟浩然,闻啼鸟,hear birds singing,啼鸟,singing birds,处处闻啼鸟,Animal,real,FALSE,112.28,31.94,T
+Tang,春晓,孟浩然,风雨声,sound of wind and rain,风雨,wind and rain,夜来风雨声,Nature,memory,FALSE,112.28,31.94,T
+Tang,蜀道难,李白,以手抚膺坐长叹,"sitting with a long sigh, patting chest with hand",长叹,long sigh,扪参历井仰胁息，以手抚膺坐长叹。,Human,real,FALSE,111.0979875,33.653807,T
+Tang,蜀道难,李白,悲鸟号古木,sad birds cry on ancient trees,悲鸟,sad birds,但见悲鸟号古木，雄飞雌从绕林间。,Animal,real,FALSE,111.0979875,33.653807,T
+Tang,蜀道难,李白,飞湍瀑流争喧豗,flying rapids and waterfalls compete in roaring,飞湍瀑流,flying rapids and waterfalls,飞湍瀑流争喧豗，砅厓转石万壑雷。,Nature,real,FALSE,111.0979875,33.653807,T
+Tang,蜀道难,李白,砅厓转石万壑雷,"water hitting cliffs, rolling stones, thunder in ten thousand valleys",砅厓转石,water hitting cliffs and rolling stones,飞湍瀑流争喧豗，砅厓转石万壑雷。,Nature,real,FALSE,111.0979875,33.653807,T
+Tang,蜀道难,李白,侧身西望长咨嗟,turn sideways to look west and give a long sigh,长咨嗟,long sigh,蜀道之难难于上青天，侧身西望长咨嗟。,Human,real,FALSE,111.0979875,33.653807,T
+Tang,将进酒,李白,与君歌一曲,sing a song for you,歌,song,与君歌一曲，请君为我侧耳听。,Human,real,FALSE,113.014821,34.523694,T
+Tang,将进酒,李白,侧耳听,listen attentively,听,listening,与君歌一曲，请君为我侧耳听。,Human,real,FALSE,113.014821,34.523694,T
+Tang,将进酒,李白,钟鼓,bells and drums,钟鼓,bells and drums,钟鼓馔玉不足贵，但愿长醉不愿醒。,Instrument,real,FALSE,113.014821,34.523694,T
+Tang,春宫怨,杜荀鹤,鸟声碎,birds' voices are fragmented,鸟,birds,风暖鸟声碎,Animal,real,FALSE,,,
+Tang,客夜与故人偶集,戴叔伦,风枝惊暗鹊,wind startles dark magpies on branches,鹊,magpies,风枝惊暗鹊,Animal,real,FALSE,,,
+Tang,客夜与故人偶集,戴叔伦,露草覆寒蛩,dew-covered grass hides cold crickets,蛩,crickets,露草覆寒蛩,Animal,real,FALSE,,,
+Tang,客夜与故人偶集,戴叔伦,相留畏晓钟,"reluctant to part, fearing the dawn bell",晓钟,dawn bell,相留畏晓钟,Environment,imagination,FALSE,,,
+Tang,晚次鄂州,卢纶,舟人夜语,boatmen talking at night,舟人,boatmen,舟人夜语觉潮生,Human,real,FALSE,114.8948,30.3919,T
+Tang,晚次鄂州,卢纶,鼓鼙声,sound of war drums,鼓鼙,war drums,更堪江上鼓鼙声,Instrument,real,FALSE,114.8948,30.3919,T
+Tang,过香积寺,王维,泉声咽危石,spring sound chokes on dangerous rocks,泉,spring,泉声咽危石,Nature,real,FALSE,108.8925,34.122,T
+Tang,过香积寺,王维,深山何处钟,deep mountains where bell,钟,bell,深山何处钟,Environment,real,FALSE,108.8925,34.122,T
+Tang,山居秋暝,王维,竹喧,bamboo rustling,竹,bamboo,竹喧归浣女,Nature,real,FALSE,109.37,34.13,T
+Tang,山居秋暝,王维,清泉石上流,clear spring flows over stones,清泉,clear spring,清泉石上流,Nature,real,FALSE,109.37,34.13,T
+Tang,酬郭给事,王维,疎钟,sparse bell,钟,bell,禁里疎钟官舍晚,Environment,real,FALSE,108.946306,34.347436,T
+Tang,酬郭给事,王维,啼鸟,singing birds,鸟,birds,省中啼鸟吏人稀,Animal,real,FALSE,108.946306,34.347436,T
+Tang,酬郭给事,王维,摇玉佩,shaking jade pendants,玉佩,jade pendants,晨摇玉佩趋金殿,Environment,real,FALSE,108.946306,34.347436,T
+Tang,积雨辋川庄作,王维,啭黄鹂,orioles warbling,黄鹂,orioles,阴阴夏木啭黄鹂,Animal,real,FALSE,109.3637,34.0538,T
+Tang,辋川集 竹里馆,王维,弹琴,play the zither,琴,zither,弹琴复长啸,Instrument,real,FALSE,109.3637,34.0538,T
+Tang,辋川集 竹里馆,王维,长啸,long whistle,啸,whistle,弹琴复长啸,Human,real,FALSE,109.3637,34.0538,T
+Tang,寻西山隐者不遇,丘为,松声,pine sound,松,pine trees,松声晚牕里,Nature,real,FALSE,114.89,30.4,T
+Tang,望蓟门,祖咏,箫鼓喧喧,flutes and drums noisy,箫鼓,flutes and drums,箫鼓喧喧汉将营,Instrument,real,FALSE,116.3551,39.9685,T
+Tang,古从军行,李颀,刁斗,watchman's rattle,刁斗,watchman's rattle,行人刁斗风沙暗,Environment,real,FALSE,,,
+Tang,古从军行,李颀,琵琶幽怨多,lute with much melancholy,琵琶,lute,公主琵琶幽怨多,Instrument,real,FALSE,,,
+Tang,古从军行,李颀,胡鴈哀鸣,wild geese cry mournfully,胡鴈,wild geese,胡鴈哀鸣夜夜飞,Animal,real,FALSE,,,
+Tang,琴歌,李颀,初弹渌水后楚妃,"first play Green Water, then Chu Concubine",弹,play (zither),初弹渌水后楚妃,Instrument,real,FALSE,108.94,34.34,T
+Tang,琴歌,李颀,一声已动物皆静,"one sound already moves, all things become still",一声,one sound (of the zither),一声已动物皆静,Instrument,real,FALSE,108.94,34.34,T
+Tang,琴歌,李颀,四座无言,the four seats have no words,无言,no words,四座无言星欲稀,Human,real,TRUE,108.94,34.34,T
+Tang,送陈章甫,李颀,嘶马,neighing horse,马,horse,嘶马出门思旧乡,Animal,real,FALSE,112.45,34.62,T
+Tang,听安万善吹觱篥歌,李颀,吹觱篥,playing the bili (reed pipe),觱篥,bili (reed pipe),听安万善吹觱篥歌,Instrument,real,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,傍邻闻者多叹息,neighbors who hear it sigh much,叹息,sighs,傍邻闻者多叹息,Human,real,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,枯桑老柏寒飕飗,withered mulberries and old cypresses shiver in the cold,飕飗,whistling wind,枯桑老柏寒飕飗,Nature,real,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,九雏鸣凤乱啾啾,nine young phoenixes chirp in disorder,鸣凤,phoenixes,九雏鸣凤乱啾啾,Animal,real,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,龙吟虎啸一时发,dragons roar and tigers howl at once,龙吟虎啸,dragon roar and tiger howl,龙吟虎啸一时发,Animal,real,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,万籁百泉相与秋,all sounds and a hundred springs join in autumn,万籁百泉,all sounds and a hundred springs,万籁百泉相与秋,Nature,real,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,变调如闻杨柳春,the tune changes as if hearing the Willow Spring song,杨柳春,Willow Spring song,变调如闻杨柳春,Instrument,imagination,FALSE,108.94,34.34,T
+Tang,听安万善吹觱篥歌,李颀,美酒一杯声一曲,"a cup of fine wine, one tune of music",声一曲,one tune of music,美酒一杯声一曲,Instrument,real,FALSE,108.94,34.34,T
+Tang,古意,李颀,惯弹琵琶,skilled at playing pipa,琵琶,pipa (lute),惯弹琵琶解歌舞,Instrument,real,FALSE,,,
+Tang,古意,李颀,羗笛出塞声,Qiang flute playing the tune of leaving the frontier,羗笛,Qiang flute,今为羗笛出塞声,Instrument,real,FALSE,,,
+Tang,送魏万之京,李颀,闻游子唱离歌,hear the traveler sing a farewell song,游子,traveler,朝闻游子唱离歌,Human,real,FALSE,112.45,34.62,F
+Tang,送魏万之京,李颀,鸿鴈不堪愁里听,cannot bear to hear the wild geese in sorrow,鸿鴈,wild geese,鸿鴈不堪愁里听,Animal,real,FALSE,112.45,34.62,F
+Tang,塞下曲四首 一,王昌龄,蝉鸣,cicadas chirp,蝉,cicadas,蝉鸣空桑林,Animal,real,FALSE,106.28,36.01,F
+Tang,回乡偶书  其二,贺知章,乡音,native accent,乡音,native accent,乡音难改鬓毛衰,Human,real,FALSE,,,
+Tang,长恨歌,白居易,缓歌慢舞凝丝竹,"slow songs and gentle dances, congealed strings and bamboo",丝竹,string and wind instruments,缓歌慢舞凝丝竹，尽日君王看不足。,Instrument,real,FALSE,112.118272,31.9404575,T
+Tang,长恨歌,白居易,惊破霓裳羽衣曲,startled and shattered the Rainbow and Feather Garment tune,霓裳羽衣曲,Rainbow and Feather Garment tune,渔阳鞞鼓动地来，惊破霓裳羽衣曲。,Instrument,real,FALSE,112.118272,31.9404575,T
+Tang,长恨歌,白居易,迟迟钟鼓初长夜,"slowly the bells and drums, the long night begins",钟鼓,bells and drums,迟迟钟鼓初长夜，耿耿星河欲曙天。,Environment,real,FALSE,112.118272,31.9404575,T
+Tang,长恨歌,白居易,金阙西厢叩玉扃,"at the golden palace's west wing, knock on the jade door",叩,knock,金阙西厢叩玉扃，转教小玉报双成。,Environment,real,FALSE,112.118272,31.9404575,T
+Tang,长恨歌,白居易,一别音容两渺茫,"once parted, voice and face both distant and vague",音,voice,含情凝睇谢君王，一别音容两渺茫。,Human,memory,TRUE,112.118272,31.9404575,T
+Tang,利州南渡,温庭筠,马嘶,horse neighing,马,horse,波上马嘶看櫂去,Animal,real,FALSE,105.8452,32.4339,T
+Tang,春宫怨,周朴,鸟声碎,bird sounds are fragmented,鸟,bird,风暖鸟声碎,Animal,real,FALSE,,,
+Tang,宫词二首 一,张祜,一声河满子,a single note of 'He Manzi',河满子,He Manzi (a song title),一声河满子,Human,real,FALSE,,,
+Tang,宫词,朱庆余,不敢言,dare not speak,美人,beautiful woman,含情欲说宫中事，鹦鹉前头不敢言。,Human,real,TRUE,,,
+Tang,石鼓歌,韩愈,鸣相磨,ring and rub against each other,劒佩,swords and pendants,诸侯劒佩鸣相磨,Environment,real,FALSE,112.460033,34.624376,T
+Tang,石鼓歌,韩愈,㧑呵,shout and scold,鬼物,ghosts and spirits,鬼物守护烦㧑呵,Human,real,FALSE,112.460033,34.624376,T
+Tang,石鼓歌,韩愈,敲火,strike fire,牧童,shepherd boy,牧童敲火牛砺角,Environment,real,FALSE,112.460033,34.624376,T
+Tang,石鼓歌,韩愈,吟哦,chant and recite,诗人,poet,六年西顾空吟哦,Human,real,FALSE,112.460033,34.624376,T
+Tang,石鼓歌,韩愈,呜呼,alas,诗人,poet,呜呼吾意其蹉跎,Human,real,FALSE,112.460033,34.624376,T
+Tang,秋夜曲,王涯,银筝夜久殷勤弄,playing the silver zither diligently late into the night,银筝,silver zither,银筝夜久殷勤弄,Instrument,real,FALSE,,,
+Tang,登柳州城楼寄漳汀封连四州,柳宗元,惊风乱飐芙蓉水,startling wind wildly ruffles the lotus water,风,wind,惊风乱飐芙蓉水,Nature,real,FALSE,109.41,24.33,T
+Tang,登柳州城楼寄漳汀封连四州,柳宗元,密雨斜侵薜荔墙,dense rain slantingly attacks the wall of ivy,雨,rain,密雨斜侵薜荔墙,Nature,real,FALSE,109.41,24.33,T
+Tang,登柳州城楼寄漳汀封连四州,柳宗元,犹自音书滞一乡,"still, letters and news are stranded in one place",音书,letters and news,犹自音书滞一乡,Human,real,TRUE,109.41,24.33,T
+Tang,溪居,柳宗元,响溪石,sounds on the creek rocks,溪石,creek rocks,夜榜响溪石,Environment,real,FALSE,111.637622,26.22853,T
+Tang,渔翁,柳宗元,欸乃一声,the creak of the oar,欸乃,creak of oar,烟销日出不见人，欸乃一声山水绿。,Environment,real,FALSE,111.637622,26.22853,T
+Tang,春望,杜甫,鸟惊心,birds startle the heart,鸟,birds,恨别鸟惊心,Animal,real,FALSE,108.946306,34.347436,T
+Tang,春宿左省,杜甫,啾啾栖鸟过,chirping birds passing by,栖鸟,roosting birds,啾啾栖鸟过,Animal,real,FALSE,108.946306,34.347436,T
+Tang,春宿左省,杜甫,不寝听金钥,"sleepless, listening for the golden keys",金钥,golden keys,不寝听金钥,Environment,real,FALSE,108.946306,34.347436,T
+Tang,春宿左省,杜甫,因风想玉珂,"by the wind, imagining jade pendants",玉珂,jade horse bells,因风想玉珂,Environment,imagination,FALSE,108.946306,34.347436,T
+Tang,月夜忆舍弟,杜甫,戍鼓,watchtower drum,鼓,drum,戍鼓断人行,Environment,real,FALSE,105.731276,34.587162,T
+Tang,月夜忆舍弟,杜甫,一雁声,a wild goose's cry,雁,wild goose,秋边一雁声,Animal,real,FALSE,105.731276,34.587162,T
+Tang,客至,杜甫,呼取,call out to fetch,邻翁,neighbor old man,隔篱呼取尽余桮,Human,real,FALSE,106.7708745,33.2848685,T
+Tang,奉济驿重送严公四韵,杜甫,讴歌,singing praises,列郡,various prefectures,列郡讴歌惜,Human,real,FALSE,104.76,31.48,T
+Tang,闻官军收河南河北,杜甫,放歌,loudly sing,诗人,the poet,白日放歌须纵酒,Human,imagination,FALSE,105.101082,31.101709,T
+Tang,登高,杜甫,猨啸哀,monkeys' mournful cries,猨,monkeys,风急天高猨啸哀,Animal,real,FALSE,107.2858075,31.063135,T
+Tang,登高,杜甫,萧萧下,rustling down,落木,falling leaves,无边落木萧萧下,Nature,real,FALSE,107.2858075,31.063135,T
+Tang,登高,杜甫,衮衮来,rolling on,长江,Yangtze River,不尽长江衮衮来,Nature,real,FALSE,107.2858075,31.063135,T
+Tang,别房太尉墓,杜甫,鸎啼,oriole cries,鸎,oriole,唯见林花落，鸎啼送客闻。,Animal,real,FALSE,106.011555,31.564145,T
+Tang,登楼,杜甫,梁甫吟,Liangfu chant,吟,chant,日暮聊为梁甫吟,Human,real,FALSE,108.5793525,29.676739,T
+Tang,宿府,杜甫,音书绝,news and letters cut off,音书,news and letters,风尘荏苒音书绝,Human,real,TRUE,104.071216,30.576279,T
+Tang,阁夜,杜甫,野哭,wild weeping,野哭,weeping in the wilderness,野哭几家闻战伐,Human,real,FALSE,109.470533,31.024561,T
+Tang,阁夜,杜甫,夷歌,barbarian songs,夷歌,barbarian songs,夷歌数处起渔樵,Human,real,FALSE,109.470533,31.024561,T
+Tang,咏怀古迹五首 三,杜甫,千载琵琶作胡语,thousand-year pipa plays barbarian language,琵琶,pipa (lute),千载琵琶作胡语,Instrument,imagination,FALSE,109.470533,31.024561,T
+Tang,咏怀古迹五首 三,杜甫,分明怨恨曲中论,clearly resentment discussed in the tune,曲,tune,分明怨恨曲中论,Instrument,imagination,FALSE,109.470533,31.024561,T
+Tang,江南逢李龟年,杜甫,闻,heard,李龟年（歌唱）,Li Guinian (singing),崔九堂前几度闻,Human,memory,FALSE,118.7674,32.0415,T
+Tang,和晋陵陆丞早春游望,杜审言,忽闻歌古调,suddenly hear an ancient tune being sung,歌古调,ancient tune being sung,忽闻歌古调，归思欲沾巾。,Human,real,FALSE,119.9613,31.7815,T
+Tang,兵车行,杜甫,车辚辚,carts creak,车,carts,车辚辚，马萧萧,Environment,real,FALSE,108.946306,34.347436,T
+Tang,兵车行,杜甫,马萧萧,horses neigh,马,horses,车辚辚，马萧萧,Animal,real,FALSE,108.946306,34.347436,T
+Tang,兵车行,杜甫,哭声,crying sound,耶娘妻子,"parents, wives, and children",牵衣顿足阑道哭，哭声直上干云霄,Human,real,FALSE,108.946306,34.347436,T
+Tang,赠卫八处士,杜甫,惊呼,startled exclamation,诗人,poet,访旧半为鬼，惊呼热中肠。,Human,real,FALSE,109.778378,34.518619,T
+Tang,哀江头,杜甫,嚼啮,chew and gnaw,白马,white horse,白马嚼啮黄金勒,Animal,memory,FALSE,108.946306,34.347436,T
+Tang,哀王孙,杜甫,泣路隅,weeping at the roadside,王孙,prince,腰下实玦青珊瑚，可怜王孙泣路隅。,Human,real,FALSE,111.630105,34.5751885,T
+Tang,哀王孙,杜甫,不敢长语,dare not speak at length,诗人,poet,不敢长语临交衢，且为王孙立斯须。,Human,real,TRUE,111.630105,34.5751885,T
+Tang,哀王孙,杜甫,慎勿出口,be careful not to speak out,王孙,prince,花门剺面请雪耻，慎勿出口他人狙。,Human,imagination,TRUE,111.630105,34.5751885,T
+Tang,佳人,杜甫,那闻旧人哭,how can one hear the old person weep,旧人,old person (the abandoned wife),但见新人笑，那闻旧人哭。,Human,real,TRUE,106.7708745,32.5817205,T
+Tang,梦李白二首 一,杜甫,吞声,swallow sound,人,person,死别已吞声,Human,real,FALSE,105.72,34.58,T
+Tang,韦讽录事宅观曹将军画马图,杜甫,叹嗟,sigh and exclaim,识者,connoisseurs,复令识者久叹嗟,Human,real,FALSE,104.071216,30.576279,T
+Tang,观公孙大娘弟子舞剑器行,杜甫,雷霆收震怒,thunder gathers its fury,雷霆,thunder,来如雷霆收震怒,Nature,imagination,FALSE,109.470533,31.024561,T
+Tang,观公孙大娘弟子舞剑器行,杜甫,急管,urgent pipes,管,pipes (wind instrument),玳筵急管曲复终,Instrument,real,FALSE,109.470533,31.024561,T
+Tang,观公孙大娘弟子舞剑器行,杜甫,曲复终,the music ends again,曲,music,玳筵急管曲复终,Instrument,real,FALSE,109.470533,31.024561,T
+Tang,观公孙大娘弟子舞剑器行,杜甫,问答,question and answer,问答,dialogue,与余问答既有以,Human,real,FALSE,109.470533,31.024561,T
+Tang,寻陆鸿渐不遇,皎然,扣门无犬吠,knock on the door but no dog barks,犬,dog,扣门无犬吠,Animal,real,TRUE,120.1,30.86,T
+Tang,寻陆鸿渐不遇,皎然,扣门,knock on the door,扣门,knocking on the door,扣门无犬吠,Environment,real,FALSE,120.1,30.86,T
+Tang,西塞山怀古,刘禹锡,萧萧,rustling sound,芦荻,reeds,故垒萧萧芦荻秋,Nature,real,FALSE,115.1046,30.2072,T
+Tang,枫桥夜泊,张继,乌啼,crows cawing,乌,crow,月落乌啼霜满天,Animal,real,FALSE,120.5683,31.3095,T
+Tang,酬程延秋夜即事见赠,韩翃,砧杵夜千家,pounding blocks and pestles at night in a thousand homes,砧杵,washing blocks and pestles,砧杵夜千家,Environment,real,FALSE,,,
+Tang,酬程延秋夜即事见赠,韩翃,不觉已鸣鸦,unaware that crows have already cawed,鸦,crows,不觉已鸣鸦,Animal,real,FALSE,,,
+Tang,秋夜寄丘二十二员外,韦应物,松子落,pine seeds falling,松子,pine seeds,山空松子落,Nature,real,FALSE,120.58,31.3,T
+Tang,送杨氏女,韦应物,两别泣不休,weeping without cease at parting,泣,weeping,幼为长所育，两别泣不休,Human,real,FALSE,118.3171,32.3016,T
+Tang,夕次盱眙县,韦应物,听钟,hear the bell,钟,bell,听钟未眠客,Environment,real,FALSE,118.5444,33.012,T
+Tang,东郊,韦应物,春鸠鸣何处,spring doves call somewhere,春鸠,spring doves,春鸠鸣何处,Animal,real,FALSE,108.94,34.13,T
+Tang,滁州西涧,韦应物,黄鹂深树鸣,orioles sing in the deep trees,黄鹂,orioles,上有黄鹂深树鸣,Animal,real,FALSE,118.3171,32.3016,T
+Tang,和晋陵陆丞早春游望,韦应物,忽闻歌苦调,suddenly hear a song with bitter tune,歌,song,忽闻歌苦调,Human,real,FALSE,119.9613,31.7815,T
+Tang,白雪歌送武判官归京,岑参,胡琴琵琶与羌笛,"Huqin, pipa, and Qiang flute",胡琴琵琶与羌笛,"Huqin, pipa, and Qiang flute",中军置酒饮归客，胡琴琵琶与羌笛。,Instrument,real,FALSE,108.94,34.34,T
+Tang,轮台歌奉送封大夫出师西征,岑参,吹笛,play the flute,笛,flute,平明吹笛大军行,Instrument,real,FALSE,87.6,43.8,T
+Tang,走马川行奉送出师西征,岑参,戈相拨,weapons clashing,戈,weapons,半夜军行戈相拨,Environment,real,FALSE,87.623314,43.832806,T
+Tang,奉和中书舍人贾至早朝大明宫,岑参,鸡鸣,rooster crows,鸡,rooster,鸡鸣紫陌曙光寒,Animal,real,FALSE,108.9589,34.2941,T
+Tang,奉和中书舍人贾至早朝大明宫,岑参,晓钟,morning bell,钟,bell,金阙晓钟开万户,Environment,real,FALSE,108.9589,34.2941,T
+Tang,奉和中书舍人贾至早朝大明宫,岑参,阳春一曲,a song of Sunny Spring,曲,song,阳春一曲和皆难,Human,real,FALSE,108.9589,34.2941,T
+Tang,书边事,张乔,调角,tuning the horn,角,horn,调角断清秋,Instrument,real,FALSE,,,
+Tang,行路难三首 二,李白,弹劒作歌奏苦声,"playing sword and singing, producing bitter sounds",弹劒作歌,playing sword and singing,弹劒作歌奏苦声,Human,real,FALSE,108.946306,34.347436,T
+Tang,长相思,李白,络纬秋啼金井阑,crickets chirp in autumn by the golden well railing,络纬,crickets,络纬秋啼金井阑,Animal,real,FALSE,113.8745985,32.472932,T
+Tang,长相思,李白,空长叹,empty long sigh,人,person (the speaker),卷帷望月空长叹,Human,real,FALSE,113.8745985,32.472932,T
+Tang,关山月,李白,叹息,sigh,戍客,garrison soldiers,高楼当此夜，叹息未应闲。,Human,real,FALSE,106.45,34.99,T
+Tang,庐山谣寄卢侍御虚舟,李白,凤歌,phoenix song,凤歌,phoenix song,我本楚狂人，凤歌笑孔丘。,Human,memory,FALSE,115.9946,29.5556,T
+Tang,庐山谣寄卢侍御虚舟,李白,笑,laugh,笑,laugh,我本楚狂人，凤歌笑孔丘。,Human,memory,FALSE,115.9946,29.5556,T
+Tang,梦游天姥吟留别,李白,空中闻天鸡,in the air hear celestial rooster,天鸡,celestial rooster,半壁见海日，空中闻天鸡,Animal,dream,FALSE,120.955,29.33,T
+Tang,梦游天姥吟留别,李白,熊咆龙吟,"bears roar, dragons chant",熊、龙,bears and dragons,熊咆龙吟殷岩泉,Animal,dream,FALSE,120.955,29.33,T
+Tang,梦游天姥吟留别,李白,列缺霹雳,"lightning flashes, thunder crashes",霹雳,thunder,列缺霹雳，丘峦崩摧,Nature,dream,FALSE,120.955,29.33,T
+Tang,梦游天姥吟留别,李白,訇然中开,with a loud bang opens in the middle,洞天石扇,stone door of the cave heaven,洞天石扇，訇然中开,Environment,dream,FALSE,120.955,29.33,T
+Tang,梦游天姥吟留别,李白,虎鼓瑟,tigers play zithers,虎,tigers,虎鼓瑟兮鸾回车,Instrument,dream,FALSE,120.955,29.33,T
+Tang,梦游天姥吟留别,李白,长嗟,long sigh,诗人,poet,怳惊起而长嗟,Human,real,FALSE,120.955,29.33,T
+Tang,送友人,李白,萧萧班马鸣,the neighing of the departing horse,班马,departing horse,挥手自兹去，萧萧班马鸣。,Animal,real,FALSE,113.8745985,31.5175555,T
+Tang,宣州谢朓楼饯别校书叔云,李白,酣高楼,drink heartily in the high tower,酣,drinking heartily (implies sounds of feasting),对此可以酣高楼,Human,real,FALSE,118.7563,30.9463,T
+Tang,下终南山过斛斯山人宿置酒,李白,长歌吟松风,long song chanting with pine wind,歌,song,长歌吟松风，曲尽河星稀。,Human,real,FALSE,108.94,34.1,T
+Tang,下终南山过斛斯山人宿置酒,李白,曲尽,song ends,曲,melody,长歌吟松风，曲尽河星稀。,Human,real,FALSE,108.94,34.1,T
+Tang,早发白帝城,李白,猨声啼,monkeys crying,猨,monkeys,两岸猨声啼不尽,Animal,real,FALSE,109.5737,31.045,T
+Tang,月下独酌四首 一,李白,我歌,I sing,我,I (the poet),我歌月裴回,Human,real,FALSE,108.946306,34.347436,T
+Tang,听蜀僧濬弹琴,李白,弹琴,play the zither,蜀僧,Shu monk,听蜀僧濬弹琴,Instrument,real,FALSE,118.765196,30.946576,T
+Tang,听蜀僧濬弹琴,李白,如听万壑松,as if hearing pines in ten thousand valleys,万壑松,pines in ten thousand valleys,为我一挥手，如听万壑松,Nature,imagination,FALSE,118.765196,30.946576,T
+Tang,听蜀僧濬弹琴,李白,余响入霜钟,lingering sound enters the frosty bell,余响,lingering sound,客心洗流水，余响入霜钟,Instrument,real,FALSE,118.765196,30.946576,T
+Tang,淮上喜会梁川故人,韦应物,欢笑,laughing and talking happily,故人,old friends,欢笑情如旧,Human,real,FALSE,117.35,32.97,T
+Tang,郡斋雨中与诸文士燕集,韦应物,仰聆金玉章,look up and listen to the golden jade chapters,金玉章,golden jade chapters (poems),俯饮一杯酒，仰聆金玉章。,Human,real,FALSE,120.5683,31.3095,T
+Tang,相和歌辞 燕歌行,高适,歌舞,singing and dancing,美人,beautiful women,美人帐下犹歌舞,Human,real,FALSE,117.41,40.05,T
+Tang,相和歌辞 燕歌行,高适,啼,weep,玉箸,jade chopsticks (tears),玉箸应啼别离后,Human,real,FALSE,117.41,40.05,T
+Tang,相和歌辞 燕歌行,高适,寒声一夜传刁斗,cold sound all night passes the watchtower,刁斗,watchman's clapper,寒声一夜传刁斗,Environment,real,FALSE,117.41,40.05,T
+Tang,相和歌辞 从军行,李颀,琵琶幽怨,lute's plaintive sound,琵琶,lute,公主琵琶幽怨多,Instrument,real,FALSE,,,
+Tang,相和歌辞 从军行,李颀,胡雁哀鸣,wild geese cry mournfully,胡雁,wild geese,胡雁哀鸣夜夜飞,Animal,real,FALSE,,,
+Tang,相和歌辞 蜀道难,李白,噫吁嚱,alas,诗人,poet,噫吁嚱！危乎高哉！,Human,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,坐长叹,sits and sighs deeply,诗人,poet,以手抚膺坐长叹,Human,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,悲鸟号枯木,sad birds cry on withered trees,悲鸟,sad birds,但见悲鸟号枯木,Animal,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,雄飞呼雌,male flies calling female,雄鸟,male bird,雄飞呼雌绕林间,Animal,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,子规啼夜月,cuckoo cries at night moon,子规,cuckoo,又闻子规啼夜月,Animal,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,飞湍瀑流相喧豗,flying torrents and waterfalls clamor together,飞湍瀑流,flying torrents and waterfalls,飞湍瀑流相喧豗,Nature,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,砅崖转石万壑雷,pounding cliffs and rolling stones thunder in ten thousand valleys,砅崖转石,pounding cliffs and rolling stones,砅崖转石万壑雷,Nature,real,FALSE,104.0668,30.5728,T
+Tang,相和歌辞 蜀道难,李白,长咨嗟,long sigh,诗人,poet,侧身西望长咨嗟,Human,real,FALSE,104.0668,30.5728,T
+Tang,杂曲歌辞 长相思三首 一,李白,络纬秋啼金井栏,katydids cry in autumn by the golden well railing,络纬,katydids,络纬秋啼金井栏,Animal,real,FALSE,,,
+Tang,杂曲歌辞 长相思三首 一,李白,空长叹,empty long sigh,人（诗人）,person (the poet),卷帷望月空长叹,Human,real,FALSE,,,
+Tang,杂曲歌辞 长相思三首 二,李白,赵瑟初停凤凰柱,Zhao zither just stopped on phoenix bridge,瑟,zither,赵瑟初停凤凰柱,Instrument,memory,FALSE,,,
+Tang,杂曲歌辞 长相思三首 二,李白,蜀琴欲奏鸳鸯弦,Shu qin about to play mandarin duck strings,琴,qin,蜀琴欲奏鸳鸯弦,Instrument,imagination,FALSE,,,
+Tang,杂曲歌辞 行路难三首 二,李白,弹劒作歌奏苦声,"playing sword and singing, producing bitter sounds",弹劒作歌,playing sword and singing,弹劒作歌奏苦声,Human,real,FALSE,108.946306,34.347436,T
+Tang,杂曲歌辞 长干行二首 一,李白,千唤不一回,called a thousand times but she does not turn back,唤,calling,千唤不一回,Human,real,FALSE,,,
+Tang,杂曲歌辞 长干行二首 一,李白,猨鸣天上哀,monkeys cry mournfully in the sky,猨鸣,monkey cries,猨鸣天上哀,Animal,real,FALSE,,,
+Tang,杂曲歌辞 独不见,沈佺期,寒砧催下叶,cold anvil urges falling leaves,砧,anvil (for washing clothes),九月寒砧催下叶,Environment,real,FALSE,,,
+Tang,春思,皇甫冉,莺啼燕语,orioles chirping and swallows twittering,莺燕,orioles and swallows,莺啼燕语报新年,Animal,real,FALSE,119.58,32.01,F
+Tang,夜月,刘方平,虫声,insect sound,虫,insect,虫声新透绿窗纱,Animal,real,FALSE,112.85,34.48,F
+Tang,宫词五首 二,顾况,起笙歌,rise of sheng music and song,笙歌,sheng music and song,玉楼天半起笙歌,Instrument,real,FALSE,,,
+Tang,宫词五首 二,顾况,笑语,laughter and talk,宫嫔,palace ladies,风送宫嫔笑语和,Human,real,FALSE,,,
+Tang,宫词五首 二,顾况,闻夜漏,hear the night water-clock,夜漏,night water-clock,月殿影开闻夜漏,Environment,real,FALSE,,,
+Southern Song,湘春夜月,黄孝迈,清歌,clear song,翠禽,kingfisher bird,可惜一片清歌，都付与黄昏,Animal,real,FALSE,112.944,28.228,T
+Southern Song,湘春夜月,黄孝迈,低诉,whisper softly,柳花,willow catkins,欲共柳花低诉，怕柳花轻薄，不解伤春,Human,imagination,FALSE,112.944,28.228,T
+Southern Song,湘春夜月,黄孝迈,空樽夜泣,empty wine vessel weeps at night,空樽,empty wine vessel,空樽夜泣，青山不语，残月当门,Environment,real,FALSE,112.944,28.228,T
+Southern Song,湘春夜月,黄孝迈,青山不语,green mountains do not speak,青山,green mountains,空樽夜泣，青山不语，残月当门,Nature,real,TRUE,112.944,28.228,T
+Southern Song,瑞鹤仙,陆叡,疏钟催晓,sparse bell urges dawn,钟,bell,但疏钟催晓，乱鸦啼暝,Environment,real,FALSE,120.58,30.01,T
+Southern Song,瑞鹤仙,陆叡,乱鸦啼暝,chaotic crows cry at dusk,鸦,crows,但疏钟催晓，乱鸦啼暝,Animal,real,FALSE,120.58,30.01,T
+Southern Song,霜叶飞,吴文英,残蛩语,remaining cricket chirping,残蛩,remaining cricket,夜冷残蛩语,Animal,real,FALSE,120.58,31.3,T
+Southern Song,瑞鹤仙,吴文英,歌尘凝扇,song dust congeals on the fan,歌,song,歌尘凝扇,Human,memory,FALSE,120.4542835,30.7666115,T
+Southern Song,齐天乐,吴文英,乱蛩疏雨里,in the chaotic crickets and sparse rain,蛩,crickets,可惜秋宵，乱蛩疏雨里。,Animal,real,FALSE,120.3420895,30.6705425,T
+Southern Song,齐天乐,吴文英,疏雨,sparse rain,雨,rain,可惜秋宵，乱蛩疏雨里。,Nature,real,FALSE,120.3420895,30.6705425,T
+Southern Song,风入松,吴文英,听风听雨,listening to wind and rain,风雨,wind and rain,听风听雨过清明。,Nature,real,FALSE,120.586673,30.036519,T
+Southern Song,风入松,吴文英,啼莺,orioles singing,莺,oriole,交加晓梦啼莺。,Animal,dream,FALSE,120.586673,30.036519,T
+Southern Song,莺啼序,吴文英,似说春事迟暮,seems to speak of spring's late affairs,燕,swallow,燕来晚、飞入西城，似说春事迟暮。,Animal,real,FALSE,120.176955,30.239356,T
+Southern Song,莺啼序,吴文英,歌纨,singing fan,歌纨,singing fan (a fan used while singing),断红湿、歌纨金缕。,Human,memory,FALSE,120.176955,30.239356,T
+Southern Song,莺啼序,吴文英,弹入哀筝柱,pluck into the sad zheng's strings,哀筝,sad zheng (a string instrument),漫相思、弹入哀筝柱。,Instrument,imagination,FALSE,120.176955,30.239356,T
+Southern Song,莺啼序,吴文英,怨曲重招,a plaintive tune summons again,怨曲,plaintive tune,伤心千里江南，怨曲重招，断魂在否。,Instrument,imagination,FALSE,120.176955,30.239356,T
+Southern Song,惜黄花慢,吴文英,凤咽琼箫,phoenix sobs on jade flute,琼箫,jade flute,仙人凤咽琼箫,Instrument,real,FALSE,120.64,31.16,T
+Southern Song,惜黄花慢,吴文英,歌云载恨,song clouds carry hatred,歌,song,歌云载恨，飞上银霄,Human,real,FALSE,120.64,31.16,T
+Southern Song,瑞鹤仙,袁去华,无语,without words,人（说话者）,person (speaker),无语。,Human,real,TRUE,,,
+Southern Song,剑器近,袁去华,莺啼燕语,orioles chirping and swallows twittering,莺燕,orioles and swallows,试细听、莺啼燕语,Animal,real,FALSE,,,
+Southern Song,安公子,袁去华,鸦啼,crows cawing,鸦,crow,嫩黄匀遍鸦啼处,Animal,real,FALSE,,,
+Southern Song,安公子,袁去华,哀弦危柱,sad strings and perilous bridges,弦,strings,尘满哀弦危柱,Instrument,imagination,FALSE,,,
+Southern Song,安公子,袁去华,百啭黄鹂语,oriole's hundred warbles,黄鹂,oriole,闲傍枕、百啭黄鹂语,Animal,real,FALSE,,,
+Northern Song,凤箫吟・芳草,韩缜,泣送征轮,weeping to see off the departing carriage,征轮,departing carriage,暗垂珠泪，泣送征轮,Human,real,FALSE,116.1,39,T
+Northern Song,桂枝香,王安石,时时犹唱,still often sing,商女,singing girls,至今商女，时时犹唱，後庭遗曲。,Human,real,FALSE,118.802891,32.064735,T
+Northern Song,清平乐,王安石,莺儿语,orioles' speech,莺儿,orioles,费尽莺儿语,Animal,memory,FALSE,,,
+Northern Song,清平乐,王安石,风雨,wind and rain,风雨,wind and rain,昨夜南园风雨,Nature,memory,FALSE,,,
+Northern Song,清平乐,王安石,琵琶,pipa (lute),琵琶,pipa,小怜初上琵琶,Instrument,memory,FALSE,,,
+Northern Song,千秋岁引,王安石,寒砧,cold anvil (sound of pounding clothes),砧,anvil,别馆寒砧,Environment,real,FALSE,118.78,32.04,T
+Northern Song,千秋岁引,王安石,画角,painted horn (military bugle),角,horn,孤城画角,Instrument,real,FALSE,118.78,32.04,T
+Northern Song,千秋岁引,王安石,秋声,autumn sounds,秋声,autumn sounds,一派秋声入寥廓,Nature,real,FALSE,118.78,32.04,T
+Northern Song,清平乐,王安国,莺儿语,orioles' speech,莺儿,orioles,费尽莺儿语,Animal,memory,FALSE,,,
+Northern Song,清平乐,王安国,琵琶,pipa (lute),琵琶,pipa,小怜初上琵琶,Instrument,memory,FALSE,,,
+Northern Song,临江仙,晏几道,琵琶弦上说相思,the pipa strings speak of longing,琵琶,pipa (lute),琵琶弦上说相思,Instrument,memory,FALSE,,,
+Northern Song,蝶恋花,晏几道,歌别绪,sing of parting sorrows,人,person,却倚缓弦歌别绪,Human,real,FALSE,,,
+Northern Song,蝶恋花,晏几道,缓弦,slow strings,弦,strings,却倚缓弦歌别绪,Instrument,real,FALSE,,,
+Northern Song,蝶恋花,晏几道,移破秦筝柱,move and break the zheng's bridges,秦筝,Qin zheng (instrument),断肠移破秦筝柱,Instrument,real,FALSE,,,
+Northern Song,鹧鸪天,晏几道,歌尽,singing exhausts,歌,singing,歌尽桃花扇影风,Human,memory,FALSE,,,
+Northern Song,清平乐,晏几道,晓莺啼,morning orioles chirping,莺,oriole,过尽晓莺啼处,Animal,memory,FALSE,,,
+Northern Song,菩萨蛮,晏几道,哀筝一弄湘江曲,sad zither plays a tune of Xiang River,筝,zither,哀筝一弄湘江曲,Instrument,real,FALSE,,,F
+Northern Song,菩萨蛮,晏几道,弹到断肠时,playing until heartbreak,弹,playing (the zither),弹到断肠时,Instrument,real,FALSE,,,F
+Northern Song,阮郎归,晏几道,清歌,clear song,歌,song,清歌莫断肠,Human,imagination,FALSE,114.31,34.79,T
+Northern Song,六么令,晏几道,新翻曲妙,newly composed tune is exquisite,曲,tune,新翻曲妙，暗许闲人带偷掏。,Instrument,real,FALSE,,,
+Northern Song,六么令,晏几道,笙歌散了,the reed pipe songs have dispersed,笙歌,reed pipe songs,都待笙歌散了，记取留时霎。,Instrument,real,FALSE,,,
+Northern Song,留春令,晏几道,水声中,in the sound of water,水声,sound of water,楼下分流水声中,Nature,real,FALSE,114.31,34.79,F
+Northern Song,水龙吟,苏轼,莺呼起,oriole calls up,莺,oriole,又还被、莺呼起,Animal,dream,FALSE,117.8221265,34.137992,T
+Northern Song,临江仙,苏轼,敲门都不应,knocking on the door but no answer,敲门,knocking on the door,敲门都不应,Environment,real,FALSE,117.2925205,28.663276,T
+Northern Song,定风波,苏轼,穿林打叶声,sound of wind and rain piercing the forest and hitting leaves,风雨,wind and rain,莫听穿林打叶声,Nature,real,FALSE,117.2377985,32.5415,T
+Northern Song,定风波,苏轼,吟啸,chanting and whistling,人,person,何妨吟啸且徐行,Human,real,FALSE,117.2377985,32.5415,T
+Northern Song,贺新郎,苏轼,风敲竹,wind knocking bamboo,风,wind,又却是，风敲竹。,Nature,real,FALSE,114.423348,23.116409,T
+Northern Song,洞仙歌,苏轼,庭户无声,courtyard and house are silent,庭户,courtyard and house,起来携素手，庭户无声，时见疏星渡河汉。,Environment,real,TRUE,114.596388,32.6311815,T
+Northern Song,江神子・江城子,苏轼,无处话凄凉,nowhere to speak of my sorrow,话,speech,千里孤坟，无处话凄凉,Human,real,TRUE,119.41,35.99,T
+Northern Song,江神子・江城子,苏轼,相顾无言,looking at each other without words,言,speech,相顾无言，惟有泪千行,Human,dream,TRUE,119.41,35.99,T
+Northern Song,永遇乐,苏轼,铿然一叶,a leaf falls with a clang,一叶,a leaf,如三鼓，铿然一叶，黯黯梦云惊断。,Nature,dream,FALSE,118.2609605,34.4062425,T
+Northern Song,永遇乐,苏轼,三鼓,third drum (night watch),鼓,drum,如三鼓，铿然一叶，黯黯梦云惊断。,Environment,dream,FALSE,118.2609605,34.4062425,T
+Northern Song,谢池春,李之仪,疏雨过,sparse rain passes,雨,rain,残寒销尽，疏雨过、清明後。,Nature,real,FALSE,118.49,31.55,T
+Southern Song,高阳台,韩,频听银签,frequently hear the silver clepsydra,银签,silver clepsydra (water clock),频听银签，重燃绛蜡，年华衮衮惊心。,Environment,real,FALSE,120.16,30.29,F
+Southern Song,高阳台,韩,伴我微吟,accompany me in soft chanting,我,I (the poet),多谢梅花，伴我微吟。,Human,real,FALSE,120.16,30.29,F
+Southern Song,生查子,刘克庄,戏鼓侵明发,playful drums invade the dawn,鼓,drum,戏鼓侵明发,Instrument,real,FALSE,118.13,27.34,T
+Southern Song,生查子,刘克庄,人散市声收,"people disperse, market sounds cease",市声,market sounds,人散市声收,Environment,real,TRUE,118.13,27.34,T
+Southern Song,高阳台,张炎,听啼鹃,hear the cuckoo's cry,啼鹃,cuckoo's cry,怕听啼鹃,Animal,real,FALSE,118.2876235,35.095536,T
+Southern Song,高阳台,张炎,笙歌,reed pipe songs,笙歌,reed pipe music and singing,无心再续笙歌梦,Instrument,memory,TRUE,118.2876235,35.095536,T
+Southern Song,贺新郎,刘克庄,争旗鼓,compete with flags and drums,鼓,drum,任陌头、年少争旗鼓,Instrument,real,FALSE,116.716243,27.6000215,T
+Southern Song,贺新郎,刘克庄,溪雨急,stream rain urgent,溪雨,stream rain,溪雨急，浪花舞,Nature,real,FALSE,116.716243,27.6000215,T
+Southern Song,贺新郎,刘克庄,斜风细雨,slanting wind and fine rain,风,wind,更那堪、斜风细雨，乱愁如织。,Nature,real,FALSE,116.716243,27.6000215,T
+Southern Song,玉楼春,刘克庄,呼庐,shouting at dice game,人声,human voices,红烛呼庐宵不寐,Human,real,FALSE,120.16,30.29,F
+Southern Song,好事近,韩元吉,梨园声,sounds of the Pear Garden,梨园,Pear Garden (imperial music academy),多少梨园声在,Instrument,memory,FALSE,116.131966,31.6319025,T
+Southern Song,好事近,韩元吉,御沟声断,imperial ditch sound broken,御沟,imperial ditch (water channel),惟有御沟声断,Nature,real,FALSE,116.131966,31.6319025,T
+Southern Song,好事近,韩元吉,呜咽,sobbing,人,person (implied),似知人呜咽,Human,real,FALSE,116.131966,31.6319025,T
+Southern Song,六州歌头,韩元吉,玉勒争嘶,jade-bit horses neigh in competition,马,horse,草软莎平跋马，垂杨渡、玉勒争嘶。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,烛影摇红,张抡,揭天丝管,sky-piercing strings and pipes,丝管,strings and pipes (musical instruments),五云深处，万烛光中，揭天丝管。,Instrument,memory,FALSE,120.16,30.29,T
+Southern Song,烛影摇红,张抡,几声归雁,a few calls of returning wild geese,归雁,returning wild geese,满怀幽恨，数点寒灯，几声归雁。,Animal,real,FALSE,120.16,30.29,T
+Southern Song,永遇乐,辛弃疾,舞榭歌台,dancing pavilion and singing stage,歌台,singing stage,舞榭歌台，风流总被，雨打风吹去。,Human,memory,FALSE,118.5736685,30.2586685,T
+Southern Song,永遇乐,辛弃疾,雨打风吹,rain beats and wind blows,雨打风吹,rain and wind,舞榭歌台，风流总被，雨打风吹去。,Nature,real,FALSE,118.5736685,30.2586685,T
+Southern Song,永遇乐,辛弃疾,金戈铁马,metal spears and iron horses,金戈铁马,weapons and warhorses,想当年，金戈铁马，气吞万里如虎。,Environment,memory,FALSE,118.5736685,30.2586685,T
+Southern Song,绿意・疏影,张炎,鸳鸯密语同倾盖,Mandarin ducks whisper intimately under the same canopy,鸳鸯,mandarin ducks,鸳鸯密语同倾盖,Animal,real,FALSE,120.16,30.29,T
+Southern Song,绿意・疏影,张炎,恐怨歌、忽断花风,fear that the resentful song might suddenly break the flower wind,怨歌,resentful song,恐怨歌、忽断花风,Human,imagination,FALSE,120.16,30.29,T
+Southern Song,绿意・疏影,张炎,西风吹折,the west wind blows and breaks,西风,west wind,又一夜、西风吹折,Nature,real,FALSE,120.16,30.29,T
+Northern Song,绿头鸭・多丽,晁端礼,漏声正永,the sound of the water clock is long,漏,water clock,最关情、漏声正永，暗断肠、花影偷移。,Environment,real,FALSE,114.313904,34.802941,T
+Northern Song,青门饮,时彦,胡马嘶风,Tartar horses neigh in the wind,胡马,Tartar horses,胡马嘶风，汉旗翻雪,Animal,real,FALSE,116.41,39.91,T
+Northern Song,青门饮,时彦,耳边曾道,once whispered by the ear,人声,human voice,料有牵情处，忍思量、耳边曾道,Human,memory,FALSE,116.41,39.91,T
+Northern Song,青门饮,时彦,认得迎门轻笑,recognize the light laughter greeting at the door,轻笑,light laughter,甚时跃马归来，认得迎门轻笑,Human,imagination,FALSE,116.41,39.91,T
+Northern Song,满庭芳,秦观,画角声断谯门,the sound of the painted horn breaks off at the watchtower gate,画角,painted horn (military instrument),画角声断谯门,Instrument,real,FALSE,117.4502885,32.41973,T
+Northern Song,阮郎归,秦观,丽谯吹罢《小单于》,the beautiful watchtower finishes playing 'Little Chanyu',丽谯,beautiful watchtower (with music),丽谯吹罢《小单于》,Instrument,real,FALSE,113.0544,27.01424,T
+Northern Song,满庭芳,秦观,按小秦筝,play the small Qin zheng,小秦筝,small Qin zheng (a string instrument),低底按小秦筝,Instrument,real,FALSE,117.4502885,32.41973,T
+Northern Song,醉中真・浣溪沙,贺铸,艳歌,beautiful song,歌,song,巧笑艳歌皆我意,Human,real,FALSE,114.31,31.79,T
+Northern Song,伴云来・天香,贺铸,黄昏钟鼓,evening bells and drums,钟鼓,bells and drums,逦迤黄昏钟鼓,Environment,real,FALSE,119.92,31.15,T
+Northern Song,伴云来・天香,贺铸,蛩催机杼,crickets urge the loom,蛩,crickets,蛩催机杼,Animal,real,FALSE,119.92,31.15,T
+Northern Song,伴云来・天香,贺铸,几声砧杵,several sounds of washing mallets,砧杵,washing mallets,齐应和、几声砧杵,Environment,real,FALSE,119.92,31.15,T
+Northern Song,伴云来・天香,贺铸,无人晤语,no one to talk to,语,speech,幽恨无人晤语,Human,real,TRUE,119.92,31.15,T
+Southern Song,高阳台,吴文英,啼鸟,singing birds,鸟,bird,最愁人，啼鸟晴明,Animal,real,FALSE,120.16,30.29,F
+Southern Song,三姝媚,吴文英,歌沈,singing sinks,歌,singing,舞歇歌沈,Human,memory,TRUE,120.161693,30.280059,T
+Southern Song,八声甘州,吴文英,时靸双鸳响,at times the sound of double slippers shuffling,双鸳,double slippers,时靸双鸳响，廊叶秋声。,Human,real,FALSE,120.589613,31.304566,T
+Southern Song,八声甘州,吴文英,廊叶秋声,autumn sound of leaves in the corridor,叶,leaves,时靸双鸳响，廊叶秋声。,Nature,real,FALSE,120.589613,31.304566,T
+Southern Song,八声甘州,吴文英,问苍波无语,"asking the blue waves, but they are silent",苍波,blue waves,问苍波无语，华发奈山青。,Nature,real,TRUE,120.589613,31.304566,T
+Southern Song,八声甘州,吴文英,连呼酒,repeatedly call for wine,人,person,连呼酒，上琴台去，秋与云平。,Human,real,FALSE,120.589613,31.304566,T
+Southern Song,夜合花,吴文英,壶箭催忙,the water clock urges haste,壶箭,water clock,翦蜡花、壶箭催忙,Environment,memory,FALSE,120.63,31.31,F
+Southern Song,夜合花,吴文英,唤酒银罂,call for wine in silver jars,唤酒,calling for wine,重来万感，依前唤酒银罂,Human,real,FALSE,120.63,31.31,F
+Southern Song,夜合花,吴文英,溪雨急,stream rain is urgent,溪雨,stream rain,溪雨急，岸花狂,Nature,real,FALSE,120.63,31.31,F
+Southern Song,蹋莎行・踏莎行,吴文英,雨声中,in the sound of rain,雨,rain,隔江人在雨声中,Nature,real,FALSE,120.59,31.3,T
+Southern Song,夜游宫,吴文英,听啼乌,hear the crying crows,啼乌,crying crows,听啼乌，立河桥，话未了。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,夜游宫,吴文英,雨外蛩声早,"outside the rain, the cricket's sound is early",蛩声,cricket's sound,雨外蛩声早。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,唐多令,吴文英,飕飕,soughing,芭蕉,banana leaves,纵芭蕉、不雨也飕飕,Nature,real,FALSE,120.13,30.27,T
+Southern Song,金缕歌・贺新郎,吴文英,重唱梅边吸度曲,sing again the song by the plum trees,人声,human voice,重唱梅边吸度曲，催发寒梢冻蕊。,Human,real,FALSE,120.631275,31.301311,T
+Southern Song,大有,潘希白,听风雨,hear wind and rain,风雨,wind and rain,帘栊昨夜听风雨,Nature,memory,FALSE,,,
+Southern Song,大有,潘希白,砧杆动微寒,the washing block moves with slight cold,砧杆,washing block and mallet,砧杆动微寒,Environment,real,FALSE,,,
+Southern Song,兰陵王,刘辰翁,共夜雨,together with night rain,夜雨,night rain,顾孺子，共夜雨,Nature,real,FALSE,115.00027,27.119751,T
+Southern Song,宝鼎现,刘辰翁,箫声断,flute sound breaks off,箫,flute,箫声断、约彩鸾归去,Instrument,real,FALSE,115.00027,27.119751,T
+Southern Song,宝鼎现,刘辰翁,喧阗且止,noise and clamor then cease,喧阗,noise and clamor,甚辇路、喧阗且止,Environment,real,FALSE,115.00027,27.119751,T
+Southern Song,宝鼎现,刘辰翁,听得念奴歌起,hear Niannu's song rise,念奴歌,Niannu's song,听得念奴歌起,Human,real,FALSE,115.00027,27.119751,T
+Southern Song,宝鼎现,刘辰翁,三千乐指,three thousand musical fingers,乐指,musical fingers (musicians),空见说、三千乐指,Instrument,memory,FALSE,115.00027,27.119751,T
+Southern Song,永遇乐,刘辰翁,社鼓,village drum,社鼓,village drum,空相对，残无寐，满村社鼓。,Environment,real,FALSE,115.00027,27.119751,T
+Southern Song,摸鱼儿,刘辰翁,歌声滑,smooth singing voice,歌声,singing voice,深杯欲共歌声滑,Human,memory,FALSE,115.00027,27.119751,T
+Southern Song,摸鱼儿,刘辰翁,顾曲,appreciating music,曲,music,清狂顾曲,Instrument,memory,FALSE,115.00027,27.119751,T
+Southern Song,玉京秋,周密,晚蜩凄切,evening cicadas chirp mournfully,晚蜩,evening cicadas,高林弄残照，晚蜩凄切。,Animal,real,FALSE,120.16,30.29,T
+Southern Song,玉京秋,周密,碧砧度韵,green anvil produces rhythmic sound,碧砧,green anvil (for washing clothes),碧砧度韵，银床飘叶。,Human,real,FALSE,120.16,30.29,T
+Southern Song,玉京秋,周密,砌蛩能说,crickets by the steps can tell,砌蛩,crickets by the steps,一襟幽事，砌蛩能说。,Animal,real,FALSE,120.16,30.29,T
+Southern Song,玉京秋,周密,怨歌长,plaintive song lingers,怨歌,plaintive song,怨歌长、琼壶暗缺。,Human,real,FALSE,120.16,30.29,T
+Southern Song,玉京秋,周密,楚箫咽,Chu flute sobs,楚箫,Chu flute,楚箫咽。谁倚西楼淡月。,Instrument,real,FALSE,120.16,30.29,T
+Southern Song,曲游春,周密,沸十里、乱弦丛笛,"boiling for ten li, chaotic strings and clustered flutes",弦笛,strings and flutes,沸十里、乱弦丛笛,Instrument,real,FALSE,120.13,30.26,T
+Southern Song,曲游春,周密,歌管酬寒食,singing and pipes repay the Cold Food Festival,歌管,singing and pipes,歌管酬寒食,Instrument,real,FALSE,120.13,30.26,T
+Southern Song,高阳台,周密,叠鼓清笳,layered drums and clear reed pipes,"鼓, 笳","drums, reed pipes",纵英游，叠鼓清笳，骏马名姬。,Instrument,memory,FALSE,120.16,30.29,F
+Southern Song,解佩环・疏影,彭元逊,落木萧萧,falling trees rustling,落木,falling leaves/trees,尽孤城、落木萧萧，日夜江声流去。,Nature,real,FALSE,114.99,27.12,T
+Southern Song,解佩环・疏影,彭元逊,闻笛,hear flute,笛,flute,日晏山深闻笛，恐他年流落，与子同赋。,Instrument,real,FALSE,114.99,27.12,T
+Southern Song,六丑,彭元逊,城乌夜起,city crows rise at night,乌,crow,日下长秋，城乌夜起,Animal,real,FALSE,,,
+Northern Song,石州引・石州慢,贺铸,清歌,clear song,歌,song,红泪清歌，顿成清别。,Human,memory,FALSE,114.5,37.44,T
+Northern Song,石州引・石州慢,贺铸,音尘多绝,sounds and dust are mostly cut off,音尘,sounds and dust (news),已是经年，杳杳音尘多绝。,Human,real,TRUE,114.5,37.44,T
+Northern Song,望湘人,贺铸,莺声到枕,oriole's sound reaches the pillow,莺,oriole,厌莺声到枕,Animal,real,FALSE,112.944,28.228,T
+Northern Song,望湘人,贺铸,鸾弦易断,phoenix strings easily break,鸾弦,phoenix strings (musical instrument),须信鸾弦易断,Instrument,imagination,FALSE,112.944,28.228,T
+Northern Song,望湘人,贺铸,云和再鼓,cloud-harmony zither played again,云和,cloud-harmony zither (instrument),奈云和再鼓,Instrument,memory,FALSE,112.944,28.228,T
+Northern Song,望湘人,贺铸,曲终人远,"song ends, person far away",曲,song/music,曲终人远,Instrument,memory,FALSE,112.944,28.228,T
+Northern Song,蝶恋花,贺铸,微吟,softly chant,人,person,竟日微吟长短句,Human,real,FALSE,116.409154,33.189245,T
+Northern Song,蝶恋花,贺铸,胡琴语,huqin music,胡琴,huqin (string instrument),心寄胡琴语,Instrument,real,FALSE,116.409154,33.189245,T
+Northern Song,蝶恋花,贺铸,雨声,sound of rain,雨,rain,数点雨声风约住,Nature,real,FALSE,116.409154,33.189245,T
+Northern Song,夏云峰,仲殊,莺声犹嫩,the oriole's song is still tender,莺,oriole,朱门掩、莺声犹嫩,Animal,real,FALSE,120.59,31.3,F
+Northern Song,夏云峰,仲殊,时传音信,sometimes send news,音信,news/message,争知道、梦里蓬莱，待忘了馀香，时传音信,Human,imagination,FALSE,120.59,31.3,F
+Northern and Southern Song Transition,贺新郎,潘汾,画堂人静,"painted hall, people quiet",人,people,画堂人静,Human,real,TRUE,,,
+Northern and Southern Song Transition,贺新郎,潘汾,嘶骑不来,neighing horse does not come,骑,horse,嘶骑不来银烛暗,Animal,real,TRUE,,,
+Northern Song,忆王孙,李重元,杜宇声声,cuckoo's repeated calls,杜宇,cuckoo,杜宇声声不忍闻,Animal,real,FALSE,,,
+Northern Song,忆王孙,李重元,雨打梨花,rain beating on pear blossoms,雨,rain,雨打梨花深闭门,Nature,real,FALSE,,,
+Northern Song,贺新郎,李玉,嘶骑不来,the neighing horse does not come,骑,horse,嘶骑不来银烛暗,Animal,real,TRUE,,,
+Northern and Southern Song Transition,临江仙,陈与义,高咏,loudly reciting,人,person,高咏楚词酬午日,Human,real,FALSE,117.1749945,29.7293035,T
+Northern and Southern Song Transition,临江仙,陈与义,歌罢,after singing,人,person,歌罢满帘风,Human,real,FALSE,117.1749945,29.7293035,T
+Northern and Southern Song Transition,临江仙,陈与义,去无声,flows without sound,长沟流月,moonlit water in the long ditch,长沟流月去无声,Nature,memory,TRUE,117.1749945,29.7293035,T
+Northern and Southern Song Transition,临江仙,陈与义,吹笛,playing the flute,笛,flute,杏花疏影里，吹笛到天明,Instrument,memory,FALSE,117.1749945,29.7293035,T
+Northern and Southern Song Transition,临江仙,陈与义,渔唱,fisherman's song,渔,fisherman,古今多少事，渔唱起三更,Human,real,FALSE,117.1749945,29.7293035,T
+Northern and Southern Song Transition,兰陵王,张元干,音断弦索,sound of strings broken,弦索,string instruments,甚粉淡衣襟，音断弦索,Instrument,memory,TRUE,,,
+Northern and Southern Song Transition,薄幸,吕渭老,鸦啼莺弄,crows caw and orioles sing,鸦啼莺弄,crows and orioles,乍听得、鸦啼莺弄，惹起新愁无限。,Animal,real,FALSE,120.75,30.77,F
+Northern and Southern Song Transition,薄幸,吕渭老,无言,without words,无言,silence,尽无言、闲品秦筝，泪满参差雁。,Human,real,TRUE,120.75,30.77,F
+Northern and Southern Song Transition,薄幸,吕渭老,闲品秦筝,idly play the Qin zither,秦筝,Qin zither,尽无言、闲品秦筝，泪满参差雁。,Instrument,real,FALSE,120.75,30.77,F
+Northern and Southern Song Transition,满江红,岳飞,潇潇雨歇,the pattering rain ceases,雨,rain,怒发冲冠，凭阑处、潇潇雨歇。,Nature,real,FALSE,115.159912,30.154878,T
+Northern and Southern Song Transition,满江红,岳飞,仰天长啸,looking up to the sky and roaring,啸,roar,抬望眼、仰天长啸，壮怀激烈。,Human,real,FALSE,115.159912,30.154878,T
+Southern Song,水龙吟,陈亮,子规声断,the cuckoo's call breaks off,子规,cuckoo,正销魂，又是疏烟淡月，子规声断。,Animal,real,FALSE,120.03,28.9,T
+Southern Song,宴山亭・燕山亭,张,声摇,sound shakes,蕙畹,orchid garden,蕙畹声摇,Nature,real,FALSE,116.4074,39.9042,T
+Southern Song,鹧鸪天,姜夔,山鸟啼,mountain birds cry,山鸟,mountain birds,暗里忽惊山鸟啼,Animal,dream,FALSE,120.1281295,30.589537,T
+Southern Song,霓裳中序第一,姜夔,乱蛩吟壁,chaotic crickets chirping on the wall,蛩,cricket,乱蛩吟壁,Animal,real,FALSE,112.726471,27.257664,T
+Southern Song,齐天乐,姜夔,吟愁赋,chanting the sorrowful rhapsody,庾郎,Yu Xin,庾郎先自吟愁赋,Human,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,私语,whispering,蟋蟀,cricket,凄凄更闻私语,Animal,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,哀音似诉,sorrowful sound like complaining,蟋蟀,cricket,哀音似诉,Animal,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,吹暗雨,blowing dark rain,雨,rain,西窗又吹暗雨,Nature,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,砧杵,washing block and club,砧杵,washing block and club,相和砧杵,Environment,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,呼灯,calling for a lantern,世间儿女,children in the world,笑篱落呼灯,Human,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,写入琴丝,written into the strings of the qin,琴丝,qin strings,写入琴丝,Instrument,real,FALSE,120.161693,30.280059,T
+Southern Song,齐天乐,姜夔,一声声更苦,each sound more bitter,琴丝,qin strings,一声声更苦,Instrument,real,FALSE,120.161693,30.280059,T
+Southern Song,一萼红,姜夔,笑语,laughter and talk,人,people,渐笑语、惊起卧沙禽,Human,real,FALSE,112.945333,28.233971,T
+Southern Song,一萼红,姜夔,惊起卧沙禽,startled the waterfowl resting on the sand,沙禽,waterfowl on the sand,渐笑语、惊起卧沙禽,Animal,real,FALSE,112.945333,28.233971,T
+Southern Song,一萼红,姜夔,呼唤登临,calling to ascend,人,people,野老林泉，故王台榭，呼唤登临,Human,real,FALSE,112.945333,28.233971,T
+Southern Song,一萼红,姜夔,空叹,vainly sigh,人,person,朱户黏鸡，金盘簇燕，空叹时序侵寻,Human,real,FALSE,112.945333,28.233971,T
+Southern Song,琵琶仙・自度曲,姜夔,几声啼,several sounds of crying,啼,crying (bird),春渐远、汀洲自绿，更添了、几声啼。,Animal,real,FALSE,120.094566,30.899015,T
+Southern Song,八归,姜夔,蛩切,cricket chirps sharply,蛩,cricket,藓阶蛩切,Animal,real,FALSE,112.945333,28.233971,T
+Southern Song,八归,姜夔,琵琶谁拨,who plays the pipa,琵琶,pipa (lute),问水面、琵琶谁拨,Instrument,imagination,FALSE,112.945333,28.233971,T
+Southern Song,八归,姜夔,啼,cry of birds,啼,birds crying,总付与啼,Animal,real,FALSE,112.945333,28.233971,T
+Southern Song,扬州慢,姜夔,清角吹寒,clear horn blowing cold,角,horn,渐黄昏，清角吹寒，都在空城。,Instrument,real,FALSE,119.4129,32.3938,T
+Southern Song,暗香,姜夔,吹笛,playing the flute,笛,flute,梅边吹笛,Instrument,memory,FALSE,120.589613,31.304566,T
+Southern Song,暗香,姜夔,泣,weeping,翠尊,green wine cup,翠尊易泣,Human,imagination,FALSE,120.589613,31.304566,T
+Southern Song,疏影,姜夔,玉龙哀曲,jade dragon's mournful tune,玉龙,jade dragon (flute),又却怨、玉龙哀曲,Instrument,imagination,FALSE,120.589613,31.304566,T
+Southern Song,翠楼吟,姜夔,听毡幕、元戎歌吹,hear the singing and playing of the commander in the felt tent,元戎歌吹,commander's singing and playing,听毡幕、元戎歌吹,Human,real,FALSE,120.161693,30.280059,T
+Southern Song,翠楼吟,姜夔,新翻胡部曲,newly arranged Hu music,胡部曲,Hu music,新翻胡部曲,Instrument,real,FALSE,120.161693,30.280059,T
+Northern Song,木兰花・玉楼春,钱惟演,莺语乱,orioles' songs in disorder,莺,orioles,城上风光莺语乱,Animal,real,FALSE,113.38,31.69,T
+Northern Song,木兰花・玉楼春,钱惟演,春拍岸,spring waves pat the shore,春波,spring waves,城下烟波春拍岸,Nature,real,FALSE,113.38,31.69,T
+Northern Song,御街行,范仲淹,寒声碎,cold sounds shatter,堕叶,falling leaves,纷纷堕叶飘香砌。夜寂静、寒声碎。,Nature,real,FALSE,,,
+Northern Song,曲玉管,柳永,永日无言,all day long without words,人,person,一场消黯，永日无言，却下层楼,Human,real,TRUE,107.4,34.52,T
+Northern Song,雨霖铃,柳永,寒蝉凄切,cold cicadas mournfully chirp,寒蝉,cold cicadas,寒蝉凄切。对长亭晚，骤雨初歇。,Animal,real,FALSE,114.313904,34.802941,T
+Northern Song,雨霖铃,柳永,骤雨初歇,sudden rain just stopped,骤雨,sudden rain,寒蝉凄切。对长亭晚，骤雨初歇。,Nature,real,FALSE,114.313904,34.802941,T
+Northern Song,雨霖铃,柳永,竟无语凝噎,"actually speechless, choked with sobs",语,speech,执手相看泪眼，竟无语凝噎。,Human,real,TRUE,114.313904,34.802941,T
+Northern Song,采莲令,柳永,轧轧开朱户,creaking sound of opening the red door,朱户,red door,翠娥执手送临歧，轧轧开朱户。,Environment,real,FALSE,114.313904,34.802941,T
+Northern Song,凤栖梧・蝶恋花,柳永,对酒当歌,"facing wine, should sing",歌,singing,拟把疏狂图一醉。对酒当歌，强乐还无味。,Human,imagination,FALSE,114.31,34.79,T
+Northern Song,浪淘沙,柳永,又闻空阶，夜雨频滴,"again hear on empty steps, night rain frequently drips",夜雨,night rain,那堪酒醒，又闻空阶，夜雨频滴,Nature,real,FALSE,,,
+Northern Song,浪淘沙,柳永,饮散歌阑,"drinking ends, songs cease",歌,song,洞房深处，几度饮散歌阑,Human,memory,FALSE,,,
+Northern Song,浪淘沙,柳永,轻轻细说与,gently and softly tell,说,speak,愿低帏昵枕，轻轻细说与,Human,imagination,FALSE,,,
+Northern Song,定风波,柳永,音书无个,no news or letters,音书,news/letters (implied sound of communication),恨薄情一去，音书无个,Human,real,TRUE,108.960637,34.271171,T
+Northern Song,少年游,柳永,乱蝉栖,chaotic cicadas perch,蝉,cicadas,高柳乱蝉栖,Animal,real,FALSE,114.5539995,32.3137475,T
+Northern Song,戚氏,柳永,正蝉吟败叶,cicadas chirping among withered leaves,蝉,cicadas,正蝉吟败叶，蛩响衰草，相应喧喧,Animal,real,FALSE,108.960637,34.271171,T
+Northern Song,戚氏,柳永,蛩响衰草,crickets chirping among withered grass,蛩,crickets,正蝉吟败叶，蛩响衰草，相应喧喧,Animal,real,FALSE,108.960637,34.271171,T
+Northern Song,戚氏,柳永,相应喧喧,responding noisily,蝉与蛩,cicadas and crickets,正蝉吟败叶，蛩响衰草，相应喧喧,Animal,real,FALSE,108.960637,34.271171,T
+Northern Song,戚氏,柳永,遇当歌,encounter when singing,歌,singing,况有狂朋怪侣，遇当歌、对酒竞留连,Human,memory,FALSE,108.960637,34.271171,T
+Northern Song,戚氏,柳永,渐呜咽、画角数声残,"gradually sobbing, the painted horn's few sounds fade",画角,painted horn,漏箭移、稍觉轻寒。渐呜咽、画角数声残,Instrument,real,FALSE,108.960637,34.271171,T
+Northern Song,夜半乐,柳永,更闻商旅相呼,further hear merchants calling each other,商旅,merchants and travelers,怒涛渐息，樵风乍起，更闻商旅相呼。,Human,real,FALSE,120.161693,30.280059,T
+Northern Song,夜半乐,柳永,渔人鸣榔归去,fishermen strike the wooden clapper returning,渔人鸣榔,fishermen striking wooden clappers,残日下，渔人鸣榔归去。,Human,real,FALSE,120.161693,30.280059,T
+Northern Song,夜半乐,柳永,含羞笑相语,shyly smile and talk to each other,浣沙游女,silk-washing maidens,岸边两两三三，浣沙游女。避行客、含羞笑相语。,Human,real,FALSE,120.161693,30.280059,T
+Northern Song,夜半乐,柳永,断鸿声远,the sound of a lone swan goose fades into the distance,断鸿,lone swan goose,凝泪眼、杳杳神京路。断鸿声远长天暮。,Animal,real,FALSE,120.161693,30.280059,T
+Northern Song,玉蝴蝶,柳永,断鸿声,sound of a lone swan goose,断鸿,lone swan goose,断鸿声里，立尽斜阳,Animal,real,FALSE,115.0676465,33.84941,T
+Northern Song,竹马子・竹马儿,柳永,残蝉噪晚,lingering cicadas chirp in the evening,残蝉,lingering cicadas,渐觉一叶惊秋，残蝉噪晚，素商时序。,Animal,real,FALSE,118.78,32.05,T
+Northern Song,迷神引,柳永,孤城暮角,lonely city evening horn,角,horn,孤城暮角，引胡茄怨。,Instrument,real,FALSE,112.989982,28.118301,T
+Northern Song,迷神引,柳永,引胡茄怨,draws out the plaintive Tartar reed pipe,胡茄,Tartar reed pipe,孤城暮角，引胡茄怨。,Instrument,real,FALSE,112.989982,28.118301,T
+Northern Song,迷神引,柳永,平沙雁、旋惊散,"on the flat sand, wild geese suddenly scatter in alarm",雁,wild geese,水茫茫，平沙雁、旋惊散。,Animal,real,FALSE,112.989982,28.118301,T
+Northern Song,一丛花令・一丛花,张先,嘶骑渐遥,neighing horse gradually distant,骑,horse,嘶骑渐遥，征尘不断，何处认郎踪。,Animal,real,FALSE,120.1,30.86,T
+Northern Song,天仙子,张先,水调数声,several notes of Water Melody,水调,Water Melody (a tune),水调数声持酒听,Instrument,real,FALSE,113.659605,30.235006,T
+Northern Song,天仙子,张先,听,listen,水调,Water Melody,水调数声持酒听,Instrument,real,FALSE,113.659605,30.235006,T
+Northern Song,千秋岁,张先,数声鶗鴂,several cries of the cuckoo,鶗鴂,cuckoo,数声鶗鴂。又报芳菲歇。,Animal,real,FALSE,,,
+Northern Song,千秋岁,张先,莫把幺弦拨,do not pluck the thin string,幺弦,thin string (of a musical instrument),莫把幺弦拨。怨极弦能说。,Instrument,real,FALSE,,,
+Northern Song,青门引・青门饮,张先,风雨晚来方定,wind and rain only stop in the evening,风雨,wind and rain,风雨晚来方定,Nature,real,FALSE,120.1,30.86,T
+Northern Song,青门引・青门饮,张先,楼头画角风吹醒,the painted horn on the tower awakens me blown by wind,画角,painted horn (military instrument),楼头画角风吹醒,Instrument,real,FALSE,120.1,30.86,T
+Northern Song,青门引・青门饮,张先,入夜重门静,"as night falls, the multiple doors are quiet",静,silence,入夜重门静,Environment,real,TRUE,120.1,30.86,T
+Northern Song,浣溪沙,晏殊,一曲新词,a new song,新词,new song,一曲新词酒一杯,Human,real,FALSE,115.65,34.43,T
+Northern Song,浣溪沙,晏殊,歌席,singing banquet,歌,singing,酒筵歌席莫辞频,Human,real,FALSE,115.65,34.43,T
+Northern Song,浣溪沙,晏殊,莫辞频,do not decline frequently,辞,decline (speech),酒筵歌席莫辞频,Human,real,TRUE,115.65,34.43,T
+Northern Song,浣溪沙,晏殊,落花风雨,falling flowers and wind and rain,风雨,wind and rain,落花风雨更伤春,Nature,real,FALSE,115.65,34.43,T
+Northern Song,木兰花・玉楼春,晏殊,闻琴,hear the zither,琴,zither,闻琴解佩神仙侣,Instrument,memory,FALSE,114.31,34.79,T
+Northern Song,木兰花・玉楼春,晏殊,歌韵响铮琮,singing rhyme resounds like jingling jade,歌韵,singing rhyme,重头歌韵响铮琮,Human,memory,FALSE,114.31,34.79,T
+Northern Song,踏莎行,晏殊,离歌,farewell song,离歌,farewell song,祖席离歌，长亭别宴。,Human,real,FALSE,,,
+Northern Song,踏莎行,晏殊,马映林嘶,horse neighs through the forest,马,horse,居人匹马映林嘶，行人去棹依波转。,Animal,real,FALSE,,,
+Northern Song,玉楼春,晏殊,五更钟,bell at the fifth watch,钟,bell,楼头残梦五更钟,Environment,real,FALSE,114.31,34.79,F
+Northern Song,玉楼春,晏殊,三月雨,rain in the third month,雨,rain,花底离情三月雨,Nature,real,FALSE,114.31,34.79,F
+Northern Song,诉衷情,欧阳修,拟歌先敛,about to sing but first restrains,歌,singing,拟歌先敛，欲笑还颦，最断人肠。,Human,imagination,FALSE,111.31,30.77,T
+Northern Song,玉楼春,欧阳修,歌韵响铮鏦,singing rhythm resounds with clanging,歌韵,singing rhythm,从头歌韵响铮鏦,Human,memory,FALSE,114.140711,33.7601275,T
+Northern Song,玉楼春,欧阳修,闻琴,hear the zither,琴,zither,闻琴解神仙侣,Instrument,memory,FALSE,114.140711,33.7601275,T
+Northern Song,玉楼春,欧阳修,风竹敲秋韵,wind and bamboo strike autumn rhythm,风竹,wind and bamboo,夜深风竹敲秋韵,Nature,real,FALSE,114.140711,33.7601275,T
+Northern Song,玉楼春,欧阳修,万叶千声,"ten thousand leaves, a thousand sounds",叶,leaves,万叶千声皆是恨,Nature,real,FALSE,114.140711,33.7601275,T
+Southern Song,风入松,俞国宝,骄嘶,proudly neigh,玉骢,jade-white horse,玉骢惯识西湖路，骄嘶过、沽酒垆前。,Animal,real,FALSE,120.14,30.26,T
+Southern Song,风入松,俞国宝,箫鼓,flute and drum,箫鼓,flute and drum,红杏香中箫鼓，绿杨影里秋千。,Instrument,real,FALSE,120.14,30.26,T
+Southern Song,绮罗香,史达祖,翦灯深夜语,"trimming the lamp, talking deep into the night",语,speech,记当日、门掩梨花，翦灯深夜语。,Human,memory,FALSE,120.16,30.29,F
+Southern Song,双双燕,史达祖,软语,soft speech,燕,swallows,又软语、商量不定,Animal,real,FALSE,120.16,30.29,F
+Southern Song,喜迁莺,史达祖,忍听东风笛,bear to hear the east wind flute,笛,flute,老了杜郎，忍听东风笛,Instrument,memory,FALSE,120.16,30.29,T
+Southern Song,三姝媚,史达祖,凤弦常下,phoenix strings often lowered,凤弦,phoenix strings (zither strings),锦瑟横床，想泪痕尘影，凤弦常下。,Instrument,memory,FALSE,120.16,30.29,F
+Southern Song,夜合花,史达祖,歌边,by the singing,歌,singing,曾在歌边惹恨,Human,memory,FALSE,120.16,30.29,F
+Southern Song,八归,史达祖,歌眉舒绿,singing eyebrows relax green,歌,song,赖有歌眉舒绿,Human,real,FALSE,115.89,38.88,T
+Southern Song,玉胡蝶・玉蝴蝶,史达祖,犹抱凉蝉,still holding the cool cicada,凉蝉,cool cicada,可怜闲叶，犹抱凉蝉,Animal,real,FALSE,114.26,30.59,T
+Southern Song,玉胡蝶・玉蝴蝶,史达祖,吟思又接愁边,chanting thoughts connect to sorrow's edge,吟思,chanting thoughts,短景归秋，吟思又接愁边,Human,real,FALSE,114.26,30.59,T
+Southern Song,玉胡蝶・玉蝴蝶,史达祖,漏初长,the water clock begins to lengthen,漏,water clock,漏初长、梦魂难禁,Environment,real,FALSE,114.26,30.59,T
+Southern Song,玉胡蝶・玉蝴蝶,史达祖,啼蛄搅夜,the crying mole cricket disturbs the night,啼蛄,crying mole cricket,无端。啼蛄搅夜,Animal,real,FALSE,114.26,30.59,T
+Southern Song,玉胡蝶・玉蝴蝶,史达祖,一笛当楼,a flute facing the tower,笛,flute,一笛当楼，谢娘悬泪立风前,Instrument,real,FALSE,114.26,30.59,T
+Southern Song,秋霁,史达祖,夜闻秋声,hear the sound of autumn at night,秋声,sound of autumn,夜闻秋声，吹动岑寂,Nature,real,FALSE,114.26,30.59,T
+Southern Song,秋霁,史达祖,露蛩悲,dew crickets mourn,蛩,cricket,露蛩悲、清灯冷屋,Animal,real,FALSE,114.26,30.59,T
+Southern Song,宴清都,卢祖皋,雁阔云音,"wild geese distant, cloud sounds",雁,wild geese,新来雁阔云音，鸾分槛影，无计重见,Animal,memory,TRUE,120.16,30.29,F
+Southern Song,江城子,卢祖皋,无处觅箫声,nowhere to find the sound of the flute,箫声,flute sound,天阔云闲，无处觅箫声。,Instrument,real,TRUE,120.16,30.29,T
+Southern Song,小重山,章良能,碎鸣禽,fragmented chirping of birds,禽,birds,雨馀风软碎鸣禽,Animal,real,FALSE,120.16,30.29,F
+Southern Song,满庭芳,张,静听寒声断续,quietly listening to the cold sound intermittently,寒声,cold sound (insect chirping),静听寒声断续,Animal,real,FALSE,116.767473,28.6925065,T
+Southern Song,满庭芳,张,微韵转、凄咽悲沈,"subtle tones turning, sobbing and sinking in sorrow",微韵,subtle tones (insect chirping),微韵转、凄咽悲沈,Animal,real,FALSE,116.767473,28.6925065,T
+Southern Song,满庭芳,张,敛步随音,treading lightly following the sound,音,sound (insect chirping),敛步随音,Animal,memory,FALSE,116.767473,28.6925065,T
+Southern Song,满庭芳,张,凉夜伴孤吟,on a cool night accompanying lonely chanting,孤吟,lonely chanting,凉夜伴孤吟,Human,real,FALSE,116.767473,28.6925065,T
+Southern Song,浣溪沙,吴文英,无语,without words,燕,swallow,夕阳无语燕归愁,Animal,real,TRUE,120.586673,30.036519,T
+Southern Song,浣溪沙,吴文英,无声,without sound,落絮,falling willow catkins,落絮无声春堕泪,Nature,real,TRUE,120.586673,30.036519,T
+Southern Song,点绛唇,吴文英,笙歌,reed pipe songs,笙歌,reed pipe music and singing,春梦笙歌里,Instrument,dream,FALSE,120.16,30.23,T
+Southern Song,祝英台近,吴文英,莺声,oriole's song,莺,oriole,有情花影阑干，莺声门径，解留我、霎时凝伫。,Animal,real,FALSE,119.97,30.53,T
+Southern Song,祝英台近,吴文英,笑声转,laughter turns,人,people,有人添烛西窗，不眠侵晓，笑声转、新年莺语。,Human,real,FALSE,119.97,30.53,T
+Southern Song,祝英台近,吴文英,新年莺语,New Year's oriole song,莺,oriole,有人添烛西窗，不眠侵晓，笑声转、新年莺语。,Animal,real,FALSE,119.97,30.53,T
+Northern and Southern Song Transition,烛影摇红,廖世美,波声带雨,wave sound carrying rain,波,waves,晚霁波声带雨,Nature,real,FALSE,113.69,31.26,T
+Northern and Southern Song Transition,凤凰台上忆吹箫,李清照,欲说还休,want to speak but stop,人（词人）,person (poet),多少事、欲说还休,Human,real,TRUE,118.440962,36.778223,T
+Northern and Southern Song Transition,凤凰台上忆吹箫,李清照,千万遍阳关,thousands of times the Yang Pass song,阳关（曲）,Yang Pass (song),明朝，这回去也，千万遍阳关，也即难留,Human,imagination,FALSE,118.440962,36.778223,T
+Northern and Southern Song Transition,永遇乐,李清照,吹梅笛怨,playing the melancholy flute tune 'Plum Blossom',笛,flute,染柳烟浓，吹梅笛怨，春意知几许。,Instrument,real,FALSE,120.161693,30.280059,T
+Northern and Southern Song Transition,永遇乐,李清照,听人笑语,listening to people's laughter and talk,人,people,不如向、帘儿底下，听人笑语。,Human,real,FALSE,120.161693,30.280059,T
+Northern and Southern Song Transition,声声慢,李清照,雁过也,wild geese pass by,雁,wild geese,雁过也，正伤心，却是旧时相识。,Animal,real,FALSE,119.3013275,33.529141,T
+Northern and Southern Song Transition,声声慢,李清照,点点滴滴,drip drop,细雨,fine rain,梧桐更兼细雨，到黄昏、点点滴滴。,Nature,real,FALSE,119.3013275,33.529141,T
+Northern and Southern Song Transition,苏武慢,蔡伸,鸣笳声断,the sound of the reed pipe breaks off,笳,reed pipe,古垒鸣笳声断,Instrument,real,FALSE,116.41,39.91,T
+Northern and Southern Song Transition,苏武慢,蔡伸,败叶萧萧,withered leaves rustle,败叶,withered leaves,败叶萧萧,Nature,real,FALSE,116.41,39.91,T
+Northern and Southern Song Transition,柳梢青,蔡伸,数声鶗鴂,several cries of the cuckoo,鶗鴂,cuckoo,数声鶗鴂。可怜又是，春归时节。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,摸鱼儿,辛弃疾,怨春不语,resent spring not speaking,春,spring,怨春不语,Nature,real,TRUE,117.236762,29.529646,T
+Southern Song,水龙吟,辛弃疾,断鸿声里,in the sound of the broken swan,断鸿,broken swan (a lone swan's cry),落日楼头，断鸿声里，江南游子,Animal,real,FALSE,118.259367,29.3561985,T
+Southern Song,水龙吟,辛弃疾,栏干拍遍,slapping the railings all over,栏干拍遍,slapping the railings,把吴钩看了，栏干拍遍，无人会、登临意,Environment,real,FALSE,118.259367,29.3561985,T
+Southern Song,木兰花慢,辛弃疾,醉来时响空弦,"when drunk, the sound of an empty bowstring rings out",空弦,empty bowstring,目断秋霄落雁，醉来时响空弦。,Environment,imagination,FALSE,115.7053705,30.279967,T
+Southern Song,祝英台令,辛弃疾,流莺声住,oriole's song stops,流莺,oriole,倩谁唤、流莺声住,Animal,real,TRUE,115.86,28.68,T
+Southern Song,祝英台令,辛弃疾,呜咽梦中语,sobbing words in dream,梦中语,words in dream,罗帐灯昏，呜咽梦中语,Human,dream,FALSE,115.86,28.68,T
+Southern Song,青玉案,辛弃疾,凤箫声动,phoenix flute sounds move,凤箫,phoenix flute,凤箫声动，玉壶光转，一夜鱼龙舞。,Instrument,real,FALSE,120.16,30.29,T
+Southern Song,青玉案,辛弃疾,笑语盈盈,laughter and talk abundant,笑语,laughter and talk,蛾儿雪柳黄金缕。笑语盈盈暗香去。,Human,real,FALSE,120.16,30.29,T
+Southern Song,贺新郎,辛弃疾,霓裳曲罢,the Rainbow Garment music ended,霓裳曲,Rainbow Garment music,自开元、霓裳曲罢,Instrument,memory,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,弦解语,the strings understand speech,弦,strings,弦解语，恨难说,Instrument,imagination,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,轻拢慢拈,lightly pluck and slowly strum,拢、拈,plucking and strumming,琐窗寒、轻拢慢拈,Instrument,real,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,一抹梁州哀彻,a stroke of Liangzhou mournful to the core,一抹,a stroke (of the pipa),推手含情还却手，一抹梁州哀彻,Instrument,real,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,弹到此，为呜咽,"playing to this point, becomes sobbing",呜咽,sobbing,弹到此，为呜咽,Human,real,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,鹧鸪声住,partridge sound stops,鹧鸪,partridge,更那堪、鹧鸪声住，杜鹃声切,Animal,real,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,杜鹃声切,cuckoo's urgent cry,杜鹃,cuckoo,更那堪、鹧鸪声住，杜鹃声切,Animal,real,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,悲歌未彻,sad song not yet finished,壮士,hero,正壮士、悲歌未彻,Human,memory,FALSE,116.1952135,27.384061,T
+Southern Song,贺新郎,辛弃疾,啼鸟,singing birds,啼鸟,singing birds,啼鸟还知如许恨,Animal,imagination,FALSE,116.1952135,27.384061,T
+Northern Song,绿头鸭・多丽,贺铸,彩箫流怨,colorful flute flows with sorrow,彩箫,colorful flute,托微风、彩箫流怨，断肠马上曾闻。,Instrument,memory,FALSE,114.31,34.79,T
+Northern Song,绿头鸭・多丽,贺铸,断肠马上曾闻,"heartbroken, once heard on horseback",彩箫,colorful flute,托微风、彩箫流怨，断肠马上曾闻。,Instrument,memory,FALSE,114.31,34.79,T
+Northern Song,绿头鸭・多丽,贺铸,调琴思,tuning the qin's thoughts,琴,qin (zither),燕堂开、艳妆丛里，调琴思、认歌颦。,Instrument,real,FALSE,114.31,34.79,T
+Northern Song,绿头鸭・多丽,贺铸,认歌颦,recognizing the song's frown,歌,song,燕堂开、艳妆丛里，调琴思、认歌颦。,Human,real,FALSE,114.31,34.79,T
+Northern Song,绿头鸭・多丽,贺铸,疏钟,sparse bell,钟,bell,回廊影，疏钟淡月，几许销魂。,Environment,real,FALSE,114.31,34.79,T
+Northern Song,水龙吟,晁补之,狂歌似旧,wild singing as before,歌,singing,纵樽前痛饮，狂歌似旧，情难依旧,Human,real,FALSE,118.2125845,32.4328105,T
+Northern Song,瑞龙吟,周邦彦,盈盈笑语,light laughter and talk,人,person,侵晨浅约宫黄，障风映袖，盈盈笑语。,Human,memory,FALSE,114.313904,34.802941,T
+Northern Song,瑞龙吟,周邦彦,歌舞,singing and dancing,人,person,前度刘郎重到，访邻寻里，同时歌舞。,Human,memory,FALSE,114.313904,34.802941,T
+Northern Song,瑞龙吟,周邦彦,声价如故,fame remains as before,秋娘,Qiu Niang (a singer),唯有旧家秋娘，声价如故。,Human,memory,FALSE,114.313904,34.802941,T
+Northern Song,锁窗寒・琐寒窗,周邦彦,啼鸦,cawing crows,鸦,crow,暗柳啼鸦,Animal,real,FALSE,114.31,34.79,T
+Northern Song,锁窗寒・琐寒窗,周邦彦,愁雨,sorrowful rain,雨,rain,静锁一庭愁雨,Nature,real,FALSE,114.31,34.79,T
+Northern Song,锁窗寒・琐寒窗,周邦彦,剪烛西窗语,talk by the west window while trimming the candle,语,speech,故人剪烛西窗语,Human,memory,FALSE,114.31,34.79,T
+Northern Song,锁窗寒・琐寒窗,周邦彦,唤酒,call for wine,唤,call,旗亭唤酒,Human,memory,FALSE,114.31,34.79,T
+Northern Song,风流子,周邦彦,曾听得理丝簧,once heard the playing of silk and reed instruments,丝簧,silk and reed instruments,绣阁凤帏深几许，曾听得理丝簧。,Instrument,memory,FALSE,115.5250555,31.2026705,T
+Northern Song,风流子,周邦彦,未歌先咽,"before singing, first choked with sobs",歌,singing,欲说又休，虑乖芳信，未歌先咽，愁近清觞。,Human,real,FALSE,115.5250555,31.2026705,T
+Northern Song,解连环,周邦彦,信音辽邈,news and sounds are distant and vague,信音,news/sounds (of the lover),嗟情人断绝，信音辽邈。,Human,memory,TRUE,114.31,34.79,F
+Northern Song,解连环,周邦彦,当日音书,past sounds and letters,音书,sounds and letters (messages),谩记得、当日音书，把闲语闲言，待总烧却。,Human,memory,FALSE,114.31,34.79,F
+Northern Song,瑞鹤仙,周邦彦,流莺劝我,wandering oriole urges me,流莺,wandering oriole,有流莺劝我，重解绣鞍，缓引春酌。,Animal,real,FALSE,119.42,32.39,T
+Northern Song,瑞鹤仙,周邦彦,惊飙动幕,startling gale moves the curtain,惊飙,startling gale,惊飙动幕。,Nature,real,FALSE,119.42,32.39,T
+Northern Song,浪涛沙・浪淘沙,周邦彦,耿耿寒漏咽,the cold water-clock sobs persistently,寒漏,cold water-clock,向露冷风清，无人处、耿耿寒漏咽。,Environment,real,FALSE,114.31,34.79,T
+Northern Song,浪涛沙・浪淘沙,周邦彦,怨歌永,the plaintive song lingers,怨歌,plaintive song,怨歌永、琼壶敲尽缺。,Human,real,FALSE,114.31,34.79,T
+Northern Song,浪涛沙・浪淘沙,周邦彦,琼壶敲尽缺,the jade pot is struck until it is chipped,琼壶,jade pot,怨歌永、琼壶敲尽缺。,Instrument,real,FALSE,114.31,34.79,T
+Northern Song,满庭芳,周邦彦,新绿溅溅,new green splashing sound,水,water,小桥外、新绿溅溅,Nature,real,FALSE,119.05,31.65,T
+Northern Song,满庭芳,周邦彦,不堪听、急管繁弦,cannot bear to hear the urgent pipes and numerous strings,急管繁弦,urgent pipes and numerous strings,憔悴江南倦客，不堪听、急管繁弦,Instrument,real,FALSE,119.05,31.65,T
+Northern Song,满庭芳,周邦彦,歌筵畔,beside the singing feast,歌,singing,歌筵畔，先安簟枕，容我醉时眠,Human,real,FALSE,119.05,31.65,T
+Northern Song,过秦楼,周邦彦,马声初断,horse sounds just ceased,马,horse,巷陌马声初断,Animal,real,TRUE,119.05,31.65,F
+Northern Song,过秦楼,周邦彦,叶喧凉吹,leaves rustle in cool breeze,叶,leaves,叶喧凉吹,Nature,real,FALSE,119.05,31.65,F
+Northern Song,夜游宫,周邦彦,听几片、井桐飞坠,hear a few pieces of parasol leaves falling from the well,井桐飞坠,falling parasol leaves from the well,听几片、井桐飞坠,Nature,real,FALSE,114.31,34.79,F
+Northern Song,解语花,周邦彦,箫鼓喧,flutes and drums clamor,箫鼓,flutes and drums,箫鼓喧，人影参差，满路飘香麝。,Instrument,real,FALSE,121.556686,29.880177,T
+Northern Song,解语花,周邦彦,歌罢,singing ends,歌,singing,清漏移，飞盖归来，从舞休歌罢。,Human,real,FALSE,121.556686,29.880177,T
+Northern Song,大酺,周邦彦,飞雨时鸣高屋,flying rain sometimes sounds on the high roof,飞雨,flying rain,对宿烟收，春禽静，飞雨时鸣高屋。,Nature,real,FALSE,,,
+Northern Song,大酺,周邦彦,听檐声不断,listen to the continuous sound of eaves,檐声,sound of eaves (rain dripping),邮亭无人处，听檐声不断，困眠初熟。,Nature,real,FALSE,,,
+Northern Song,大酺,周邦彦,笛中哀曲,sad tune in the flute,笛,flute,未怪平阳客，双泪落、笛中哀曲。,Instrument,imagination,FALSE,,,
+Northern Song,大酺,周邦彦,春禽静,spring birds are quiet,春禽,spring birds,对宿烟收，春禽静，飞雨时鸣高屋。,Animal,real,TRUE,,,
+Northern Song,花犯,周邦彦,吟望久,chanting and gazing for a long time,吟,chanting,吟望久，青苔上、旋看飞坠。,Human,real,FALSE,118.802891,32.064735,T
+Northern Song,六丑,周邦彦,时叩窗隔,sometimes tapping on the window lattice,蜂媒蝶使,bees and butterflies,但蜂媒蝶使，时叩窗隔,Animal,real,FALSE,,,
+Northern Song,六丑,周邦彦,成叹息,heaves a sigh,人,person (the speaker),静绕珍丛底，成叹息,Human,real,FALSE,,,
+Northern Song,六丑,周邦彦,莫趁潮汐,do not follow the tides,潮汐,tides,漂流处、莫趁潮汐,Nature,imagination,TRUE,,,
+Northern Song,兰陵王,周邦彦,哀弦,sad strings,弦,strings,又酒趁哀弦，灯照离席。,Instrument,real,FALSE,114.577442,38.152193,T
+Northern Song,兰陵王,周邦彦,闻笛,hear flute,笛,flute,念月榭携手，露桥闻笛。,Instrument,memory,FALSE,114.577442,38.152193,T
+Northern Song,西河,周邦彦,怒涛寂寞打孤城,angry waves lonely beat the solitary city,怒涛,angry waves,怒涛寂寞打孤城,Nature,real,FALSE,114.313904,34.802941,T
+Northern Song,西河,周邦彦,酒旗戏鼓甚处市,"wine banners and theatrical drums, what market place?",戏鼓,theatrical drums,酒旗戏鼓甚处市,Instrument,memory,FALSE,114.313904,34.802941,T
+Northern Song,西河,周邦彦,相对如说兴亡,facing each other as if speaking of rise and fall,燕子,swallows,相对如说兴亡,Animal,imagination,FALSE,114.313904,34.802941,T
+Northern Song,绮寮怨,周邦彦,叹息,sigh,人（诗人）,person (poet),徘徊久、叹息愁思盈。,Human,real,FALSE,112.24722,30.340606,T
+Northern Song,绮寮怨,周邦彦,旧曲凄清,"old tune, desolate and clear",旧曲,old tune,旧曲凄清。敛愁黛、与谁听。,Instrument,memory,FALSE,112.24722,30.340606,T
+Northern Song,绮寮怨,周邦彦,与谁听,with whom to listen,旧曲,old tune,旧曲凄清。敛愁黛、与谁听。,Instrument,memory,TRUE,112.24722,30.340606,T
+Northern Song,绮寮怨,周邦彦,歌声,singing voice,歌声,singing voice,歌声未尽处，先泪零。,Human,imagination,FALSE,112.24722,30.340606,T
+Northern Song,拜星月・拜星月慢,周邦彦,秋虫叹,autumn insects sigh,秋虫,autumn insects,重门闭、败壁秋虫叹,Animal,real,FALSE,114.31,34.79,T
+Northern Song,蝶恋花,周邦彦,惊乌栖不定,startled crows cannot settle,乌,crows,月皎惊乌栖不定,Animal,real,FALSE,,,
+Northern Song,蝶恋花,周邦彦,辘轳牵金井,windlass pulls the golden well,辘轳,windlass,更漏将残，辘轳牵金井,Environment,real,FALSE,,,
+Northern Song,蝶恋花,周邦彦,别语愁难听,parting words sorrowful hard to hear,别语,parting words,去意徊徨，别语愁难听,Human,real,FALSE,,,
+Northern Song,蝶恋花,周邦彦,鸡相应,cocks respond to each other,鸡,roosters,露寒人远鸡相应,Animal,real,FALSE,,,
+Northern Song,夜飞鹊・夜飞鹊慢,周邦彦,探风前津鼓,listen for the ferry drum in the wind,津鼓,ferry drum,相将散离会，探风前津鼓，树杪参旗。,Environment,real,FALSE,119.05,31.65,T
+Northern Song,夜飞鹊・夜飞鹊慢,周邦彦,人语渐无闻,human voices gradually become inaudible,人语,human voices,迢递路回清野，人语渐无闻，空带愁归。,Human,real,TRUE,119.05,31.65,T
+Northern Song,夜飞鹊・夜飞鹊慢,周邦彦,欷酹酒,sighing and pouring wine,欷,sigh,但徘徊班草，欷酹酒，极望天西。,Human,real,FALSE,119.05,31.65,T
+Northern Song,关河令・清商怨,周邦彦,伫听寒声,standing listening to the cold sound,寒声,cold sound,伫听寒声，云深无雁影。,Nature,real,FALSE,,,
+Northern Song,关河令・清商怨,周邦彦,人去寂静,"people gone, silent",人,people,更深人去寂静。,Human,real,TRUE,,,
+Northern Song,南浦,孔夷,风悲画角,wind sorrows painted horn,画角,painted horn,风悲画角,Instrument,real,FALSE,115.89,41.8,F
+Northern Song,南浦,孔夷,听单于、三弄落谯门,"listen to the Tanyu tune, three variations falling from the watchtower gate",单于,Tanyu tune (a melody),听单于、三弄落谯门,Instrument,real,FALSE,115.89,41.8,F
+Northern Song,南浦,孔夷,敲窗,knocking on the window,乱叶,chaotic leaves,正敲窗、乱叶舞纷纷,Nature,real,FALSE,115.89,41.8,F
+Northern Song,南浦,孔夷,送数声惊雁,send off several sounds of startled geese,惊雁,startled geese,送数声惊雁，下离烟水，嘹唳度寒云,Animal,real,FALSE,115.89,41.8,F
+Northern Song,南浦,孔夷,嘹唳度寒云,loud and clear cries crossing cold clouds,惊雁,startled geese,送数声惊雁，下离烟水，嘹唳度寒云,Animal,real,FALSE,115.89,41.8,F
+Southern Song,眉妩,王沂孙,休问,do not ask,人,people,千古盈亏休问,Human,imagination,TRUE,120.58,30.01,T
+Southern Song,齐天乐,王沂孙,乍咽凉柯,suddenly sobbing on the cold branch,宫魂（蝉）,cicada (palace soul),乍咽凉柯，还移暗叶，重把离愁深诉。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,齐天乐,王沂孙,重把离愁深诉,again pouring out deep parting sorrow,宫魂（蝉）,cicada (palace soul),乍咽凉柯，还移暗叶，重把离愁深诉。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,齐天乐,王沂孙,玉筝调柱,tuning the jade zither's pegs,玉筝,jade zither,西窗过雨。怪瑶佩流空，玉筝调柱。,Instrument,real,FALSE,120.16,30.29,F
+Southern Song,齐天乐,王沂孙,馀音更苦,the lingering sound is even more bitter,宫魂（蝉）,cicada (palace soul),馀音更苦。甚独抱清高，顿成凄楚。,Animal,real,FALSE,120.16,30.29,F
+Southern Song,高阳台,王沂孙,霏霏玉管春葭,whistling sound of jade pipes and spring reeds,玉管春葭,jade pipes and spring reeds,残雪庭阴，轻寒帘影，霏霏玉管春葭。,Instrument,real,FALSE,120.58,30.01,F
+Southern Song,紫萸香慢,姚云文,歌罢涕零,"after singing, tears fall",歌,singing,歌罢涕零,Human,real,FALSE,116.39,39.9,F
+Southern Song,贺新郎,蒋捷,叹秦筝、斜鸿阵里，素弦尘扑,"sigh over the Qin zheng, among the slanting wild geese formation, plain strings covered with dust",秦筝,Qin zheng (a type of zither),叹秦筝、斜鸿阵里，素弦尘扑,Instrument,memory,FALSE,120.589613,31.304566,T
+Southern Song,贺新郎,蒋捷,彩扇红牙今都在，恨无人、解听开元曲,"colorful fan and red clappers are still here, but regret no one understands to listen to the Kaiyuan tune",开元曲,Kaiyuan tune (a musical piece from the Kaiyuan era),彩扇红牙今都在，恨无人、解听开元曲,Instrument,imagination,TRUE,120.589613,31.304566,T
+Southern Song,女冠子,蒋捷,一片笙箫,a whole stretch of sheng and xiao music,笙箫,sheng and xiao (Chinese wind instruments),一片笙箫，琉璃光射。,Instrument,memory,FALSE,119.82,31.36,T
+Southern Song,女冠子,蒋捷,犹唱,still singing,邻女,neighbor girl,笑绿鬟邻女，倚窗犹唱，夕阳西下。,Human,real,FALSE,119.82,31.36,T
+Southern Song,瑞鹤仙,蒋捷,断鼓零钟,broken drum and scattered bell,鼓钟,drum and bell,渐断鼓零钟，街喧初息。,Environment,real,FALSE,119.82,31.36,T
+Southern Song,瑞鹤仙,蒋捷,街喧初息,street noise just subsided,街喧,street noise,渐断鼓零钟，街喧初息。,Environment,real,FALSE,119.82,31.36,T
+Southern Song,瑞鹤仙,蒋捷,琼瑰暗泣,jade-like gems secretly weep,琼瑰,jade-like gems (metaphor for tears),琼瑰暗泣。,Human,real,FALSE,119.82,31.36,T
+Southern Song,瑞鹤仙,蒋捷,红楼夜笛,night flute from the red chamber,笛,flute,休照红楼夜笛。,Instrument,imagination,TRUE,119.82,31.36,T
+Southern Song,渡江云,张炎,风急暮潮初,"wind urgent, evening tide begins",风,wind,山空天入海，倚楼望极，风急暮潮初。,Nature,real,FALSE,120.58,30.01,T
+Southern Song,解连环,张炎,暮雨相呼,evening rain calls to each other,暮雨,evening rain,暮雨相呼，怕蓦地、玉关重见,Nature,imagination,FALSE,112.15,30.6,F
+Southern Song,月下笛,张炎,难听夜雨,hard to listen to the night rain,夜雨,night rain,第一是、难听夜雨,Nature,memory,FALSE,122.1,30.02,T
+Southern Song,月下笛,张炎,拥衾谁语,who to talk to while hugging the quilt,语,speech,拥衾谁语,Human,real,FALSE,122.1,30.02,T
+Northern and Southern Song Transition,贺新郎,叶梦得,啼莺语,orioles singing,莺,oriole,睡起啼莺语,Animal,real,FALSE,119.19,32.27,T
+Northern and Southern Song Transition,贺新郎,叶梦得,唱金缕,sing Golden Thread,人,person,谁为我，唱金缕,Human,imagination,FALSE,119.19,32.27,T
+Northern and Southern Song Transition,喜迁莺,刘一止,晓光催角,dawn light urges the horn,角,horn,晓光催角,Instrument,real,FALSE,119.9,30.88,T
+Northern and Southern Song Transition,喜迁莺,刘一止,听宿鸟未惊,hear the roosting birds not startled,宿鸟,roosting birds,听宿鸟未惊,Animal,real,TRUE,119.9,30.88,T
+Northern and Southern Song Transition,喜迁莺,刘一止,邻鸡先觉,neighbor's rooster first aware,邻鸡,neighbor's rooster,邻鸡先觉,Animal,real,FALSE,119.9,30.88,T
+Northern and Southern Song Transition,喜迁莺,刘一止,马嘶人起,"horses neigh, people rise",马嘶,horse neighing,马嘶人起,Animal,real,FALSE,119.9,30.88,T
+Northern and Southern Song Transition,点绛唇,汪藻,乱鸦啼後,after the crows caw in disorder,乱鸦,disorderly crows,乱鸦啼後,Animal,memory,FALSE,118.762888,30.951983,T
+Northern and Southern Song Transition,三台,万俟咏,莺儿百啭,orioles warbling a hundred times,莺儿,orioles,乍莺儿百啭断续，燕子飞来飞去。,Animal,real,FALSE,114.31,34.79,T
+Northern Song,江神子慢・江城子慢,田为,楼外孤鸿声渐远,"outside the tower, the sound of a lone swan gradually fades",孤鸿,lone swan,楼外孤鸿声渐远,Animal,real,FALSE,,,
+Northern Song,江神子慢・江城子慢,田为,画角黄昏时节,painted horn at dusk,画角,painted horn (military instrument),消魂处、画角黄昏时节,Instrument,real,FALSE,,,
+Northern Song,江神子慢・江城子慢,田为,声呜咽,the sound sobs,画角,painted horn,声呜咽,Instrument,real,FALSE,,,
+Northern and Southern Song Transition,菩萨蛮,陈克,簸钱声,sound of tossing coins,簸钱,tossing coins,几处簸钱声,Environment,real,FALSE,120.16,30.29,F
+Northern and Southern Song Transition,鹧鸪天,周紫芝,梧桐叶上三更雨,rain on wutong leaves at midnight,雨,rain,梧桐叶上三更雨，叶叶声声是别离。,Nature,real,FALSE,,,
+Northern and Southern Song Transition,鹧鸪天,周紫芝,叶叶声声是别离,every leaf and every sound is parting,雨声,rain sound,梧桐叶上三更雨，叶叶声声是别离。,Nature,real,FALSE,,,
+Northern and Southern Song Transition,鹧鸪天,周紫芝,调宝瑟,tune the precious zither,宝瑟,precious zither,调宝瑟，拨金猊。那时同唱鹧鸪词。,Instrument,memory,FALSE,,,
+Northern and Southern Song Transition,鹧鸪天,周紫芝,同唱鹧鸪词,together sing the partridge song,人声,human voice,调宝瑟，拨金猊。那时同唱鹧鸪词。,Human,memory,FALSE,,,
+Northern and Southern Song Transition,鹧鸪天,周紫芝,不听清歌,not hear the clear song,清歌,clear song,如今风雨西楼夜，不听清歌也泪垂。,Human,real,TRUE,,,
+Southern Song,秦楼月・忆秦娥,范成大,催漏金虬咽,"urging the water-clock, the golden dragon sobs",金虬,golden dragon (water-clock spout),隔烟催漏金虬咽,Environment,real,FALSE,111.31,29.13,T
+Southern Song,六州歌头,张孝祥,悄边声,silent border sounds,边声,border sounds,征尘暗，霜风劲，悄边声。,Environment,real,TRUE,118.802891,32.064735,T
+Southern Song,六州歌头,张孝祥,笳鼓悲鸣,reed pipes and drums sadly sound,笳鼓,reed pipes and drums,看名王宵猎，骑火一川明。笳鼓悲鸣。,Instrument,real,FALSE,118.802891,32.064735,T
+Southern Song,念奴娇,张孝祥,扣舷独笑,tap the gunwale and laugh alone,笑,laughter,扣舷独笑，不知今夕何夕。,Human,real,FALSE,114.5496665,28.672314,T
